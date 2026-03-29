@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "pages": "155-164",
+    "description": "Activity book for sixth grade preparatory students covering natural resources, renewable energy, environmental issues, prefixes and suffixes, passive voice, and conditional sentences"
+  },
+  "sections": [
+    {
+      "id": "natural_resources_vocabulary",
+      "title": "Lesson 1: Our Natural Resources - Vocabulary",
+      "definition": "Natural resources are materials from nature that are essential to human life. They can be renewable (can be replaced) or non-renewable (cannot be replaced once used).",
+      "explanation": "Key terms: efficiently (working well and quickly), essential (extremely necessary), logging (cutting down trees for wood), wisely (in a sensible manner).",
+      "rules": null,
+      "notes": "Renewable resources: can be used again and again (wind, solar, water). Non-renewable resources: cannot be replaced once used (oil, coal, gas).",
+      "examples": [
+        {
+          "problem": "Why are natural resources essential to human life?",
+          "solution": "Natural resources provide energy, food, materials for shelter, and other necessities for survival."
+        },
+        {
+          "problem": "What is the difference between a renewable and a non-renewable resource?",
+          "solution": "Renewable resources can be replaced naturally over time, while non-renewable resources cannot be replaced once used."
+        }
+      ]
+    },
+    {
+      "id": "prefixes_and_suffixes",
+      "title": "Lesson 1: Prefixes and Suffixes",
+      "definition": "Learning prefixes and suffixes can help you understand and remember new words. The prefix de- means to remove, reduce, or undo. The suffix -ation means an action or process.",
+      "explanation": "For example, deforestation means the action of removing or reducing a forest. The opposites of many words are formed with the prefix dis- (like/dislike, approve/disapprove, obey/disobey, advantage/disadvantage).",
+      "rules": "Prefix de- = remove/reduce/undo. Suffix -ation = action/process. Prefix dis- = opposite/not.",
+      "notes": "Examples: deoxygenation (removal of oxygen), depopulation (reduction of population), devaluation (reduction in value), disagreement (opposite of agreement).",
+      "examples": [
+        {
+          "problem": "If you distrust someone, you...",
+          "solution": "don't have confidence in them."
+        },
+        {
+          "problem": "If you disconnect your TV, you...",
+          "solution": "can't see the picture anymore."
+        }
+      ]
+    },
+    {
+      "id": "passive_voice_recycling",
+      "title": "Lesson 2: Passive Voice - Recycling Process",
+      "definition": "The passive voice is used to focus on the action rather than who performs it. It is often used in describing processes like recycling.",
+      "explanation": "Passive voice formation: be + past participle. For example: waste is collected, it is sorted, it is processed.",
+      "rules": "Passive voice: subject + be (in appropriate tense) + past participle (+ by + agent). Used when the doer is unknown, unimportant, or obvious from context.",
+      "notes": "Key vocabulary: bury (put in ground and cover with earth), waste (useless materials left after use), pollution (damaging air/water/land with chemicals), encourage (suggest something good).",
+      "examples": [
+        {
+          "problem": "A lot of energy ______ (save) when people remember to turn off lights.",
+          "solution": "is saved"
+        },
+        {
+          "problem": "New recycling bins ______ (provide) by the local council last year.",
+          "solution": "were provided"
+        }
+      ]
+    },
+    {
+      "id": "recycling_process_flow",
+      "title": "Lesson 2: Recycling Process Flow Chart",
+      "definition": "Describing a recycling process using the passive voice in sequential order.",
+      "explanation": "The recycling process follows a sequence: collection, sorting, processing, manufacturing into new products.",
+      "rules": "Use passive voice to describe each step: First, the waste is collected. Then, it is sorted. Next, it is processed. Finally, it is turned into new products.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "First, the waste ______",
+          "solution": "is collected"
+        },
+        {
+          "problem": "Finally, glass, paper and plastic ______",
+          "solution": "can be recycled into new products"
+        }
+      ]
+    },
+    {
+      "id": "wind_energy",
+      "title": "Lesson 3: Wind Power - A Renewable Resource",
+      "definition": "Wind power has been used for thousands of years to pump water, grind grain, and generate electricity. It is a renewable resource that produces no greenhouse gases.",
+      "explanation": "Wind turbines convert wind energy into electricity. They can be built on land or offshore. Wind is caused by changes in temperature in the atmosphere.",
+      "rules": null,
+      "notes": "Key vocabulary: natural resource (material from nature), power (give energy to make something work), greenhouse gases (substances in atmosphere that harm environment), renewable (can be used again and again), supply (provide), rely on (depend on), spoil (ugly/ruin appearance).",
+      "examples": [
+        {
+          "problem": "In what ways has wind power been used for thousands of years?",
+          "solution": "Wind power has been used to pump water, grind grain, and sail boats."
+        },
+        {
+          "problem": "What two complaints do people who live near wind turbines have?",
+          "solution": "They complain about the noise and that wind turbines spoil the landscape."
+        }
+      ]
+    },
+    {
+      "id": "conditionals_review",
+      "title": "Lesson 3: Conditional Sentences Review",
+      "definition": "Review of zero, first, second, and third conditionals in the context of environmental topics.",
+      "explanation": "Zero conditional: facts and general truths (if + present, present). First conditional: real possibilities (if + present, will). Second conditional: unreal present/future (if + past, would). Third conditional: unreal past (if + past perfect, would have).",
+      "rules": "Zero: If + present simple, present simple. First: If + present simple, will + infinitive. Second: If + past simple, would + infinitive. Third: If + past perfect, would have + past participle.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "If they ______ (build) more wind farms on the coast, they would scare away the fish.",
+          "solution": "built (second conditional)"
+        },
+        {
+          "problem": "If we ______ (find) alternative sources of energy, we will be able to meet all our energy needs.",
+          "solution": "find (first conditional)"
+        }
+      ]
+    },
+    {
+      "id": "euphrates_river",
+      "title": "Lesson 4: The Euphrates River",
+      "definition": "The Euphrates is one of the most important rivers in the Middle East, flowing through Turkey, Syria, and Iraq. It has been a vital water source for thousands of years.",
+      "explanation": "The Euphrates River is approximately 2,800 km long. It begins in Turkey and ends at the Shatt al-Arab. Dams along the river are used for irrigation, hydroelectric power, and flood control.",
+      "rules": null,
+      "notes": "Key vocabulary: higher (opposite of lower), gorges (deep valleys), shallow (opposite of deep), birthplace (where someone or something was born), ancient (from long ago), ruins (remains of a building), banks (sides of a river), dam (barrier to control water flow), reservoir (area that contains water), crops (cotton, wheat, barley, etc.).",
+      "examples": [
+        {
+          "problem": "How long is the Euphrates River?",
+          "solution": "Approximately 2,800 km."
+        },
+        {
+          "problem": "What countries does the Euphrates flow through?",
+          "solution": "Turkey, Syria, and Iraq."
+        }
+      ]
+    },
+    {
+      "id": "test_vocabulary",
+      "title": "Test: Environmental Vocabulary",
+      "definition": "Test covering key environmental vocabulary and grammar concepts.",
+      "explanation": "Complete sentences using vocabulary related to natural resources, environmental issues, and conservation.",
+      "rules": null,
+      "notes": "Key vocabulary: deforestation, limit, renewable, replace, wisely, essential, buried, spoil",
+      "examples": [
+        {
+          "problem": "If ______ continues, many species of animal will disappear completely.",
+          "solution": "deforestation"
+        },
+        {
+          "problem": "Wind is a ______ source of energy.",
+          "solution": "renewable"
+        }
+      ]
+    },
+    {
+      "id": "test_grammar",
+      "title": "Test: Grammar Review - Present Perfect, Past Simple, Present Perfect Continuous",
+      "definition": "Test covering correct usage of present perfect, past simple, and present perfect continuous tenses.",
+      "explanation": "Choose the correct verb form based on time context and connection to present.",
+      "rules": "Present perfect: experience, recent past with present result, unfinished time. Past simple: completed past with specific time. Present perfect continuous: ongoing action from past to present.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "We ______ (finish) just the meeting.",
+          "solution": "have just finished"
+        },
+        {
+          "problem": "Scientists ______ (study) climate change for decades now.",
+          "solution": "have been studying"
+        }
+      ]
+    },
+    {
+      "id": "global_warming_essay_notes",
+      "title": "Test: Global Warming Essay Notes",
+      "definition": "Notes for writing an essay on global warming, organized by topic headings.",
+      "explanation": "Topics: What is global warming? Possible causes of global warming. Effects of global warming. What can we do?",
+      "rules": "Essay structure: Introduction (define global warming), Causes (greenhouse gases, human activities), Effects (glaciers melting, sea level rise, habitat loss), Solutions (reduce petrol use, save electricity, recycling).",
+      "notes": "Key points: average increase in Earth's temperature, CO2 and greenhouse gases, glaciers melting, car-pooling, recycling, saving electricity.",
+      "examples": [
+        {
+          "problem": "Match with 'What is global warming?'",
+          "solution": "global warming - average increase in Earth's temperature (recorded over many years); scientists agree the Earth is getting warmer"
+        },
+        {
+          "problem": "Match with 'What can we do?'",
+          "solution": "use less petrol by car-pooling; save electricity - turn off lights; recycling"
+        }
+      ]
+    }
+  ]
+}

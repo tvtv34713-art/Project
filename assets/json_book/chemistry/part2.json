@@ -1,0 +1,500 @@
+[
+    {
+        "pages_range": "51 to 60",
+        "data": {
+            "chapter": {
+                "title_arabic": "الفصل الثاني",
+                "section_title_arabic": "الاتزان الكيميائي",
+                "title_english": "Chapter Two",
+                "section_title_english": "Chemical Equilibrium",
+                "learning_objectives": {
+                    "heading": "بعد الانتهاء من دراسة هذا الفصل يتوقع من الطالب أن :",
+                    "objectives": [
+                        "يميز بين التفاعلات الانعكاسية وغير الانعكاسية.",
+                        "يفهم كيفية وصول التفاعل إلى حالة الاتزان.",
+                        "يحدد ثوابت الاتزان $K_c$ و $K_p$ والعلاقة بينهما.",
+                        "يتعلم أهمية قيمة ثابت الاتزان لتحديد اتجاه التفاعل.",
+                        "يعين العلاقة بين ثابت الاتزان وطريقة كتابة المعادلة.",
+                        "يحدد حاصل التفاعل وأهميته.",
+                        "يتعرف على قاعدة لو شاتليه وتأثير العوامل المؤثرة على حالة الاتزان وقيمة ثابت الاتزان."
+                    ]
+                }
+            },
+            "sections": [
+                {
+                    "id": "1-2",
+                    "title_arabic": "التفاعلات الانعكاسية والانعكاسية",
+                    "title_english": "Irreversible and Reversible Reactions",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "التفاعل الكيميائي هو عملية تحول فيها مادة واحدة أو أكثر إلى مواد جديدة تختلف في صفاتها عن المادة أو المواد التي تفاعلت في البداية. وقد اعتدنا التعبير عن التفاعل الكيميائي بالمعادلة الكيميائية، والتي هي اختصار علمي يمثل التحول الحاصل في المواد المتفاعلة للحصول على النواتج، ويمثل السهم في المعادلة اتجاه التفاعل."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "تقسم التفاعلات الكيميائية حسب اتجاه التفاعل الى تفاعلات تامة والتي تسمى تفاعلات غير انعكاسية (Irreversible reactions)، التي يتم فيها استهلاك احد أو جميع المواد المتفاعلة تماماً، ويشير ذلك بسهم واحد ($\\longrightarrow$) فعلى سبيل المثال عند احتراق وقود السيارات (البنزين) احتراقاً تاماً ينتج عنه تكوين غاز ثنائي أوكسيد الكاربون وبخار الماء، هذه العملية غير انعكاسية فمن الصعوبة جداً، اذا لم نقل مستحيلة، أن نتمكن من اعادة ثنائي اوكسيد الكاربون وبخار الماء الناتج من هذه العملية الى بنزين مرة اخرى، مثل هذه التغيرات نقول انها حدثت باتجاه واحد وانها تفاعلات تامة غير انعكاسية. ومن أمثلتها:"
+                        },
+                        {
+                            "type": "list",
+                            "items": [
+                                {
+                                    "number": "1",
+                                    "text": "إضافة محلول حامض الكبريتيك الى محلول هيدروكسيد الصوديوم وتكون ملح كبريتات الصوديوم وماء.",
+                                    "equation": "$$\\mathrm{H_2SO_{4(aq)}} + \\mathrm{2NaOH_{(aq)}} \\longrightarrow \\mathrm{Na_2SO_{4(aq)}} + \\mathrm{2H_2O_{(l)}}$$"
+                                },
+                                {
+                                    "number": "2",
+                                    "text": "إضافة حامض الهيدروكلوريك الى كاربونات الصوديوم وتصاعد غاز ثنائي أوكسيد الكاربون $\\mathrm{CO_2}$",
+                                    "equation": "$$\\mathrm{Na_2CO_{3(s)}} + \\mathrm{2HCl_{(aq)}} \\longrightarrow \\mathrm{2NaCl_{(aq)}} + \\mathrm{H_2O_{(l)}} + \\mathrm{CO_{2(g)}}$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "definition",
+                            "term": "التفاعلات الكيميائية التامة (غير الانعكاسية)",
+                            "text": "تعرف التفاعلات غير الانعكاسية بأنها: التفاعلات الكيميائية التي يتم فيها (عند ظروف معينة) استهلاك تام لأحد أو جميع المواد المتفاعلة، ولا يكون للمواد الناتجة عند ظروف التفاعل نفسها، القدرة على أن تتفاعل لتكوين المواد التي تكونت منها."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "أما النوع الآخر من التفاعلات فهي التفاعلات غير التامة وتسمى بالتفاعلات الانعكاسية (Reversible reactions)، وهي تفاعلات لا تستهلك المواد المتفاعلة فيها كلياً بسبب أن المواد الناتجة تبدأ بتكوين المواد المتفاعلة ويستمر هذا الوضع مهما طال وقت التفاعل، أي لا يتم فيها استهلاك المواد المتفاعلة تماماً، ويُرمز ذلك في المعادلة بوضع سهمين متعاكسين ($\\rightleftharpoons$) للدلالة على ذلك."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "هناك الكثير من التغيرات الكيميائية المعروفة تكون انعكاسية، فمثلاً تتم عملية التنفس بظروف التبادل الغازي حيث إن الدم القادم الى الحويصلات الرئوية يكون محملاً ببخار الماء وغاز $\\mathrm{CO_2}$ ، فيطرح الدم هذه المواد ويأخذ غاز الاوكسجين فيصبح دماً مؤكسجاً ثم يعطي الاوكسجين بعملية التنفس الداخلي ويأخذ بخار الماء و $\\mathrm{CO_2}$ وهكذا تستمر عملية التنفس. وهنالك الكثير من الامثلة التي تعبر عن التفاعلات الكيميائية والتغيرات الفيزيائية الانعكاسية ومنها:"
+                        },
+                        {
+                            "type": "list",
+                            "items": [
+                                {
+                                    "number": "1",
+                                    "text": "تفاعل حامض الخليك مع كحول الاثيل وتكوين خلات الاثيل والماء:",
+                                    "equation": "$$\\mathrm{CH_3COOH_{(l)}} + \\mathrm{CH_3CH_2OH_{(l)}} \\rightleftharpoons \\mathrm{CH_3COOCH_2CH_{3(l)}} + \\mathrm{H_2O_{(l)}}$$"
+                                },
+                                {
+                                    "number": "2",
+                                    "text": "تفاعل غاز الهيدروجين مع بخار اليود لتكوين غاز يوديد الهيدروجين (في نظام مغلق):",
+                                    "equation": "$$\\mathrm{H_{2(g)}} + \\mathrm{I_{2(g)}} \\rightleftharpoons \\mathrm{2HI_{(g)}}$$"
+                                },
+                                {
+                                    "number": "3",
+                                    "text": "تحلل كاربونات الكالسيوم الصلبة الى اوكسيد الكالسيوم وغاز $\\mathrm{CO_2}$ (في نظام مغلق):",
+                                    "equation": "$$\\mathrm{CaCO_{3(s)}} \\rightleftharpoons \\mathrm{CaO_{(s)}} + \\mathrm{CO_{2(g)}}$$"
+                                },
+                                {
+                                    "number": "4",
+                                    "text": "وتغيرات فيزيائية مثل تبخر الماء (في نظام مغلق):",
+                                    "equation": "$$\\mathrm{H_2O_{(l)}} \\rightleftharpoons \\mathrm{H_2O_{(g)}}$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "definition",
+                            "term": "التفاعلات الكيميائية غير التامة (الانعكاسية)",
+                            "text": "تعرف التفاعلات الانعكاسية بأنها (التفاعلات الكيميائية التي يتم فيها تحول المواد المتفاعلة الى نواتج في بداية التفاعل، ويكون للمواد الناتجة المقدرة على أن تتفاعل مع بعضها لتكوين المواد التي تكونت منها مرة اخرى)."
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "title_arabic": "التفاعلات الانعكاسية وحالة الاتزان",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "اغلب التفاعلات الانعكاسية، كما ذكرنا سابقاً، هي تفاعلات تستمر باتجاهين متعاكسين بظروف التفاعل نفسها. فمثلاً عند ظروف مناسبة يتفاعل غاز $\\mathrm{H_2}$ مع غاز $\\mathrm{N_2}$ لتكوين غاز الامونيا $\\mathrm{NH_3}$. في بداية هذا التفاعل يكون التفاعل الامامي سريعاً $\\mathrm{R_f}$ (\\(R_f\\) سرعة التفاعل الامامي، حيث \\(f\\) من \\(forward\\) وتعني امامي) باتجاه تكوين الامونيا، وبمرور الوقت وبزيادة تركيز الامونيا وعند ظروف التفاعل نفسها تتحلل الامونيا الناتجة لتكوين غازي $\\mathrm{H_2}$ مع $\\mathrm{N_2}$ بسرعة مقدارها $\\mathrm{R_b}$ (\\(R_b\\) سرعة التفاعل الخلفي، حيث \\(b\\) من \\(backward\\) وتعني خلفي). يستمر كلا التفاعلين بالاتجاهين المتعاكسين (الامامي والخلفي) حتى يصل التفاعل الى حالة معينة تتساوى عندها سرعتي التفاعل الامامي والخلفي ($\\mathrm{R_f = R_b}$) فيصل التفاعل الى حالة تدعى بحالة الاتزان الكيميائي:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{N_{2(g)}} + \\mathrm{3H_{2(g)}} \\rightleftharpoons_{k_b}^{k_f} \\mathrm{2NH_{3(g)}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "حيث $\\mathrm{k_f}$ يمثل ثابت سرعة التفاعل الامامي و $\\mathrm{k_b}$ يمثل ثابت سرعة التفاعل الخلفي."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "تظهر التفاعلات التي تصل الى حالة الاتزان وكأنها قد توقفت، لكنها في الحقيقة لاتزال مستمرة وتجري في كلا الاتجاهين، لأن حالة الاتزان الكيميائي هي حالة اتزان ديناميكي (حركي) وليست حالة اتزان استاتيكي (ساكن). أي أن التفاعل مستمر وبكلا الاتجاهين الامامي والخلفي بالطردية والسرعة ذاتها. بعبارة اخرى لهذا التفاعل يكون معدل سرعة التكوين تساوي معدل سرعة التفكك، وتكون تراكيز المواد الناتجة والمتفاعلة عند حالة الاتزان ثابتة دون تغير، مالم يحدث أي تغيير على الظروف التي يتم عندها التفاعل وكما هو موضح في الشكل (2-1)."
+                        },
+                        {
+                            "type": "figure",
+                            "id": "2-1",
+                            "caption": "وصول التفاعل الى حالة الاتزان بعد مرور فترة زمنية",
+                            "description": "رسم بياني يوضح تغير تركيز المواد المتفاعلة والناتجة بمرور الزمن وصولاً إلى حالة الاتزان، حيث تثبت التراكيز عند نقطة معينة. المحور السيني هو الزمن والمحور الصادي هو التركيز (مثل [H₂] أو [NH₃])."
+                        }
+                    ]
+                },
+                {
+                    "id": "2-3",
+                    "title_arabic": "التفاعلات الانعكاسية المتجانسة وغير المتجانسة",
+                    "title_english": "Reversible homogenous and heterogeneous reactions",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "التفاعلات الانعكاسية المتجانسة (Reversible homogenous reactions) هي التفاعلات التي تكون فيها المواد المتفاعلة والناتجة جميعها في طور واحد ومن امثلتها (علماً بان جميع التفاعلات تجري في نظام مغلق):"
+                        },
+                        {
+                            "type": "list",
+                            "items": [
+                                {
+                                    "number": "1",
+                                    "text": "تفاعل غازي",
+                                    "equation": "$$\\mathrm{N_2O_{4(g)}} \\rightleftharpoons \\mathrm{2NO_{2(g)}}$$"
+                                },
+                                {
+                                    "number": "2",
+                                    "text": "تفاعل في محلول",
+                                    "equation": "$$\\mathrm{HCOOH_{(l)}} + \\mathrm{CH_3OH_{(l)}} \\rightleftharpoons \\mathrm{HCOOCH_{3(l)}} + \\mathrm{H_2O_{(l)}}$$"
+                                },
+                                {
+                                    "number": "3",
+                                    "text": "تفاعل صلب",
+                                    "equation": "$$\\mathrm{Zn_{(s)}} + \\mathrm{S_{(s)}} \\rightleftharpoons \\mathrm{ZnS_{(s)}}$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "اما التفاعلات الانعكاسية غير المتجانسة فهي التفاعلات التي توجد فيها المواد المتفاعلة والناتجة في اكثر من طور واحد ومن امثلتها (علماً ان جميع التفاعلات تجري في نظام مغلق)."
+                        },
+                        {
+                            "type": "list",
+                            "items": [
+                                {
+                                    "equation": "$$\\mathrm{H_2O_{(l)}} \\rightleftharpoons \\mathrm{H_2O_{(g)}}$$"
+                                },
+                                {
+                                    "equation": "$$\\mathrm{2NaHCO_{3(s)}} \\rightleftharpoons \\mathrm{Na_2CO_{3(s)}} + \\mathrm{H_2O_{(l)}} + \\mathrm{CO_{2(g)}}$$"
+                                },
+                                {
+                                    "equation": "$$\\mathrm{2Hg_{(l)}} + \\mathrm{O_{2(g)}} \\rightleftharpoons \\mathrm{2HgO_{(s)}}$$"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2-4",
+                    "title_arabic": "حالة الاتزان وقانون فعل الكتلة",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "عند خلط مول واحد من غاز الهيدروجين مع مول واحد من غاز اليود في إناء التفاعل لتكوين غاز يوديد الهيدروجين عند $\\mathrm{445^{\\circ}C}$ فالمفروض أن يتكون $\\mathrm{2}$ مول من يوديد الهيدروجين حسب المعادلة الآتية:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{H_{2(g)}} + \\mathrm{I_{2(g)}} \\rightleftharpoons \\mathrm{2HI_{(g)}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "لكن وجد عملياً بتحليل الخليط عندما يصل هذا التفاعل الى حالة الاتزان الكيميائي الديناميكي انه يحتوي $\\mathrm{78\\%}$ من غاز $\\mathrm{HI}$ و $\\mathrm{11\\%}$ من كل من غازي اليود والهيدروجين بحالتهما الجزيئية. وبالمثل اذا سخن غاز $\\mathrm{HI}$ عند درجة الحرارة نفسها فانه يتفكك الى غازي الهيدروجين واليود، ويحتوي الخليط دائماً على $\\mathrm{78\\%}$ من غاز $\\mathrm{HI}$ عند الاتزان و $\\mathrm{11\\%}$ من كل من غازي اليود والهيدروجين. كما موضح في الشكل (2-2)"
+                        },
+                        {
+                            "type": "figure",
+                            "id": "2-2",
+                            "caption": "الشكل 2-2: يصف التفاعل الانعكاسي الذي يصل إلى حالة الاتزان بعد مرور فترة زمنية عليه.",
+                            "description": "سلسلة من الرسوم التوضيحية لجزيئات الهيدروجين (دوائر بيضاء صغيرة)، واليود (دوائر بنفسجية كبيرة)، ويوديد الهيدروجين (زوج من دائرة بيضاء ودائرة بنفسجية) داخل وعاء مغلق بمرور الزمن، تظهر تراكيزها تتغير حتى تصل إلى حالة ثابتة (اتزان)."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "يطلق على العلاقة التي تربط بين سرعة التفاعل الكيميائي وتراكيز المواد قانون فعل الكتلة والذي ينص \"عند ثبوت درجة الحرارة فإن سرعة التفاعل الكيميائي في أي اتجاه كان تتناسب طردياً مع التراكيز المولارية للمواد المتفاعلة كلا منها مرفوع الى اس يمثل عدد المولات الموضوع امام كل مادة في المعادلة الكيميائية الموزونة\"."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وعند تطبيق قانون فعل الكتلة للتفاعل المشاراليه اعلاه"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{H_{2(g)}} + \\mathrm{I_{2(g)}} \\rightleftharpoons_{k_b}^{k_f} \\mathrm{2HI_{(g)}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "يمكن التعبير عن سرعة التفاعل الامامي $\\mathrm{R_f}$ وسرعة التفاعل الخلفي $\\mathrm{R_b}$ رياضياً وحسب قانون فعل الكتلة كالاتي:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{R_f} = \\mathrm{k_f [H_2] [I_2]}$$"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{R_b} = \\mathrm{k_b [HI]^2}$$"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-5",
+                    "title_arabic": "ثابت الاتزان",
+                    "title_english": "Equilibrium Constant",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "لنفترض انه لدينا التفاعل الانعكاسي المتزن الاتي:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{aA} + \\mathrm{bB} \\rightleftharpoons \\mathrm{gG} + \\mathrm{hH}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "حيث $\\mathrm{A}$ و $\\mathrm{B}$ و $\\mathrm{G}$ و $\\mathrm{H}$ تمثل المواد المتفاعلة والناتجة اما $\\mathrm{a}$ و $\\mathrm{b}$ و $\\mathrm{g}$ و $\\mathrm{h}$ فتمثل اعداد مولاتها في معادلة التفاعل الموزونة."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "عند تطبيق قانون فعل الكتلة بالنسبة الى التفاعل الامامي نجد أن:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(1)",
+                            "equation": "$$\\mathrm{R_f} = \\mathrm{k_f [A]^a [B]^b}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "اما عند تطبيق قانون فعل الكتلة بالنسبة إلى التفاعل الخلفي نحصل على العلاقة:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(2)",
+                            "equation": "$$\\mathrm{R_b} = \\mathrm{k_b [G]^g [H]^h}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "حيث $\\mathrm{k_f}$ و $\\mathrm{k_b}$ قبل ثابتي تناسب سرعة التفاعل الامامي والخلفي على التوالي."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وعند حصول الاتزان فإن سرعة التفاعل الامامي تساوي سرعة التفاعل الخلفي $\\mathrm{R_f = R_b}$ ، (الشكل 2-3) لذا نحصل على الاتي:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(3)",
+                            "equation": "$$\\mathrm{k_f [A]^a [B]^b} = \\mathrm{k_b [G]^g [H]^h}$$"
+                        },
+                        {
+                            "type": "figure",
+                            "id": "2-3",
+                            "caption": "الشكل 2-3: حالة اتزان تفاعل مزيج غازي بين التفكك والتكون وسرعة الوصول الى حالة الاتزان.",
+                            "description": "رسم بياني يوضح تغير تركيز المواد المتفاعلة والناتجة بمرور الزمن (الزمن على المحور السيني) وسرعة التفاعلين الأمامي والخلفي (على المحور الصادي)، تظهر السرعات متساوية عند الاتزان وتثبت التراكيز."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "و بترتيب المعادلة (3) نحصل على العلاقة:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(4)",
+                            "equation": "$$\\mathrm{\\frac{k_f}{k_b}} = \\mathrm{\\frac{[G]^g [H]^h}{[A]^a [B]^b}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "ان قسمة قيمة ثابتة $\\mathrm{k_f}$ على قيمة ثابتة اخرى $\\mathrm{k_b}$ هو مقدار ثابت آخر يعرف بثابت الاتزان $\\mathrm{K_{eq}}$ (حيث \\(\\mathrm{eq}\\) من \\(\\mathrm{equilibrium}\\) وتعني اتزان)، لذا تصبح المعادلة (4) على الصورة الاتية:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(5)",
+                            "equation": "$$\\mathrm{K_{eq}} = \\mathrm{\\frac{[G]^g [H]^h}{[A]^a [B]^b}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "يعرف ثابت الاتزان $\\mathrm{K_{eq}}$ بانه النسبة بين ثابت سرعة التفاعل الامامي ($\\mathrm{k_f}$) وثابت تناسب سرعة التفاعل الخلفي ($\\mathrm{k_b}$)."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وعند قياس تراكيز المواد المتفاعلة والناتجة عند حصول الاتزان بالمولارية $\\mathrm{[M]}$ فإن ثابت الاتزان $\\mathrm{K_{eq}}$ يرمز له بالرمز $\\mathrm{K_c}$ ($\\mathrm{K}$ ثابت الاتزان بدلالة التراكيز المولارية، حيث $\\mathrm{C}$ من $\\mathrm{concentration}$ وتعني تركيز) ويصطلح على عدم كتابة وحدات لهذا الثابت. يعرف بانه حاصل ضرب التراكيز المولارية للمواد الناتجة عند حالة الاتزان مقسوماً على حاصل ضرب التراكيز المولارية للمواد المتفاعلة عند الاتزان كل منها مرفوع لاس عدد مولاتها في معادلة التفاعل الموزونة، وهي قيمة ثابتة عند ثبوت درجة الحرارة."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وبما إن المعادلة رقم (5) غير عنها بكتابة التراكيز المولارية للمواد المتفاعلة والناتجة فيكون ثابت الاتزان لها $\\mathrm{K_c}$ بدلاً من $\\mathrm{K_{eq}}$ وتكتب على الصورة الاتية:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(6)",
+                            "equation": "$$\\mathrm{K_c} = \\mathrm{\\frac{[G]^g [H]^h}{[A]^a [B]^b}}$$"
+                        },
+                        {
+                            "type": "example",
+                            "id": "2-1",
+                            "title": "مثال 2-1",
+                            "text": "للتفاعل المتزن الآتي:",
+                            "equation": "$$\\mathrm{N_{2(g)}} + \\mathrm{3H_{2(g)}} \\rightleftharpoons_{k_b}^{k_f} \\mathrm{2NH_{3(g)}}$$",
+                            "problem": "وجد ان ثابت سرعة التفاعل الامامي $\\mathrm{k_f}$ يساوي $\\mathrm{0.11}$ وثابت سرعة التفاعل الخلفي $\\mathrm{k_b}$ يساوي $\\mathrm{0.05}$. احسب ثابت الاتزان $\\mathrm{K_{eq}}$ للتفاعل.",
+                            "solution": {
+                                "heading": "الحل:",
+                                "steps": [
+                                    {
+                                        "type": "equation",
+                                        "equation": "$$\\mathrm{K_{eq}} = \\mathrm{\\frac{k_f}{k_b}} = \\mathrm{\\frac{0.11}{0.05}} = \\mathrm{2.2}$$"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "2-1",
+                            "title": "تمرين 2-1",
+                            "problem": "تفاعل ما متزن ثابت الاتزان له $\\mathrm{K_{eq}}$ يساوي $\\mathrm{4.24}$ وثابت سرعة التفاعل الخلفي $\\mathrm{k_b}$ يساوي $\\mathrm{0.02}$. احسب ثابت سرعة التفاعل الامامي $\\mathrm{k_f}$.",
+                            "answer_hint": "ج: $\\mathrm{0.0848}$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وعندما تكون المواد المشتركة في التفاعل والناتجة في حالتها الغازية يكون من السهولة قياس ضغوطها الجزيئية أكثر من قياس تراكيزها المولارية. لذا من المناسب التعبير عن تركيز الغاز بدلالة ضغطه الجزيئي ($\\mathrm{P}$) لذلك فإن ثابت الاتزان $\\mathrm{K_{eq}}$ يرمز له بالرمز $\\mathrm{K_p}$ ($\\mathrm{K}$ ثابت الاتزان بدلالة الضغوط الجزيئية، حيث $\\mathrm{P}$ من $\\mathrm{Pressure}$ وتعني ضغط). وعندما يعبر عن الكميات الغازية الداخلة في التفاعل بدلالة ضغوطها الجزيئية يعبر عن ثابت الاتزان لها حسب المعادلة رقم (5) على الصورة الاتية:"
+                        },
+                        {
+                            "type": "equation",
+                            "number": "(7)",
+                            "equation": "$$\\mathrm{K_p} = \\mathrm{\\frac{P_G^g \\times P_H^h}{P_A^a \\times P_B^b}}$$"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "ثابت الاتزان $\\mathrm{K_p}$",
+                            "text": "يعرف ثابت الاتزان $\\mathrm{K_p}$ بانه (حاصل ضرب الضغوط الجزيئية للمواد الناتجة عند الاتزان مقسوماً على حاصل ضرب الضغوط الجزيئية للمواد المتفاعلة عند الاتزان كل منها مرفوع الى اس عدد مولاتها في معادلة التفاعل الموزونة)، وهي قيمة ثابتة عند ثبوت درجة الحرارة."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "ومن المهم ذكره هنا أن في التفاعلات المتجانسة التي تكون فيها جميع المواد المتفاعلة والناتجة في الطور الغازي يجب ان يشتمل ثابت الاتزان على النسبة بين حاصل ضرب الضغوط الجزيئية لجميع المواد الناتجة مرفوع لاس عدد مولاتها في المعادلة الى حاصل ضرب الضغوط الجزيئية لجميع المواد المتفاعلة مرفوع لاس عدد مولاتها في المعادلة كما هو موضح في المعادلة رقم (7)."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "اما في التفاعلات غير المتجانسة والتي تحتوي على مواد بأكثر من طور واحد كما هو في تفاعل التفكك الحراري لبكاربونات الصوديوم (صودا الخبز) التالي فيحذف عند كتابة ثابت الاتزان له المواد الصلبة والسائلة النقية."
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{2NaHCO_{3(s)}} \\xrightarrow{\\Delta} \\mathrm{Na_2CO_{3(s)}} + \\mathrm{H_2O_{(l)}} + \\mathrm{CO_{2(g)}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "تصل التفاعلات غير المتجانسة الى حالة الاتزان شأن شأن التفاعلات المتجانسة. فاذا تم وضع بيكربونات الصوديوم في وعاء مغلق وتم تسخينها فسيصل التفاعل في لحظة معينة الى حالة الاتزان."
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{2NaHCO_{3(s)}} \\xrightarrow{\\Delta} \\mathrm{Na_2CO_{3(s)}} + \\mathrm{H_2O_{(l)}} + \\mathrm{CO_{2(g)}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وثابت الاتزان لهذا التفاعل يكتب على الصورة الاتية:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{K_c} = \\mathrm{\\frac{[Na_2CO_3] [H_2O] [CO_2]}{[NaHCO_3]^2}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "ويمكن حذف تراكيز المواد الصلبة والسائلة من علاقة ثابت الاتزان (لان المواد الصلبة والسائلة النقية يبقى تركيزها ثابتاً مهما تغيرت كمياتها، حتى وان تغير الحجم فإن النسبة بين كمية هذه المواد الى الحجم ستبقى ثابتة). لذا فعند كتابة علاقة ثابت الاتزان للتفاعلات غير المتجانسة يجب كتابته بدون تراكيز المواد الصلبة والسائلة النقية. فثابت الاتزان للتفكك الحراري لبكاربونات الصوديوم يكتب على الشكل الاتي:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{K_c} = \\mathrm{[CO_2] [H_2O]}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "او بدلالة الضغوط الجزيئية يساوي $\\mathrm{K_p}$ الاتي:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{K_p} = \\mathrm{P_{CO_2} P_{H_2O}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وفي مثال آخر فإن ثابت الاتزان للتفكك الحراري لكاربونات الكالسيوم عند وصولها لحالة الاتزان:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{CaCO_{3(s)}} \\rightleftharpoons \\mathrm{CaO_{(s)}} + \\mathrm{CO_{2(g)}}$$"
+                        },
+                        {
+                            "type": "figure",
+                            "id": "2-4",
+                            "caption": "الشكل 2-4: يصف ضغط $\\mathrm{CO_2}$ عند الاتزان في أ وب هو نفسه عند درجة الحرارة نفسها على الرغم من اختلاف كمية $\\mathrm{CaCO_3}$ (ممثلاً باللون البرتقالي) وكمية $\\mathrm{CaO}$ (ممثلاً باللون الاخضر).",
+                            "description": "صوتان توضيحيتان (أ و ب) تظهران أنظمة مغلقة تحتوي على كربونات الكالسيوم الصلبة (برتقالي) وأكسيد الكالسيوم (أخضر) في حالة اتزان مع غاز ثاني أكسيد الكربون. بالرغم من اختلاف كميات المواد الصلبة، يظل ضغط غاز ثاني أكسيد الكربون ثابتاً عند نفس درجة الحرارة، مما يوضح أن تراكيز المواد الصلبة لا تؤثر على ثابت الاتزان في التفاعلات غير المتجانسة."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "يكتب على الصورة الاتية بدلالة التراكيز المولارية:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{K_c} = \\mathrm{[CO_2]}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "او بدلالة الضغوط الجزيئية:"
+                        },
+                        {
+                            "type": "equation",
+                            "equation": "$$\\mathrm{K_p} = \\mathrm{P_{CO_2}}$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "فضغط $\\mathrm{CO_2}$ عند الاتزان يبقى ثابتاً عند درجة الحرارة نفسها ولا يتأثر باختلاف كميات $\\mathrm{CaCO_3}$ و $\\mathrm{CaO}$، كما هو مبين في الشكل (2-3)."
+                        }
+                    ]
+                },
+                {
+                    "type": "example",
+                    "id": "2-2",
+                    "title": "مثال 2-2",
+                    "text": "اكتب ثوابت الاتزان للتفاعلات التالية بدلالة التراكيز المولارية:",
+                    "problems": [
+                        {
+                            "number": "(1)",
+                            "equation": "$$\\mathrm{2HBr_{(g)}} \\rightleftharpoons \\mathrm{H_{2(g)}} + \\mathrm{Br_{2(g)}}$$",
+                            "solution": {
+                                "heading": "الحل:",
+                                "equation": "$$\\mathrm{K_c} = \\mathrm{\\frac{[H_2] [Br_2]}{[HBr]^2}}$$"
+                            }
+                        },
+                        {
+                            "number": "(2)",
+                            "equation": "$$\\mathrm{NO_{2(aq)}}^- + \\mathrm{H_2O_{(l)}} \\rightleftharpoons \\mathrm{HNO_{2(aq)}} + \\mathrm{OH_{(aq)}^-}$$",
+                            "solution": {
+                                "heading": "الحل:",
+                                "equation": "$$\\mathrm{K_c} = \\mathrm{\\frac{[HNO_2] [OH^-]}{[NO_2^-]}}$$"
+                            }
+                        },
+                        {
+                            "number": "(3)",
+                            "equation": "$$\\mathrm{CaCO_{3(s)}} + \\mathrm{2HCl_{(aq)}} \\rightleftharpoons \\mathrm{CaCl_{2(aq)}} + \\mathrm{H_2O_{(l)}} + \\mathrm{CO_{2(g)}}$$",
+                            "solution": {
+                                "heading": "الحل:",
+                                "equation": "$$\\mathrm{K_c} = \\mathrm{\\frac{[CO_2] [CaCl_2]}{[HCl]^2}}$$"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "example",
+                    "id": "2-3",
+                    "title": "مثال 2-3",
+                    "text": "اكتب ثوابت الاتزان بدلالة الضغوط الجزيئية للتفاعلات الآتية:",
+                    "problems": [
+                        {
+                            "number": "(1)",
+                            "equation": "$$\\mathrm{3H_{2(g)}} + \\mathrm{N_{2(g)}} \\rightleftharpoons \\mathrm{2NH_{3(g)}}$$",
+                            "solution": {
+                                "heading": "الحل:",
+                                "equation": "$$\\mathrm{K_p} = \\mathrm{\\frac{P_{NH_3}^2}{P_{H_2}^3 P_{N_2}}}$$"
+                            }
+                        },
+                        {
+                            "number": "(2)",
+                            "equation": "$$\\mathrm{2Hg_{(l)}} + \\mathrm{O_{2(g)}} \\rightleftharpoons \\mathrm{2HgO_{(s)}}$$",
+                            "solution": {
+                                "heading": "الحل:",
+                                "equation": "$$\\mathrm{K_p} = \\mathrm{\\frac{1}{P_{O_2}}}$$"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "pages_range": "61 to 70",
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 56.948751587s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}}"
+    },
+    {
+        "pages_range": "71 to 80",
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 53.918890309s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}"
+    },
+    {
+        "pages_range": "81 to 86",
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 52.114923445s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}"
+    }
+]

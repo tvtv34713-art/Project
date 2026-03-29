@@ -1,0 +1,1380 @@
+[
+    {
+        "pages_range": "131 to 140",
+        "data": {
+            "chapter_number": "4",
+            "chapter_title_ar": "الفصل الرابع",
+            "chapter_title_en": "Electromagnetic Waves",
+            "pages": [
+                {
+                    "page_number": 131,
+                    "type": "table_of_contents",
+                    "sections": [
+                        {
+                            "id": "1-4",
+                            "title_ar": "مقدمة"
+                        },
+                        {
+                            "id": "2-4",
+                            "title_ar": "ماكسويل والنظرية الكهرومغناطيسية"
+                        },
+                        {
+                            "id": "3-4",
+                            "title_ar": "توليد الموجات الكهرومغناطيسية من الشحنات المعجلة"
+                        },
+                        {
+                            "id": "4-4",
+                            "title_ar": "مبادئ الارسال والتسلم للموجات الكهرومغناطيسية"
+                        },
+                        {
+                            "id": "5-4",
+                            "title_ar": "كيفية عمل دائرة الارسال والتسلم"
+                        },
+                        {
+                            "id": "6-4",
+                            "title_ar": "الكشف عن الموجات الكهرومغناطيسية ذات التردد الراديوي",
+                            "subsections": [
+                                {
+                                    "id": "6-1-4",
+                                    "title_ar": "الكشف عن الموجات الكهرومغناطيسية بوساطة مجالها الكهربائي"
+                                },
+                                {
+                                    "id": "6-2-4",
+                                    "title_ar": "الكشف عن الموجات الكهرومغناطيسية بوساطة مجالها المغناطيسي"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7-4",
+                            "title_ar": "التضمين",
+                            "subsections": [
+                                {
+                                    "id": "7-1-4",
+                                    "title_ar": "التضمين السعوي"
+                                },
+                                {
+                                    "id": "7-2-4",
+                                    "title_ar": "التضمين الترددي"
+                                },
+                                {
+                                    "id": "7-3-4",
+                                    "title_ar": "التضمين الطوري"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8-4",
+                            "title_ar": "مدى الموجات الراديوية"
+                        },
+                        {
+                            "id": "9-4",
+                            "title_ar": "انتشار الموجات الكهرومغناطيسية",
+                            "subsections": [
+                                {
+                                    "id": "9-1-4",
+                                    "title_ar": "الموجات الارضية"
+                                },
+                                {
+                                    "id": "9-2-4",
+                                    "title_ar": "الموجات السماوية"
+                                },
+                                {
+                                    "id": "9-3-4",
+                                    "title_ar": "الموجات الفضائية"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "10-4",
+                            "title_ar": "بعض تطبيقات الموجات الكهرومغناطيسية"
+                        }
+                    ]
+                },
+                {
+                    "page_number": 132,
+                    "type": "learning_objectives_and_glossary",
+                    "learning_objectives_ar": {
+                        "title_ar": "الأهداف السلوكية",
+                        "intro_ar": "بعد دراسة الفصل ينبغي للطالب ان يكون قادراً على ان:",
+                        "items": [
+                            "يذكر الموجات الكهرومغناطيسية وأهم خصائصها.",
+                            "يعرف كيفية انتشار الموجات الكهرومغناطيسية.",
+                            "يعرف طريقة توليد الموجات الكهرومغناطيسية في الدائرة المهتزة.",
+                            "يعرف كيفية ارسال واستقبال الموجات الكهرومغناطيسية.",
+                            "يوضح اصل نشوء الموجة الكهرومغناطيسية.",
+                            "كيف يعمل هوائي الارسال والاستقبال للموجات الراديوية.",
+                            "يتعرف طرائق كشف الموجات الكهرومغناطيسية.",
+                            "يدرك عملية تضمين الموجات الكهرومغناطيسية وكيفية نقل المعلومات.",
+                            "يتعرف بعض التطبيقات الكهرومغناطيسية مثل (الرادار، التحسس النائي)."
+                        ]
+                    },
+                    "glossary_ar": {
+                        "title_ar": "المصطلحات العلمية",
+                        "terms": [
+                            {
+                                "english_term": "Displacement current",
+                                "arabic_term": "تيار الازاحة"
+                            },
+                            {
+                                "english_term": "Oscillator",
+                                "arabic_term": "مولد ذبذبات"
+                            },
+                            {
+                                "english_term": "Transmitter",
+                                "arabic_term": "مرسل"
+                            },
+                            {
+                                "english_term": "Receiver",
+                                "arabic_term": "مستقبل"
+                            },
+                            {
+                                "english_term": "Electric dipole",
+                                "arabic_term": "ثنائي قطب كهربائي"
+                            },
+                            {
+                                "english_term": "Antenna",
+                                "arabic_term": "هوائي"
+                            },
+                            {
+                                "english_term": "Oscillation circuit",
+                                "arabic_term": "دائرة مهتزة"
+                            },
+                            {
+                                "english_term": "Amplifier",
+                                "arabic_term": "مضخم"
+                            },
+                            {
+                                "english_term": "Modulation",
+                                "arabic_term": "تضمين"
+                            },
+                            {
+                                "english_term": "Analog Modulation",
+                                "arabic_term": "تضمين تماثلي"
+                            },
+                            {
+                                "english_term": "Amplitude Modulation",
+                                "arabic_term": "تضمين سعوي"
+                            },
+                            {
+                                "english_term": "Frequency Modulation",
+                                "arabic_term": "تضمين ترددي"
+                            },
+                            {
+                                "english_term": "Phase Modulation",
+                                "arabic_term": "تضمين طوري"
+                            },
+                            {
+                                "english_term": "Ground wave",
+                                "arabic_term": "موجة أرضية"
+                            },
+                            {
+                                "english_term": "Sky wave",
+                                "arabic_term": "موجة سماوية"
+                            },
+                            {
+                                "english_term": "Space wave",
+                                "arabic_term": "موجة فضائية"
+                            },
+                            {
+                                "english_term": "Detection",
+                                "arabic_term": "كشف"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "page_number": 133,
+                    "sections": [
+                        {
+                            "id": "1-4",
+                            "title_ar": "مقدمة",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "في حياتنا اليومية يمكن ان نلاحظ أنواعاً مختلفة من الظواهر الموجية فهناك موجات تحتاج الى وجود وسط مادي لانتشارها و هذا الوسط المادي إما ان يكون غازياً أو سائلاً أو صلباً ومثال على ذلك انتشار الموجات الصوتية في الأوساط المادية المختلفة التي هي موجات ميكانيكية طولية ناتجة عن اهتزاز جزيئات الوسط الناقل لها. وهنالك موجات لا يشترط وجود وسط مادي لانتشارها. هذه الموجات هي الموجات الكهرومغناطيسية وقد سبق ان درست الطيف الكهرومغناطيسي الذي يتكون من مدى واسع من الترددات التي تختلف عن بعضها تبعاً لطريقة توليدها ومصدرها وتقنية كشفها واختراقها للأوساط المختلفة والشكل (1) يوضح أنواع من هذه الموجات."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (1)",
+                                    "description_ar": "الطيف الكهرومغناطيسي (للاطلاع)",
+                                    "content_details": "Diagram showing the electromagnetic spectrum, with different types of waves (radio, microwave, infrared, visible light, ultraviolet, X-rays, gamma rays) and their corresponding wavelengths (in meters) and frequencies. Examples of objects or phenomena associated with each part of the spectrum are also shown (e.g., human, baseball, cell, virus, water molecule, atomic nucleus, antenna, radar, microwave oven, remote control, lamp, sun, medical X-ray, nuclear decay)."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2-4",
+                            "title_ar": "ماكسويل والنظرية الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "من الانجازات المهمة في الفيزياء في القرن التاسع عشر، هو اكتشاف الموجات الكهرومغناطيسية الناتجة عن الدراسات التي قام بها كثير من العلماء أمثال فاراداي وأمبير وكاوس التي سبق ان تعرفت عليها في دراستك السابقة. إذ وجد بالتجربة ان المجال المغناطيسي المتغير الذي يخترق موصل يولد قوة دافعة كهربائية محتثة (induced emf) على طرفي ذلك الموصل وهذا ما يسمى بالحث الكهرومغناطيسي. ويتولد مجال كهربائي متغير في الفضاء يولد مجالاً مغناطيسياً متغيراً عمودياً عليه ومتفقاً معه في الطور والصحيح صحيح ... لاحظ الشكل (2)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 134,
+                    "sections": [
+                        {
+                            "id": "2-4",
+                            "title_ar": "ماكسويل والنظرية الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "واستناداً الى هذه الحقائق تمكن عالم الفيزياء ماكسويل (Maxwell) في عام 1860 من ربط القوانين الخاصة بالمجالات الكهربائية والمغناطيسية وادعى عبر عن الحقائق الاتية:"
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (2)",
+                                    "description_ar": "يمثل الحد الكهرومغناطيسي",
+                                    "content_details": "Diagram showing an oscillating electric field (المجال الكهربائي المتغير) generating an oscillating magnetic field (المجال المغناطيسي المتغير), both perpendicular to each other and to the direction of wave propagation."
+                                },
+                                {
+                                    "type": "list",
+                                    "items": [
+                                        "الشحنة الكهربائية النقطية الساكنة في الفضاء تولد حولها مجالاً كهربائياً تتبع خطوطه من أو الى مواقع تلك الشحنة.",
+                                        "لا يتوافر قطب مغناطيسي منفرد (لذا فإن خطوط المجال المغناطيسي تكون مغلقة).",
+                                        "المجال الكهربائي المتغير مع الزمن يولد حوله مجالاً مغناطيسياً متغيراً مع الزمن وعمودياً عليه ومتفقاً معه في الطور.",
+                                        "المجال المغناطيسي المتغير مع الزمن يولد حوله مجالاً كهربائياً متغيراً مع الزمن وعمودياً عليه ومتفقاً معه في الطور."
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "وقد استنتج ماكسويل أن المجالين الكهربائي والمغناطيسي المتغيرين مع الزمن والمتلازمين يمكن أن ينتشران بشكل موجة في الفضاء تسمى بالموجة الكهرومغناطيسية (electromagnetic wave)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "إن أصل نشوء الموجة الكهرومغناطيسية هي الشحنات الكهربائية المتذبذبة، إذ ينتج عن هذا التذبذب مجالين كهربائي ومغناطيسي متغيرين مع الزمن ومتلازمين ومتعامدين مع بعضهما وعموديين على خط انتشارها وتنتشر الموجة الكهرومغناطيسية في الفراغ بسرعة الضوء ($$3 \\\\times 10^8 \\\\text{ m/s}$$)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "وقد وجد ماكسويل أن المجال المغناطيسي لا ينشأ فقط عن تيار التوصيل الاعتيادي وإنما يمكن أن ينشأ من مجال كهربائي متغير مع الزمن. فعلى سبيل المثال عند ربط صفيحتي متسعة عبر مصدر ذي فولطية متناوبة فإن المجال الكهربائي ($$E$$) المتغير مع الزمن بين صفيحتيها يولد تياراً كهربائياً والذي بدوره يولد مجالاً مغناطيسياً ($$B$$) متغيراً مع الزمن وعمودياً عليه لاحظ الشكل (3). وقد سمي هذا التيار بتيار الازاحة ($$I_d$$) (Displacement Current). أي إن: تيار الازاحة ($$I_d$$) يتناسب مع المعدل الزمني للتغير في المجال الكهربائي ($$$\\\\frac{\\\\Delta E}{\\\\Delta t}$$$)."
+                                },
+                                {
+                                    "type": "equation",
+                                    "label_ar": "معادلة تيار الإزاحة",
+                                    "latex": "$$I_d \\\\propto \\\\frac{\\\\Delta E}{\\\\Delta t}$$"
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (3)",
+                                    "description_ar": "يوضح كيفية توليد المجال المغناطيسي من مجال كهربائي متغير مع الزمن",
+                                    "content_details": "Diagram showing an AC source connected to a capacitor, illustrating how a changing electric field between the capacitor plates induces a magnetic field, represented by $$I_d$$ (Displacement Current) and magnetic field lines around the capacitor."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 135,
+                    "sections": [
+                        {
+                            "id": "2-4",
+                            "title_ar": "ماكسويل والنظرية الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "الجدير بالذكر أن تيار الإزاحة يرافق الموجة الكهرومغناطيسية المنتشرة في الفضاء بخلاف تيار التوصيل الذي ينتقل خلال الموصل فقط."
+                                }
+                            ]
+                        },
+                        {
+                            "heading_type": "sub_section_title",
+                            "title_ar": "ومن أهم خصائص الموجات الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "list",
+                                    "items": [
+                                        "تنتشر في الفراغ بخطوط مستقيمة وتنعكس وتنكسر وتتداخل وتستقطب وتحيد عن مسارها لاحظ الشكل (4).",
+                                        "تتألف من مجالين كهربائي ومغناطيسي متلازمين ومتغيرين مع الزمن ويسيرون متعامدين مع بعضها وعموديين على خط انتشار الموجة ويتبادلان بالطور نفسه لاحظ الشكل (5).",
+                                        "هي موجات مستعرضة لان المجالين الكهربائي والمغناطيسي يتذبذبان عمودياً على خط انتشار الموجة الكهرومغناطيسية، لاحظ الشكل (5).",
+                                        "تنتشر في الفراغ بسرعة الضوء و عند انتقالها في وسط مادي تقل سرعتها تبعاً للخصائص الفيزيائية لذلك الوسط.",
+                                        "وتتولد نتيجة تذبذب الشحنات الكهربائية، ويمكن توليد بعضاً منها بوساطة مولد الذبذبات (oscillator)."
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (4)",
+                                    "description_ar": "حيود الاشعاع الكهرومغناطيسي",
+                                    "content_details": "Diagram illustrating phenomena like reflection and refraction of electromagnetic radiation as it passes through different media or interacts with surfaces."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (5)",
+                                    "description_ar": "يمثل توزيع المجال الكهربائي والمغناطيسي في الموجة الكهرومغناطيسية",
+                                    "content_details": "Diagram showing the sinusoidal variations of the electric field (المجال الكهربائي) and magnetic field (المجال المغناطيسي) components of an electromagnetic wave, perpendicular to each other and to the direction of propagation (اتجاه انتشار الموجة)."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3-4",
+                            "title_ar": "توليد الموجات الكهرومغناطيسية من الشحنات المعجلة",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "أول من تمكن من توليد الموجات الكهرومغناطيسية العالم الألماني هنري هرتز Hertz في عام 1887 وذلك بإحداث شرارة كهربائية بين قطبي الملف الثانوي لجهاز ملف الحث لاحظ الشكل (6) عند توافر جهاز جهد كاف بينهما وقد نجح في استقبال هذه الموجات في فجوة بين نهايتي حلقة معدنية اذ لاحظ تولد شرارة بينهما عند وضع معين من غير وجود أسلاك توصيل بين المرسل والمستقبل وقد لاحظ هرتز أن الشرارة لا يتم استقبالها إلا إذا كانت الحلقة ذات قطر محدد وموضوعة في وضع يكون فيه الخط الفاصل بين طرفي فتحتها يوازي الخط الواصل بين القطبين الذي يولد الشرارة."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "وقد علمنا من دراستك السابقة أن الشحنة النقطية الساكنة تولد حولها"
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (6)",
+                                    "description_ar": "يمثل أجهزة هيتزر لتوليد الموجات الكهرومغناطيسية",
+                                    "content_details": "Diagram showing Hertz's experimental setup for generating and detecting electromagnetic waves, consisting of an induction coil connected to a spark gap (transmitter) and a receiving loop with a spark gap (receiver)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 136,
+                    "sections": [
+                        {
+                            "id": "3-4",
+                            "title_ar": "توليد الموجات الكهرومغناطيسية من الشحنات المعجلة",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "كهربائياً فقط بينما تولد الشحنة المتحركة بسرعة ثابتة مجالين كهربائي ومغناطيسي ثابتين. أما الشحنات المعجلة فتولد مجالين كهربائي ومغناطيسي متذبذبين ينتشران في الفضاء."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "ولتوضيح توليد الموجات الكهرومغناطيسية يربط ساقان معدنيان (ثنائي قطب كهربائي) الى مصدر فولطية متناوب (مذبذب كهربائي)، و في ما يلي شرح كيفية توليد الموجات الكهرومغناطيسية:"
+                                },
+                                {
+                                    "type": "list",
+                                    "items": [
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "عند ربط قطبي المذبذب الى طرفي الساقين المتقاربين تبدأ الشحنات الموجبة بالحركة في الساق العلوي نحو الأعلى، والسالبة في الساق السفلي نحو الأسفل لاحظ الشكل (7)، ويكون شكل خطوط القوة الكهربائية حول الساقين متجهاً من الطرف الموجب للشحنة الى الطرف السالب للشحنة. أما خطوط القوة المغناطيسية فتتكون بشكل دوائر بمستويات عمودية على خطوط المجال الكهربائي، كما بينتها علامة الاتجاه ($$\\odot$$) ذات اللون الأخضر التي تشير إلى دخول الخطوط في مستوى الورقة."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "وفي اللحظة التي تبلغ فيها الذروة الدافعة الكهربائية ($$emf$$) المؤثرة مقدارها أعظم تصل الشحنات في الساقين المتذبذبين عندما تصبح سرعتهما صفراً، لاحظ الشكل (8)."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "عندما تبدأ القوة الدافعة الكهربائية ($$emf$$) المؤثرة بالتناقص ينعكس اتجاه حركة الشحنات إذ تتحرك الشحنات الموجبة والسالبة باتجاه بعضها البعض ونتيجة لذلك تتقارب نهائياً خطوط المجالين (الكهربائي والمغناطيسي) لاحظ الشكل (9) لتكون حلقة مغلقة عند وصول الشحنة الموجبة مع الشحنة السالبة الى نقطتي بدء حركتها تلاحظ تلك الحلقات وانتشارها في الفضاء مبتعدين."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "عندما تبدأ ($$emf$$) المؤثرة بالتنامي من جديد بالاتجاه المعاكس لحظة انقلاب الشحنتين على طرفي ثنائي القطبي الكهربائي (انقلاب القطبية)، فإن الشحنة السالبة تكون في الساق العلوي والشحنة الموجبة تكون في الساق السفلي تتحركان متعامدتين باتجاهين متعاكسين، لاحظ الشكل (10) في هذه المرة فإن المجال المغناطيسي يصبح باتجاه عقارب الساعة وكذلك المجال الكهربائي عند لحظة انقلاب الفولطية"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (7)",
+                                    "description_ar": "كيفية توليد الموجات الكهرومغناطيسية في هوائي الارسال",
+                                    "content_details": "Diagram showing an oscillating electric dipole antenna with positive and negative charges at its ends, and the resulting electric field lines (خطوط المجال الكهربائي) and magnetic field lines (خطوط المجال المغناطيسي) propagating outwards."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (8)",
+                                    "description_ar": "يوضح اتجاه خطوط المجال الكهربائي عند ازدياد الفولتية على سلك الهوائي الارسال المؤثرة",
+                                    "content_details": "Diagram showing the electric field lines around an oscillating dipole antenna at a moment of maximum charge separation and voltage, with field lines extending outwards."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (9)",
+                                    "description_ar": "يوضح تقارب خطوط المجال الكهربائي عند تناقص الفولطية",
+                                    "content_details": "Diagram showing the electric field lines around an oscillating dipole antenna as charges move closer, illustrating the pinching off and outward propagation of a closed loop of electric field."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (10)",
+                                    "description_ar": "يوضح انفصال خطوط المجال المغناطيسي يصبح باتجاه عقارب الساعة وكذلك المجال الكهربائي عند لحظة انقلاب الفولطية",
+                                    "content_details": "Diagram showing the electric and magnetic field lines propagating away from the antenna as closed loops, illustrating the decoupling from the source and continuous propagation."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 137,
+                    "sections": [
+                        {
+                            "id": "3-4",
+                            "title_ar": "توليد الموجات الكهرومغناطيسية من الشحنات المعجلة",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "ومن هذا التتابع في التغيرات التي تطرأ على المجالين الكهربائي والمغناطيسي تتكون حلقات مغلقة لخطوط القوى الكهربائية والمغناطيسية في مستويات متعامدة تنتشر بعيداً عن ثنائي القطب الكهربائي تمثل جبهات للموجات الكهرومغناطيسية لاحظ الشكل (11)."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (11)",
+                                    "description_ar": "يوضح انبعاث الموجات الكهرومغناطيسية من هوائي الارسال",
+                                    "content_details": "3D diagram showing the propagation of electromagnetic waves as expanding loops of perpendicular electric and magnetic fields originating from a dipole antenna."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4-4",
+                            "title_ar": "مبادئ الارسال والتسلم للموجات الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "هل تساءلت يوماً وأنت تسمع صوت المذياع كيف يمكن لهذا الصوت ان يصل إليك عبر الفضاء ومن مسافات بعيدة جداً؟ يتم ذلك بوساطة نقل المعلومات من الموجة السمعية (المحمولة) إلى الموجة الراديوية (الحاملة) (كما ستأتي على ذكر ذلك لاحقاً) وبعدها تبث هذه الموجات عن طريق محطة الإرسال واستقبالها عن طريق جهاز الاستقبال (المذياع). إن عملية الإرسال والتسلم تعتمد على جهازين أساسيين هما:"
+                                },
+                                {
+                                    "id": "1-4-4",
+                                    "title_ar": "الهوائي",
+                                    "content": []
+                                },
+                                {
+                                    "id": "2-4-4",
+                                    "title_ar": "دائرة الاهتزاز الكهرومغناطيسي",
+                                    "subsections": [
+                                        {
+                                            "id": "1-2-4-4",
+                                            "title_ar": "الدائرة المهتزة (دائرة الرنين):",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "تتألف الدائرة المهتزة من ملف ($$L$$) (مهمل المقاومة الأومية) يتصل مع متسعة متغيرة السعة ($$C$$) كما موضح بالشكل (12). ويمكن لهذه الدائرة أن تولد تردداً رنينياً ($$f$$) (Resonance Frequency)."
+                                                },
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "من خلال عملية التوليف وفق العلاقة الآتية:"
+                                                },
+                                                {
+                                                    "type": "equation",
+                                                    "label_ar": "معادلة التردد الرنيني لدائرة LC",
+                                                    "latex": "$$f = \\\\frac{1}{2\\\\pi\\\\sqrt{LC}}$$"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "2-2-4-4",
+                                            "title_ar": "الهوائي:",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "يتكون الهوائي من سلكين معدنيين منفصلين يربطان إلى مصدر فولطية متناوبة. يشحن السلكان بشحنتين متساويتين بالمقدار ومختلفتين بالنوع. لاحظ الشكل (13) وتتحدد الطاقة المنبعثة من هوائي الإرسال في الفضاء بشكل موجات كهرومغناطيسية وتعتمد قدرة الهوائي في الإرسال أو التسلم إلى:"
+                                                },
+                                                {
+                                                    "type": "list",
+                                                    "items": [
+                                                        "مقدرة الهوائي الحزمة للموجات.",
+                                                        "تردد الإشارة المرسلة أو المستلمة."
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "وقد وجد عملياً أن طول الهوائي عندما يساوي نصف طول الموجة المرسلة أو المستلمة يحقق إرسالاً أو استقبالاً أكبر طاقة للإشارة، ولتوضيح"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (12)",
+                                    "description_ar": "يوضح مخطط الدائرة المهتزة",
+                                    "content_details": "Circuit diagram of an LC oscillation circuit, showing an inductor (L) and a variable capacitor (C)."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (13)",
+                                    "description_ar": "يوضح كيفية توزيع الفولتية والتيار على طول سلكي الهوائي",
+                                    "content_details": "Diagram showing a dipole antenna with sinusoidal distributions of voltage (الفولطية العظمى) and current (التيار الاعظم) along its length, indicating maximum voltage at the ends and maximum current at the center for a half-wave antenna."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 138,
+                    "sections": [
+                        {
+                            "id": "4-4",
+                            "title_ar": "مبادئ الارسال والتسلم للموجات الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "سينتبين بالشكل (13). فرق الطور بين التيار المتولد والقوة الدافعة الكهربائية يساوي ($$90^\\\\circ$$) كما نلاحظ في الشكل، تكون الفولطية في قيمتها العظمى ($$V_{max}$$) عند نهايتي الهوائي ويكون التيار في قيمته العظمى ($$I_{max}$$) عند منتصف الهوائي (نقطة تغذية قطبي الهوائي بتيار الإشارة إرسالها). عندها تكون الممانعة قليلة في هذه النقطة في حين تكون الممانعة عالية عند نهايتي الهوائي لذا يمكن تغذية الهوائي بأعظم قدرة من الدائرة المهتزة مقارنة مع أي طول أخر."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "ويمكن تعويض أحد أقطاب الهوائي كما نلاحظ في الشكل (14) ليكون هوائي إرسال أو استقبال بطول ربع موجة، إذ تعمل الأرض على تكوين صورة لجهد القطب بالقول نفسه. وبذلك يتكون قطب آخر في الأرض بطول ربع موجة لتكتمل خواص هوائي نصف الموجة. ويسمى مثل هذا الهوائي بهوائي ربع الموجة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "label_ar": "شكل (14)",
+                                    "description_ar": "يوضح الهوائي المزدوج وكيفية توزيع الفولتية والتيار على طول سلك الهوائي والأرض",
+                                    "content_details": "Diagram showing a quarter-wave antenna mounted vertically above ground, with the ground acting as a mirror image to complete a half-wave antenna effectively. Shows voltage and current distributions."
+                                },
+                                {
+                                    "type": "note",
+                                    "title_ar": "هل تعلم (للاطلاع)",
+                                    "content_ar": "عادة عندما تلمس هوائي الراديو تزداد شدة المستقبل تحسنا، وذلك لأن الهوائي يصبح ربع طول موجة بزيادة على ذلك فإن سعة المتسعة تقل فيزداد عامل الجودة ويصير الانتقاء حاد وجيد."
+                                },
+                                {
+                                    "type": "example",
+                                    "label_ar": "مثال (1)",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "ضبطت دائرة موالفة في جهاز راديو محطة إذاعية إذ كانت قيمة المحاثة في الدائرة $$6.4 \\\\text{ \\\\mu H}$$ وقيمة السعة $$1.9 \\\\text{ pF}$$"
+                                        },
+                                        {
+                                            "type": "list",
+                                            "items": [
+                                                {
+                                                    "type": "question",
+                                                    "text_ar": "ما تردد الموجات التي يلتقطها الجهاز؟ ($$a$$)"
+                                                },
+                                                {
+                                                    "type": "question",
+                                                    "text_ar": "وما طولها الموجي؟ ($$b$$)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "solution_title",
+                                            "text_ar": "الحل"
+                                        },
+                                        {
+                                            "type": "solution_step",
+                                            "text_ar": "نحسب قيمة التردد من العلاقة التالية: ($$a$$)",
+                                            "equation": "$$f_r = \\\\frac{1}{2\\\\pi\\\\sqrt{LC}} \\\\\\\\ f_r = \\\\frac{1}{2\\\\times 3.14 \\\\times \\\\sqrt{6.4 \\\\times 10^{-6} \\\\times 1.9 \\\\times 10^{-12}}} \\\\\\\\ f_r = \\\\frac{1}{2\\\\times 3.14 \\\\times 3.48 \\\\times 10^{-9}} \\\\\\\\ f_r = 45.665 \\\\times 10^6 \\\\text{ Hz}$$"
+                                        },
+                                        {
+                                            "type": "solution_step",
+                                            "text_ar": "الطول الموجي يحسب من العلاقة التالية: ($$b$$)",
+                                            "equation": "$$\\\\lambda = \\\\frac{c}{f_r} \\\\\\\\ \\\\lambda = \\\\frac{3 \\\\times 10^8}{45.665 \\\\times 10^6} = 6.57 \\\\text{ m}$$"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 139,
+                    "sections": [
+                        {
+                            "type": "example",
+                            "label_ar": "مثال (2)",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "يراد استعمال هوائي نصف موجة لإرسال إشارات لاسلكية للترددات الآتية: ($$200 \\\\text{ kHz}$$)، ($$200 \\\\text{ MHz}$$). احسب طول الهوائي لكل من هذين الترددين وبين أي من هذه الهوائيات مناسب للاستعمال العملي."
+                                },
+                                {
+                                    "type": "solution_title",
+                                    "text_ar": "الحل"
+                                },
+                                {
+                                    "type": "solution_step",
+                                    "text_ar": "حساب طول الهوائي للتردد ($$200 \\\\text{ kHz}$$) نحسب أولاً الطول الموجي ($$\\lambda$$) من خلال استعمال العلاقة الآتية:",
+                                    "equation": "$$\\lambda = \\\\frac{c}{f} \\\\\\\\ \\\\lambda = \\\\frac{3 \\\\times 10^8}{200 \\\\times 10^3} = 1500 \\\\text{ m} \\\\\\\\ \\\\lambda = \\\\frac{3 \\\\times 10^8}{20 \\\\times 10^4} \\\\text{ m} = 15 \\\\text{ km} \\\\\\\\ \\\\text{طول هوائي } (\\\\frac{\\\\lambda}{2}) \\\\text{ يساوي:} \\\\\\\\ l = \\\\frac{\\\\lambda}{2} = \\\\frac{15 \\\\text{ km}}{2} = 7.5 \\\\text{ km}$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "ومن الجدير بالذكر ان طول هذا الهوائي لا يمكن استعماله من الناحية العملية ولغرض ارسال مثل هذا التردد نقوم بتحميله على موجة حاملة عالية التردد بعملية تسمى التضمين (سيأتي شرحها لاحقاً)."
+                                },
+                                {
+                                    "type": "solution_step",
+                                    "text_ar": "حساب طول الهوائي للتردد $$200 \\\\text{ MHz}$$ نحسب أولاً الطول الموجي",
+                                    "equation": "$$\\lambda = \\\\frac{c}{f} \\\\\\\\ \\\\lambda = \\\\frac{3 \\\\times 10^8}{200 \\\\times 10^6} = \\\\frac{3}{2} \\\\text{ m} = 1.5 \\\\text{ m} = 150 \\\\text{ cm}$$"
+                                },
+                                {
+                                    "type": "solution_step",
+                                    "text_ar": "طول الهوائي المستعمل لنصف طول موجة يكون مناسباً من الناحية العملية",
+                                    "equation": "$$l = \\\\frac{\\\\lambda}{2} = \\\\frac{150 \\\\text{ cm}}{2} = 75 \\\\text{ cm}$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "وعند تعريض هذا الهوائي يصبح هوائياً بطول ربع طول الموجة وعندئذ يحسب طوله كالاتي:",
+                                    "equation": "$$l = \\\\frac{\\\\lambda}{4} = \\\\frac{150 \\\\text{ cm}}{4} = 37.5 \\\\text{ cm}$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_ar": "يكون هذا الطول مناسباً أكثر للاستعمالات العملية."
+                                },
+                                {
+                                    "type": "note",
+                                    "title_ar": "هل تعلم (للاطلاع)",
+                                    "content_ar": "تستلم القنوات الفضائية موجود ضمن وعاء معدني (LNB) ويكون بشكل سلك معدني صغير مبروش بهذا الوعاء."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 140,
+                    "sections": [
+                        {
+                            "id": "5-4",
+                            "title_ar": "كيفية عمل دائرة الارسال والتسلم",
+                            "content": [
+                                {
+                                    "id": "1-5-4",
+                                    "title_ar": "دائرة الارسال",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "يبين الشكل (15) الأجزاء الأساسية لجهاز الإرسال والذي يتكون من:"
+                                        },
+                                        {
+                                            "type": "list",
+                                            "items": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "دائرة الاهتزاز الكهرومغناطيسي وتحوي ملفاً ومتسعة متغيرة السعة."
+                                                },
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "هوائي ويحوي ملفاً يوضع مقابلأ لملف لدائرة الاهتزاز الكهرومغناطيسي ومتسعة متغيرة السعة متصلاً بسلك معدني حر أو موصلاً بالأرض."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "label_ar": "شكل (15)",
+                                            "description_ar": "الأجزاء الأساسية لجهاز الإرسال",
+                                            "content_details": "Circuit diagram of a transmitting device, showing an LC oscillation circuit (دائرة مهتزة) inductively coupled to an antenna (هوائي) for radiating electromagnetic waves."
+                                        },
+                                        {
+                                            "type": "heading_small",
+                                            "text_ar": "طريقة عملها:"
+                                        },
+                                        {
+                                            "type": "list",
+                                            "items": [
+                                                "عندما تغذى الدائرة المهتزة بالطاقة تبدأ في العمل وتولد موجات الإشارة الكهربائية ويمكن التحكم في ترددها عن طريق تغيير سعة المتسعة في دائرة الاهتزاز الكهرومغناطيسي (أو معامل الحث الذاتي للملف).",
+                                                "تتسبب موجات الإشارة الكهربائية التي تبثها دائرة الاهتزاز الكهرومغناطيسي في توليد تيار محتث متناوب في ملف الهوائي اذ يكون تردد هذا التيار مساوياً لتردد موجات الإشارة الكهربائية التي تولدها الدائرة المهتزة.",
+                                                "ينتج التيار المحتث المتولد في ملف الهوائي قوة دافعة كهربائية في سلك الهوائي ترددها يساوي تردد التيار المحتث في الملف تولد الموجات الكهرومغناطيسية التي يبثها سلك الهوائي إلى الفضاء."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "2-5-4",
+                                    "title_ar": "دائرة التسلم",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "text_ar": "يبين الشكل (16) الأجزاء الأساسية لجهاز التسلم والذي يتكون من:"
+                                        },
+                                        {
+                                            "type": "list",
+                                            "items": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "دائرة مهتزة: تتكون من ملف، متسعة متغيرة السعة."
+                                                },
+                                                {
+                                                    "type": "paragraph",
+                                                    "text_ar": "هوائي: يحتوي سلك معدني مرتبط بملف."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "label_ar": "شكل (16)",
+                                            "description_ar": "مخطط جهاز تسلم الموجات الكهرومغناطيسية",
+                                            "content_details": "Circuit diagram of a receiving device, showing an antenna (هوائي) inductively coupled to an LC oscillation circuit (دائرة مهتزة) for detecting electromagnetic waves."
+                                        },
+                                        {
+                                            "type": "heading_small",
+                                            "text_ar": "طريقة عملها:"
+                                        },
+                                        {
+                                            "type": "list",
+                                            "items": [
+                                                "يستقبل الهوائي الموجات الكهرومغناطيسية من الفضاء، اذ تولد فيه تياراً متناوباً بتردد يساوي تردد تلك الموجات.",
+                                                "يولد التيار المحتث المتناوب المار في ملف الهوائي إشارة كهربائية ترددها يساوي تردد التيار المحتث، والذي عمل الهوائي على تسلمها.",
+                                                "نغير سعة المتسعة في دائرة الاهتزاز الكهرومغناطيسي إلى أن تصل إلى حالة الرنين، وعندها يتولد في ملف دائرة الاهتزاز الكهرومغناطيسي تيار محتث متناوب يساوي تردده تردد التيار المار في الهوائي."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "pages_range": "141 to 150",
+        "data": {
+            "document_title": "مناهج فيزياء - الموجات الكهرومغناطيسية",
+            "pages": [
+                {
+                    "page_number": 1,
+                    "title": "الكشف عن الموجات الكهرومغناطيسية ذات التردد الراديوي",
+                    "sections": [
+                        {
+                            "section_id": "6-4-1",
+                            "title": "الكشف عن الموجات الكهرومغناطيسية بواسطة مجالاها الكهرابائي",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "تربط الدائرة الكهربائية المبينة في الشكل (17) مع هوائي بسيط يتذبذب المجال الكهربائي للموجة $E_r$ عندما يمر خلاله."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "إذ يعمل المجال الكهربائي للموجة $E_r$ على جعل الشحنات تهتز في الهوائي عندما يكون تذبذب $E_r$ موجبا، فإن قمة الهوائي تكون موجبة ثم تنعكس قطبية الهوائي في اللحظة التالية مباشرة، عندما يتكرر انعكاس متجه المجال الكهربائي في الموجة يجعل الشحنة تتحرك إلى أعلى وإلى أسفل الهوائي بشكل يعتمد على الزمن. وخلال هذه العملية يحد التيار المتغير جهدا مهتزا في الدائرة الرنينية المرتبطة بالهوائي بوساطة الحث المتبادل وعند تغيير مقدار السعة للحصول على حالة الرنين بين تردد الموجة و تردد الدائرة الرنينية سنحصل على إشارة الموجة الكهرومغناطيسية المستلمة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "مخطط جهاز تسلم الموجات الكهرومغناطيسية بوساطة مجاليها الكهربائي",
+                                    "figure_number": 17
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "6-4-2",
+                            "title": "الكشف عن الموجات الكهرومغناطيسية بواسطة مجالاها المغناطيسي",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "تربط الدائرة الكهربائية المبينة في الشكل (18) بهوائي بسيط."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "ويتكون الهوائي في هذه الدائرة من سلك موصل يشكل حلقة، ولتكون المجال المغناطيسي للموجة الكهرومغناطيسية متغيراً مع الزمن فتتولد قوة دافعة كهربائية محتثة (induced emf) في حلقة الهوائي."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "ويمكن التوليف مع الإشارة المستلمة في الهوائي عن طريق دائرة الرنين بوساطة تغيير سعة المتسعة الموجودة في الدائرة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "مخطط يمثل جهاز تسلم الموجات الكهرومغناطيسية بوساطة مجاليها المغناطيسي",
+                                    "figure_number": 18
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 2,
+                    "title": "التضمين Modulation",
+                    "sections": [
+                        {
+                            "section_id": "7-4",
+                            "title": "التضمين Modulation",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "عملية التضمين تعني تحميل إشارة المعلومات (صوت أو صورة أو مكالمة هاتفية مثلاً) ذات التردد الواطئ (تسمى موجة محمولة) على موجة عالية التردد (تسمى موجة حاملة)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وفي حالة البث الإذاعي مثلاً تحول موجات الصوت المسموع إلى إشارات كهربائية بواسطة اللاقطة الصوتية (تسمى الموجات السمعية) وبالتردد نفسه، ثم ترسل هذه الإشارات الكهربائية إلى الدائرة الرنينية المهتزة لتقوم بعملية تحميلها على الموجات الراديوية (الحاملة) التي يكون ترددها أعلى من تردد الإشارة السمعية ومن ثم ترسل إلى هوائي الإرسال ليقوم بعملية تحويلها إلى موجات كهرومغناطيسية لتبث بكفاءة وتقطع مسافات طويلة من غير اضمحلال محسوس."
+                                },
+                                {
+                                    "type": "subtitle",
+                                    "text": "ان التضمين التماثلي (Analog Modulation) يعد تغيير لاحد خواص موجة التيار عالي التردد (سعة التذبذب – تردد التذبذب – طور التذبذب)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "لذا توجد ثلاثة أنواع من التضمين التماثلي هي:"
+                                },
+                                {
+                                    "type": "ordered_list",
+                                    "items": [
+                                        "التضمين السعوي AM",
+                                        "التضمين الترددي FM",
+                                        "التضمين الطوري PM"
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وهناك نوع آخر من التضمين من الممكن إجراؤه على الموجة المضمنة وذلك لغرض التقليل من التأثيرات الخارجية عليها وزيادة على إمكانية تشفيرها ويطلق على هذا النوع من التضمين بالتضمين الرقمي. (Digital modulation)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "لاحظ الشكل (19) الذي يوضح عملية نقل المكالمة الهاتفية بطريقة تحويل التضمين التماثلي إلى تضمين رقمي عند الإرسال وعلى العكس من ذلك عند التسلم."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يوضح عملية نقل المكالمات الهاتفية بعد التضمين الرقمي (للاطلاع)",
+                                    "figure_number": 19
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "7-4-1",
+                            "title": "التضمين السعوي (Amplitude Modulation) (AM)",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "الشكل (20) يوضح كيفية تضمين موجة معلومات منخفضة التردد على موجة حاملة عالية التردد وتحصل على موجة تظهر المعلومات بشكل تغيرات في السعة مع ثبوت ترددها. وعلى هذا الأساس فان التضمين السعوي هو تغيير في سعة الموجة الحاملة كدالة خطية مع سعة الموجة المحمولة على وفق تردد الإشارة المحمولة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "التضمين السعوي",
+                                    "figure_number": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 3,
+                    "sections": [
+                        {
+                            "section_id": "7-4-2",
+                            "title": "التضمين الترددي (Frequency Modulation) (FM)",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "الشكل (21) يوضح التضمين الترددي إذ إن السعة للموجة المحمولة تقلل من تردد الموجة الحاملة والعكس من ذلك صحيح. ونلاحظ في الجهة اليمنى عدم تغير سعة الموجة الحاملة فالتضمين الترددي هو تغيير تردد الموجة الحاملة كدالة خطية مع تردد الموجة المحمولة على وفق سعة الموجة المحمولة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "التضمين الترددي",
+                                    "figure_number": 21
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "7-4-3",
+                            "title": "التضمين الطوري (Phase Modulation) (PM)",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "شكل (22) يوضح تضمين الطور والذي يظهر التغير في سعة موجة المعلومات على شكل تغيرات في طور الموجة الحاملة. فالتضمين الطوري هو تغيير في طور الموجة الحاملة كدالة خطية مع سعة الموجة المحمولة على وفق تردد الإشارة المحمولة."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "التضمين الطوري",
+                                    "figure_number": 22
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "8-4",
+                            "title": "مدى الموجات الراديوية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "نظرا للتباين الكبير في خصائص الموجات الكهرومغناطيسية الراديوية من ناحية طرائق توليدها وانتشارها فقد قسمت على مناطق عدة منها:"
+                                },
+                                {
+                                    "type": "unordered_list",
+                                    "items": [
+                                        {
+                                            "type": "list_item",
+                                            "text": "منطقة الترددات المنخفضة جداً (VLF) - $30 \\\\text{ kHz} \\\\text{ - } 3 \\\\text{ kHz}$ ومجال الترددات المنخفضة $30 \\\\text{ kHz} \\\\text{ - } 300 \\\\text{ kHz}$ (LF) وستستثمر غالباً في الملاحة البحرية."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "text": "منطقة الترددات المتوسطة ($3 \\\\text{ MHz} \\\\text{ - } 300 \\\\text{ kHz}$) (MF) وتستثمر غالباً في البث الإذاعي المعتاد."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "text": "منطقة الترددات العالية ($30 \\\\text{ MHz} \\\\text{ - } 3 \\\\text{ MHz}$) (HF) وتستثمر في بعض الهواتف، والاتصال بين الطائرات والسفن وغير ذلك."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "text": "منطقة الترددات العالية جداً ($300 \\\\text{ MHz} \\\\text{ - } 30 \\\\text{ MHz}$) (VHF) وتستثمر في بعض أجهزة التلفاز والإرسال الإذاعي، وأنظمة التحكم بالحركة الجوية، وأنظمة اتصالات الشرطة، وغيرها."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 4,
+                    "title": "انتشار الموجات الكهرومغناطيسية",
+                    "sections": [
+                        {
+                            "section_id": "9-4",
+                            "title": "انتشار الموجات الكهرومغناطيسية",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "تنتشر الموجات الكهرومغناطيسية في الأوساط المختلفة بسرعة ($V$) تحددها مقادير كل من السماحية الكهربائية (permittivity $(\\\\varepsilon)$) والنفاذية المغناطيسية (permeability $(\\\\mu)$) للوسط الذي تنتشر خلاله على وفق المعادلة:"
+                                },
+                                {
+                                    "type": "equation",
+                                    "latex": "V = \\\\frac{1}{\\\\sqrt{\\\\mu \\\\varepsilon}}"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "إذ إن قيم هذه الثوابت في الفراغ تساوي"
+                                },
+                                {
+                                    "type": "equation",
+                                    "latex": "\\\\varepsilon_o = 8.854 \\\\times 10^{-12} \\\\frac{\\\\text{F}}{\\\\text{m}}"
+                                },
+                                {
+                                    "type": "equation",
+                                    "latex": "\\\\mu_o = 4\\\\pi \\\\times 10^{-7} \\\\frac{\\\\text{H}}{\\\\text{m}}"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "ومن قيم هذه الثوابت يمكن حساب سرعة الضوء في الفراغ ($c$):"
+                                },
+                                {
+                                    "type": "equation",
+                                    "latex": "c = \\\\frac{1}{\\\\sqrt{\\\\mu_o \\\\varepsilon_o}}"
+                                },
+                                {
+                                    "type": "equation",
+                                    "latex": "c = \\\\frac{1}{\\\\sqrt{12.5663 \\\\times 10^{-7} \\\\times 8.854 \\\\times 10^{-12}}} = 2.997964 \\\\times 10^8 \\\\frac{\\\\text{m}}{\\\\text{s}}"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وعادة يقرب هذا الرقم إلى $3 \\\\times 10^8 \\\\frac{\\\\text{m}}{\\\\text{s}}$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "تنتشر الموجات الراديوية في الجو بطرائق عدة منها:"
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "9-4-1",
+                            "title": "الموجات الأرضية (Ground Waves)",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "وتشمل الموجات التي مدى تردداتها بين $2 \\\\text{ MHz} \\\\text{ - } 530 \\\\text{ kHz}$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وتنتقل قريبة من سطح الأرض. تتخذ الموجات الأرضية عند انتشارها مساراً قريباً جداً من سطح الأرض ويحكي مسار انتشارها مع انحناء سطح الأرض. لاحظ الشكل (23)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "ولقد استفيد من هذه الظاهرة لبناء أنظمة اتصالات محدودة المسافة وذلك لمحدودية قدرة بث إرسال هذه الموجات."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يبين كيفية انتشار الموجات الأرضية والسماوية",
+                                    "figure_number": 23
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 5,
+                    "sections": [
+                        {
+                            "section_id": "9-4-2",
+                            "title": "الموجات السماوية Sky Waves",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "تشمل هذه الموجات جميع الترددات التي تقع بين $2 \\\\text{ MHz} \\\\text{ - } 30 \\\\text{ MHz}$ ويعتمد هذا النوع من الاتصالات على وجود طبقات الأيونوسفير (Ionosphere layers) وهي طبقات عالية التأين إذ تعكس الموجات السماوية إلى الارض، لاحظ الشكل (24)."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يوضح طبقتي الأيونوسفير (F-layer) و (D-layer) في أثناء النهار",
+                                    "figure_number": 24
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وتتكون طبقات الأيونوسفير عالية التأين عند منتصف النهار وقليلة التأين في أثناء الليل. إذ تختفي الطبقة المتأينة القريبة من الأرض في أثناء الليل والتي تسمى (D-layer) وفي أثناء الليل تكون الاستلام وادخما لانعكاس الموجات من الطبقة العليا (F-layer)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وتعمل هذه الطبقات على عكس بعض أنواع الموجات الراديوية الموجهة إليها من محطات البث الأرضية إلى الأرض، ولهذا السبب يكون تسلم هذه الموجات في أثناء النهار لمدى أقل مما هو عليه في أثناء الليل نتيجة انعكاس الموجات الراديوية من المنطقة السفلى (D-layer) و في أثناء الليل يكون الاستلام واضحا لانعكاس الموجات من الطبقة العليا (F-layer)."
+                                }
+                            ]
+                        },
+                        {
+                            "section_id": "9-4-3",
+                            "title": "الموجات الفضائية Space Waves",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "وتشمل هذه الموجات جميع الترددات التي تزيد عن $30 \\\\text{ MHz}$ (VHF) أي نطاق الترددات العالية جداً (Very high frequency) وهي موجات دقيقة (microwaves) تنتشر في خطوط مستقيمة ولا تنعكس عن طبقة الأيونوسفير بل تنفذ من خلالها، ويمكن استثمار هذه الموجات في عملية الاتصال بين القارات وذلك باستعمال أقمار صناعية في مدار متزامن مع دوران الأرض حول محورها (ويطلق عليها توابع satellite) لتعمل كمعيدات (repeaters) (محطات لتقوية الإشارة وإعادة إرسالها) والشكل (25) يبين كيفية قيام الاقمار الصناعية بفاعلية الاتصال إذ تقوم هذه الأقمار باستقبال الإشارات الضعيفة من محطات أرضية ثم تعيد بثها مرة أخرى إلى الأرض لتستلمها محطات أرضية أخرى على بعد آلاف الكيلومترات."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يوضح عمل الأقمار الصناعية في الاتصال",
+                                    "figure_number": 25
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 6,
+                    "title": "بعض تطبيقات الموجات الكهرومغناطيسية",
+                    "sections": [
+                        {
+                            "section_id": "10-4-1",
+                            "title": "الرادار",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "كلمة رادار (RADAR) هي اختصار للأحرف الأولى للجملة الآتية Radio Detection And Ranging وتعني الكشف وتحديد بعد المسافة بالموجات الراديوية."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "الرادار نظام إلكتروني يستعمل لأهداف متحركة أو ثابتة وتحديد مواقعها. ويعمل جهاز الرادار بوساطة إرسال موجات راديوية باتجاه الهدف، واستقبال الموجات التي تنعكس عنه. ويدل الزمن الذي تستغرقه الموجات في ذهابها وإيابها بعد انعكاسها على مدى (range) الهدف وكم يبعد، فضلا عن ان الاتجاه الذي تعود منه الموجات المنعكسة يدل على موقع الهدف."
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "صورة لنظام رادار",
+                                    "figure_number": 26
+                                },
+                                {
+                                    "type": "subtitle",
+                                    "text": "المكونات الرئيسة للرادار:"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "وعلى الرغم من اختلاف المجموعات الرادارية في الحجم فهي متشابهة في ادائها، والشكل (27) يوضح المكونات الرئيسة للرادار:"
+                                },
+                                {
+                                    "type": "ordered_list",
+                                    "items": [
+                                        {
+                                            "type": "list_item",
+                                            "title": "المذبذب:",
+                                            "text": "جهاز يولد إشارة كهربائية بتردد ثابت وذات قدرة واطئة."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "المضمن:",
+                                            "text": "يعمل على تحميل الموجات السمعية على الموجات الراديوية."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "المرسل:",
+                                            "text": "يعمل على تقليل زمن النبضة الواصلة إليه من المضمن فيرسلها بنبضة ذات قدرة عالية إلى الهوائي."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "مفتاح الإرسال والاستقبال:",
+                                            "text": "مفتاح يعمل على فتح او اغلاق دائرة الإرسال والاستقبال."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "الهوائي:",
+                                            "text": "يقوم بإرسال الموجات الراديوية (الموجات الدقيقة أو الموجات الراديوية) بشكل حزم ضيقة موجهة إلى الهدف وتسلمها بعد انعكاسها عن الهدف"
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "المؤقت:",
+                                            "text": "يتحكم زمنياً بعمل الأجزاء الرئيسة للرادار."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "المستقبل:",
+                                            "text": "يتسلم الموجات المنعكسة المتجمعة بوساطة الهوائي ويقوم بتكبيرها وعرضها على معالج الإشارة."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "معالج الإشارة:",
+                                            "text": "يعمل على انتقاء الإشارات المنعكسة من الأهداف الصغيرة المتحركة، ويجب الإشارات المنعكسة عن الأهداف الكبيرة والثابتة."
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "الشاشة:",
+                                            "text": "تعمل على إظهار الموجات المنعكسة من الهدف على هيئة نقاط مضيئة."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يوضح بشكل حزم ضيقة للموجات الراديوية (الموجات الدقيقة او الموجات الراديوية)",
+                                    "figure_number": 27
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 7,
+                    "sections": [
+                        {
+                            "section_id": "10-4-2",
+                            "title": "التحسس النائي (الاستشعار عن بعد) Remote Sensing",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "هو أحد مجالات العلوم التي تمدنا بالمعلومات عن سطح الأرض من غير أي احتكاك او اتصال مباشر بسطحها. كالحصول على صورة من طائرة أو قمر صناعي، ويتم ذلك باستثمار الموجات الكهرومغناطيسية الضوئية إلى نهاية الترددات الراديوية المنعكسة أو المنبعثة من الأجسام الأرضية أو من الجو أو مياه البحار. والتي يمكن لأجهزة الاستشعار عن بعد الموجودة في الأقمار الصناعية أو الطائرات أو البالونات أن تتحسسها لاحظ الشكل (28) وتقوم بعملية تصويرها وتحليل بياناتها لتكون جاهزة للاستعمال في فروع المعرفة مثل الجيولوجيا والهندسة المدنية والأرصاد الجوية و الزراعة وفي التطبيقات العسكرية وغيرها."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "هناك نوعان من التحسس النائي:"
+                                },
+                                {
+                                    "type": "ordered_list",
+                                    "items": [
+                                        {
+                                            "type": "list_item",
+                                            "title": "التحسس النائي بحسب مصدر الطاقة:",
+                                            "text": "إذ يستعمل نوعان من الصور هما:",
+                                            "sub_items": [
+                                                {
+                                                    "type": "list_item",
+                                                    "title": "صور نشطة (active images):",
+                                                    "text": "وهي التي يعتمد فيها على مصدر طاقة مثبت على القمر نفسه ليقوم بعملية إهدافه وتسلم الأشعة المنعكسة عنه لاحظ الشكل (29)."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "صورة لتصوير سطح الأرض باستخدام الأقمار الصناعية والطائرات والبالونات",
+                                    "figure_number": 28
+                                },
+                                {
+                                    "type": "figure",
+                                    "description": "يوضح كيفية استلام القمر الصناعي للموجات الكهرومغناطيسية التي تشعها الأرض",
+                                    "figure_number": 29
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 8,
+                    "sections": [
+                        {
+                            "section_id": "10-4-2",
+                            "title": "التحسس النائي (الاستشعار عن بعد) Remote Sensing (تابع)",
+                            "content": [
+                                {
+                                    "type": "ordered_list",
+                                    "items": [
+                                        {
+                                            "type": "list_item",
+                                            "title": "التحسس النائي بحسب مصدر الطاقة: (تابع)",
+                                            "sub_items": [
+                                                {
+                                                    "type": "list_item",
+                                                    "title": "صور غير نشطة (passive images):",
+                                                    "text": "وهي التي تعتمد على مصدر الإشعاع المنبعث من الهدف نفسه."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "title": "التحسس النائي بحسب الطول الموجي:",
+                                            "text": "يمكن تقسيم صور الهدف المتسلمة طبقاً للطول الموجي على ثلاث أقسام هي:",
+                                            "sub_items": [
+                                                {
+                                                    "type": "list_item",
+                                                    "text": "صور الأشعة المرئية."
+                                                },
+                                                {
+                                                    "type": "list_item",
+                                                    "text": "صور الأشعة تحت الحمراء."
+                                                },
+                                                {
+                                                    "type": "list_item",
+                                                    "text": "صور الأشعة المايكروية."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "subtitle",
+                                    "text": "مجالات استعمال التحسس النائي:"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "توجد مجالات عدة تستثمر فيها هذه التقنية ومنها:"
+                                },
+                                {
+                                    "type": "ordered_list",
+                                    "items": [
+                                        "اكتشاف الخامات المعدنية والبترولية.",
+                                        "مراقبة حركة الأنهار وجفاف الأراضي والبحيرات والتعامل مع السيول والفيضانات المتوقعة بمقارنة صور مأخوذة على فترات زمنية مختلفة.",
+                                        "دراسة المشاريع الإنشائية والتخطيط العمراني للمدن والقرى والمنشآت الكبيرة.",
+                                        "دراسة النباتات الطبيعية ودراسة التوزيع النوعي للأراضي والتربة.",
+                                        "تستثمر هذه التقنية في التطبيقات العسكرية. فمثلاً بعض الأقمار الصناعية العسكرية مزودة بمتحسسات تعمل بالأشعة تحت الحمراء، يمكنها التحسس بالحرارة المنبعثة من الشاحنات والطائرات والضواريع والسيارات والأشخاص ورصد اية حركة على سطح الأرض، يمكن للمتحسسات ان تعمل في شتى الظروف الجوية.",
+                                        "تستثمر في تصوير النجوم والكواكب المطلوب دراستها باستعمال كاميرات رقمية مثبتة على اقمار صناعية خاصة بالبحث العلمي في مجال الفضاء والفلك."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 9,
+                    "title": "أسئلة الفصل الرابع",
+                    "sections": [
+                        {
+                            "section_id": "chapter_questions",
+                            "title": "أسئلة الفصل الرابع (اختيار من متعدد)",
+                            "content": [
+                                {
+                                    "type": "instruction",
+                                    "text": "اختر العبارة الصحيحة لكل من العبارات الآتية:"
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "أن تيار الإزاحة ($I_d$) يتناسب مع:",
+                                    "options": {
+                                        "a": "المعدل الزمني للتغير في المجال المغناطيسي",
+                                        "b": "المعدل الزمني للتغير في المجال الكهربائي.",
+                                        "c": "المعدل الزمني للتغير في تيار التوصيل.",
+                                        "d": "المعدل الزمني للتغير في تيار الاستقطاب."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "ان تذبذب الالكترونات الحرة في موصل تنتج موجات تسمى:",
+                                    "options": {
+                                        "a": "موجات الأشعة السينية.",
+                                        "b": "موجات أشعة كاما.",
+                                        "c": "موجات الأشعة تحت الحمراء.",
+                                        "d": "موجات الراديوية."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "يتحدد مقدار سرعة الموجة الكهرومغناطيسية في الأوساط المختلفة بوساطة:",
+                                    "options": {
+                                        "a": "مقدار السماحية الكهربائية لذلك الوسط فقط.",
+                                        "b": "النفاذية المغناطيسية لذلك الوسط فقط.",
+                                        "c": "حاصل جمع سماحية ونفاذية ذلك الوسط.",
+                                        "d": "مقلوب الجذر التربيعي لحاصل ضرب مقدار السماحية والنفاذية لذلك الوسط."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "الموجات الكهرومغناطيسية التي تستعمل في اجهزة الرادار هي:",
+                                    "options": {
+                                        "a": "موجات الاشعة فوق البنفسجية.",
+                                        "b": "موجات اشعة كاما.",
+                                        "c": "موجات الاشعة السينية.",
+                                        "d": "موجات الدقيقة (microwave)."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "تتولد الموجات الراديوية عند:",
+                                    "options": {
+                                        "a": "انسياب تيار مستقر في سلك موصل.",
+                                        "b": "حركة شحنة كهربائية ساكنة في سلك موصل.",
+                                        "c": "حركة شحنة كهربائية معجلة في سلك موصل.",
+                                        "d": "شحنات كهربائية ساكنة في سلك موصل."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "للحصول على كفاءة عالية في عمليتي الارسال والتسلم يستعمل هوائي طوله يبلغ نصف طول الموجة وذلك لأن:",
+                                    "options": {
+                                        "a": "مقدار الفولتية اكبر مما يمكن عند نقطة تغذية الهوائي.",
+                                        "b": "مقدار الفولتية اقل ما يمكن عند نقطة تغذية الهوائي.",
+                                        "c": "مقدار الفولتية والتيار أكبر ما يمكن عند نقطة تغذية الهوائي.",
+                                        "d": "مقدار الفولتية والتيار اقل ما يمكن عند نقطة تغذية الهوائي."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "يمكن أن تتجهّل الشحنة الكهربائية في موصل عندما يؤثر فيها:",
+                                    "options": {
+                                        "a": "مجال كهربائي ثابت.",
+                                        "b": "مجال كهربائي متذبذب.",
+                                        "c": "مجال كهربائي ومجال مغناطيسي ثابتان.",
+                                        "d": "مجال مغناطيسي ثابت."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "في عملية التضمين الترددي (FM) نحصل على موجة مضمنة بسعة:",
+                                    "options": {
+                                        "a": "ثابتة وتردد ثابت.",
+                                        "b": "متغيرة وتردد متغير.",
+                                        "c": "ثابتة وتردد متغير.",
+                                        "d": "متغيرة وتردد ثابت."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "تعكس طبقة الايونوسفير في الجو الترددات الراديوية التي تكون:",
+                                    "options": {
+                                        "a": "ضمن المدى $30 \\\\text{ kHz} \\\\text{ - } 2 \\\\text{ MHz}$",
+                                        "b": "ضمن المدى $40 \\\\text{ MHz} \\\\text{ - } 30 \\\\text{ MHz}$",
+                                        "c": "اكثر من $40 \\\\text{ MHz}$",
+                                        "d": "جميع الترددات الراديوية"
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "ان عملية الارسال والتسلم للموجات الكهرومغناطيسية تعتمد على:",
+                                    "options": {
+                                        "a": "قطر سلك الهوائي.",
+                                        "b": "كثافة سلك الهوائي.",
+                                        "c": "دائرة الاهتزاز الكهرومغناطيسي والهوائي.",
+                                        "d": "كل الاحتمالات السابقة."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "في حال البث الاذاعي تقوم اللاقطة الصوتية:",
+                                    "options": {
+                                        "a": "بتحويل موجات الصوت المسموع الى موجات سمعية بالتردد نفسه.",
+                                        "b": "بعملية التضمين الترددي.",
+                                        "c": "بعملية التضمين السعوي.",
+                                        "d": "بفصل الترددات السمعية عن الترددات الراديوية."
+                                    }
+                                },
+                                {
+                                    "type": "multiple_choice_question",
+                                    "question": "صور التحسس النائي التي يعتمد فيها على مصدر الطاقة من القمر نفسه تسمى:",
+                                    "options": {
+                                        "a": "صور غير نشطة.",
+                                        "b": "صور نشطة.",
+                                        "c": "صور الاشعاع المنبعث من الهدف نفسه."
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 10,
+                    "title": "مسائل الفصل الرابع",
+                    "sections": [
+                        {
+                            "section_id": "chapter_problems",
+                            "title": "مسائل الفصل الرابع",
+                            "content": [
+                                {
+                                    "type": "problem",
+                                    "problem_number": 1,
+                                    "text": "يستعمل جهاز راديو لالتقاط محطة إذاعية تعمل عند تردد مقدار $840 \\\\text{ kHz}$ فإذا كانت دائرة الرنين تحتوي على محث مقداره $0.04 \\\\text{ mH}$، فما هي سعة المتسعة الواجب توافرها لالتقاط هذه المحطة؟"
+                                },
+                                {
+                                    "type": "problem",
+                                    "problem_number": 2,
+                                    "text": "ما مدى الأطوال الموجية التي تغطيه محطة إرسال AM إذاعية تردداتها في المدى من $540 \\\\text{ kHz}$ إلى $1600 \\\\text{ kHz}$؟"
+                                },
+                                {
+                                    "type": "problem",
+                                    "problem_number": 3,
+                                    "text": "ما هو أقل طول لهوائي السيارة اللازم لاستقبال إشارة ترددها $100 \\\\text{ MHz}$؟"
+                                },
+                                {
+                                    "type": "problem",
+                                    "problem_number": 4,
+                                    "text": "ما الطول الموجي لموجات كهرومغناطيسية يشعها مصدر تردده $50 \\\\text{ Hz}$؟"
+                                },
+                                {
+                                    "type": "problem",
+                                    "problem_number": 5,
+                                    "text": "ما تردد الموجات الكهرومغناطيسية التي أطوال موجاتها: ($1.2 \\\\text{ m}$) (a) و ($12 \\\\text{ m}$) (b) و ($120 \\\\text{ m}$) (c)؟"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

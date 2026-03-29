@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "unit": 3,
+    "pages": "1-10",
+    "description": "Activity book for sixth grade preparatory students covering careers and professions, zero, first, second, and third conditionals, reported speech, wishes and regrets, and reading comprehension about Zaha Hadid and conference interpreting"
+  },
+  "sections": [
+    {
+      "id": "careers_matching",
+      "title": "Lesson 1: Careers and Professions",
+      "definition": "Matching careers with photos and listening to speakers talk about their professions.",
+      "explanation": "Careers include: architecture, aviation industry, engineering, environment, fine art, information technology, medicine, oil industry, scientific research, teaching, tourist industry.",
+      "rules": null,
+      "notes": "Key career fields: architecture (designing buildings), aviation (flying planes), engineering (building machines/roads), environment (conservation), IT (computers), medicine (healthcare), oil industry (petroleum), scientific research (laboratory work), teaching (education), tourist industry (travel and hospitality).",
+      "examples": [
+        {
+          "problem": "Match careers with photos",
+          "solution": "Each photo represents a different career field such as architecture, engineering, medicine, etc."
+        }
+      ]
+    },
+    {
+      "id": "zero_first_conditional",
+      "title": "Lesson 2: Zero and First Conditionals",
+      "definition": "Zero conditional expresses general truths (if + present, present). First conditional expresses real possibilities (if + present, will + infinitive).",
+      "explanation": "Ramiz interviews a careers adviser about working in water technology. The conversation uses conditionals to discuss career paths and requirements.",
+      "rules": "Zero conditional: If + present simple, present simple (e.g., Plants die if you don't water them). First conditional: If + present simple, will + infinitive (e.g., If you come tomorrow, I'll help you).",
+      "notes": "Key vocabulary: career, conserving, environment, involve, qualifications, Science, university. Water technology involves finding ways of conserving and purifying water.",
+      "examples": [
+        {
+          "problem": "Complete: If you're good at Science and Geography, there ______ lots of jobs to choose from.",
+          "solution": "are (zero conditional)"
+        },
+        {
+          "problem": "Complete: If you come back next week, I ______ the answer.",
+          "solution": "will have (first conditional)"
+        }
+      ]
+    },
+    {
+      "id": "second_conditional",
+      "title": "Lesson 3: Second Conditional",
+      "definition": "The second conditional is used to talk about unreal or imaginary situations in the present or future.",
+      "explanation": "Maryam dreams of being a pilot but her parents want her to be a doctor. She uses second conditional to express unreal wishes and hypothetical situations.",
+      "rules": "Structure: If + past simple, would/could/might + verb stem. If I were you, I'd apply to two or three colleges. If clause uses past tense, main clause uses would/could/might.",
+      "notes": "Examples: If I could have any career, I'd like to be a pilot. If I was a pilot, nobody would fly with me (because I'm scared of heights). If I were you, I'd train as a doctor and have flying lessons in my free time.",
+      "examples": [
+        {
+          "problem": "What would Maryam choose if she could have any career?",
+          "solution": "She would choose to be a pilot."
+        },
+        {
+          "problem": "Why does Maryam think she could never be a successful pilot?",
+          "solution": "Because she is a bit scared of heights."
+        }
+      ]
+    },
+    {
+      "id": "zaha_hadid_interview",
+      "title": "Lesson 4: Zaha Hadid Interview - Reported Speech",
+      "definition": "An interview with Zaha Hadid, the famous Iraqi architect, discussing her career, background, and achievements.",
+      "explanation": "Zaha Hadid was born in Baghdad, studied Mathematics in Beirut, then Architecture in London. She opened her own practice in 1979 and taught at Harvard. She won the Pritzker Prize in 2004 (first woman ever) and the Stirling Prize in 2010 and 2011.",
+      "rules": null,
+      "notes": "Key facts: Zaha Hadid is a London-based Iraqi architect. She has been interested in architecture since childhood. She believes any Iraqi woman can succeed if she works hard enough.",
+      "examples": [
+        {
+          "problem": "When did Zaha Hadid decide to be an architect?",
+          "solution": "It has been her dream since childhood."
+        },
+        {
+          "problem": "What prize did she win in 2004?",
+          "solution": "The Pritzker Prize - she was the first woman ever to win it."
+        }
+      ]
+    },
+    {
+      "id": "wishes_and_regrets",
+      "title": "Lesson 5: I Wish and If Only for Regrets",
+      "definition": "We use I wish or If only + past perfect to express regret about the past.",
+      "explanation": "After failing her driving test, Sajida expresses regrets about mistakes she made: not learning the Highway Code, driving through a red light, not slowing down at a crossroads, parking illegally, exceeding the speed limit, hitting a tree, and driving into a parked car.",
+      "rules": "Structure: I wish + past perfect (had + past participle). If only + past perfect. Used to express regret about things that happened or didn't happen in the past.",
+      "notes": "Examples: I wish I'd learnt the Highway Code. If only I hadn't driven through a red light.",
+      "examples": [
+        {
+          "problem": "Express regret about not learning the Highway Code.",
+          "solution": "I wish I'd learnt the Highway Code."
+        },
+        {
+          "problem": "Express regret about driving through a red light.",
+          "solution": "If only I hadn't driven through a red light."
+        }
+      ]
+    },
+    {
+      "id": "third_conditional",
+      "title": "Lesson 6: Third Conditional",
+      "definition": "The third conditional is used to talk about unreal situations in the past - things that did not happen and their imagined results.",
+      "explanation": "A movie director talks about different careers he tried before finding the right one. He uses third conditional to express how things could have been different.",
+      "rules": "Structure: If + past perfect, would have/could have/might have + past participle. If I had passed the test, I would have become a pilot. Used for unreal past situations and expressing regret.",
+      "notes": "Examples: If I had passed the eye test, I would have become a pilot. If I hadn't been scared of blood, I would have been a doctor. If I had spoken more languages, I could have been a good tour guide.",
+      "examples": [
+        {
+          "problem": "Complete: If I had passed the eye test, I ______ a pilot.",
+          "solution": "would have become"
+        },
+        {
+          "problem": "Complete: If I hadn't been scared of blood, I ______ a doctor.",
+          "solution": "would have been"
+        }
+      ]
+    },
+    {
+      "id": "birchwood_college",
+      "title": "Lesson 7: Birchwood International College Advertisement",
+      "definition": "An advertisement for Birchwood International College in the UK, describing courses, locations, and accommodation options.",
+      "explanation": "The college has 24 locations across the UK. Teachers are highly qualified. Classes are small for individual attention. Courses run throughout the year. Accommodation options include homestay (stay with British family) or residential (student residence with canteen).",
+      "rules": null,
+      "notes": "Key vocabulary: locations, experienced, level, staff, advice, courses, suit, experience, accommodation, canteen, return.",
+      "examples": [
+        {
+          "problem": "What accommodation options are available?",
+          "solution": "Homestay (staying with a British family) or residential accommodation in student residences with a canteen."
+        },
+        {
+          "problem": "What is the advantage of homestay?",
+          "solution": "You have the opportunity to experience family life in Britain and practise English in the evenings."
+        }
+      ]
+    },
+    {
+      "id": "summer_jobs_email",
+      "title": "Lesson 8: Summer Jobs Email",
+      "definition": "An email from Hamed to Basim inviting him to work together at summer camps for children with special needs in the USA.",
+      "explanation": "The camps are in 12 locations across the USA. Jobs include activity supervisor (taking children on walks, kayaking, climbing). Salary is good, meals and accommodation are provided. Contracts available for 6, 8, or 10 weeks.",
+      "rules": null,
+      "notes": "Key points: Hamed improved his grades with Basim's help. They can choose three preferred camp locations. Meals and accommodation are free. Hamed prefers 8 weeks to also take an English course. The experience will look good on their CV.",
+      "examples": [
+        {
+          "problem": "Why did Hamed write to Basim?",
+          "solution": "To invite Basim to do a summer job together at summer camps in the USA."
+        },
+        {
+          "problem": "What does Hamed think about the experience?",
+          "solution": "It will be a great experience, they will learn lots of skills, and it will look great on their CV."
+        }
+      ]
+    },
+    {
+      "id": "conference_interpreter",
+      "title": "Lesson 9: Conference Interpreter - Samira Al Mahmoud",
+      "definition": "A text about Samira Al Mahmoud, a conference interpreter who works for the UN, World Bank, and UNESCO.",
+      "explanation": "Samira was born in Britain to Iraqi parents. She grew up speaking Arabic at home and English at school. She did a degree in Arabic and a postgraduate course in conference interpreting. Only 50% of students pass the final diploma exams. She works freelance and earns around £450 a day.",
+      "rules": null,
+      "notes": "Key skills: good general knowledge, read newspapers daily, know technical terms, remain calm under pressure, think fast, convey meaning rather than literal translation.",
+      "examples": [
+        {
+          "problem": "How did Samira prepare for the oil conference?",
+          "solution": "She read about the subject to get familiar with the technical terms."
+        },
+        {
+          "problem": "What percentage of students pass the final interpreting diploma exams?",
+          "solution": "Only 50% of the students who are accepted pass their final diploma exams."
+        },
+        {
+          "problem": "How did Samira translate the phrase 'Akl il-inab habba habba'?",
+          "solution": "She translated it as 'One step at a time' instead of the literal translation 'Grapes are eaten one by one'."
+        }
+      ]
+    },
+    {
+      "id": "unit_review",
+      "title": "Unit 3 Review",
+      "definition": "Review of key language points from Unit 3: zero and first conditionals, second conditional, reported speech, wishes and regrets, and third conditional.",
+      "explanation": "Practice talking about cause and results using conditionals, unreal situations, reporting questions, expressing past regrets, and unreal past situations.",
+      "rules": "Zero conditional: general truths. First conditional: real possibilities. Second conditional: unreal present/future. Third conditional: unreal past. Reported speech: change tenses. I wish/If only: past perfect for regrets.",
+      "notes": "Review examples: If I go to bed late, I don't pay attention. I'll help you if you want. If I were you, I'd explain. Faisal asked me whether we wanted to meet. I wish it hadn't rained. If they had won, they would have gone to the final.",
+      "examples": [
+        {
+          "problem": "Give an example of a zero conditional",
+          "solution": "If I go to bed late, I don't pay much attention in class the next day."
+        },
+        {
+          "problem": "Give an example of a second conditional",
+          "solution": "If I were you, I'd explain what happened to the teacher."
+        },
+        {
+          "problem": "Give an example of reported speech for a question",
+          "solution": "Faisal asked me whether we wanted to meet him at the park after school."
+        },
+        {
+          "problem": "Give an example of a third conditional",
+          "solution": "If they had won this last match, they would have gone to the final."
+        }
+      ]
+    }
+  ]
+}

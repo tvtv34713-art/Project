@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "25-48",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 2"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Matching Words and Photos",
+      "definition": null,
+      "explanation": null,
+      "rules": null,
+      "notes": "Exercise to match vocabulary words with corresponding photos.",
+      "examples": []
+    },
+    {
+      "id": 2,
+      "title": "Listening Comprehension - Speaker 1",
+      "definition": null,
+      "explanation": "Questions about a speaker who used to speed.",
+      "rules": null,
+      "notes": "Focus on past habits and past continuous.",
+      "examples": [
+        {
+          "problem": "What did the speaker use to do?",
+          "solution": "She used to drive too fast / speed."
+        },
+        {
+          "problem": "What was the speed limit?",
+          "solution": "Not specified in text."
+        },
+        {
+          "problem": "How did the police know she was speeding?",
+          "solution": "They used a radar speed gun."
+        },
+        {
+          "problem": "Why did she decide to stop driving too fast?",
+          "solution": "She got a ticket / fine."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Listening Comprehension - Speaker 2",
+      "definition": null,
+      "explanation": "Questions about fingerprints and crime scenes.",
+      "rules": null,
+      "notes": "Focus on forensic evidence.",
+      "examples": [
+        {
+          "problem": "What can footprints tell you?",
+          "solution": "They can tell you about the person's size, weight, and direction."
+        },
+        {
+          "problem": "What else can you find at a crime scene?",
+          "solution": "Fingerprints, DNA, weapons, etc."
+        },
+        {
+          "problem": "Why do the police use special powder?",
+          "solution": "To reveal fingerprints."
+        },
+        {
+          "problem": "Why is matching fingerprints easier than it used to be?",
+          "solution": "Because of computers / digital databases."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Grammar: Used to, Past Continuous",
+      "definition": "Used to: past habits or states that are now finished. Past Continuous: action in progress at a specific time in the past.",
+      "explanation": "Timelines help visualize past habits, specific past actions, and interrupted actions.",
+      "rules": null,
+      "notes": "Use 'used to' for past habits. Use past continuous for actions happening when another action occurred.",
+      "examples": [
+        {
+          "problem": "I travelling, but I don't like it anymore.",
+          "solution": "used to like"
+        },
+        {
+          "problem": "We when we saw the police car.",
+          "solution": "were speeding"
+        },
+        {
+          "problem": "While my baggage was going through the X-ray machine, I through the metal detector.",
+          "solution": "was walking"
+        },
+        {
+          "problem": "We security cameras, but now we have six of them.",
+          "solution": "didn't use to have"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Study Tip: Timelines",
+      "definition": "Timelines are a visual way to remember tenses.",
+      "explanation": "They show past habits, specific past points, and actions happening simultaneously.",
+      "rules": null,
+      "notes": "Use timelines for used to, simple past, and past continuous.",
+      "examples": [
+        {
+          "problem": "Write three sentences using timelines.",
+          "solution": "1. I used to play football. 2. I scored a goal yesterday. 3. I was playing when it started to rain."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lesson 2: A Police Officer's Duties",
+      "definition": "Vocabulary related to police work.",
+      "explanation": "Words include: laws, investigate, arrest, witness, pickpocket.",
+      "rules": null,
+      "notes": "Police officers enforce laws, investigate crimes, arrest suspects, and interview witnesses.",
+      "examples": [
+        {
+          "problem": "rules that everybody in the country must follow",
+          "solution": "laws"
+        },
+        {
+          "problem": "get information about a crime",
+          "solution": "investigate"
+        },
+        {
+          "problem": "put someone in prison",
+          "solution": "arrest"
+        },
+        {
+          "problem": "a person who saw or heard something at the time of a crime",
+          "solution": "witness"
+        },
+        {
+          "problem": "a person who steals money from your pocket",
+          "solution": "pickpocket"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Grammar: Must, Mustn't, Have to, Don't have to, Need to, Needn't",
+      "definition": "Modal verbs for obligation, prohibition, and necessity.",
+      "explanation": "Must: strong obligation. Mustn't: prohibition. Have to: external obligation. Don't have to: no obligation. Need to: necessity. Needn't: not necessary.",
+      "rules": [
+        "Use mustn't to say it's important not to do something.",
+        "Use don't have to and needn't to say it's not necessary to do something.",
+        "Use must, have to, and need to to say it's necessary to do something."
+      ],
+      "notes": "In some contexts, must and have to are interchangeable, but must is more personal/internal.",
+      "examples": [
+        {
+          "problem": "When you get in a car, you _______ put on your seat belt.",
+          "solution": "must / have to / need to"
+        },
+        {
+          "problem": "There's petrol in the car, so you _______ go to the petrol station.",
+          "solution": "don't have to / needn't"
+        },
+        {
+          "problem": "You're driving too fast! You _______ slow down.",
+          "solution": "must / have to / need to"
+        },
+        {
+          "problem": "You _______ smoke in the police station.",
+          "solution": "mustn't"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Lesson 3: Airport Security",
+      "definition": "Vocabulary related to airport security procedures.",
+      "explanation": "Terms include: baggage, customs, declare, dispose of, empty, liquids, rule, screening, unattended.",
+      "rules": null,
+      "notes": "Airport security involves screening passengers and baggage, declaring goods, and following liquid restrictions.",
+      "examples": [
+        {
+          "problem": "without someone looking after it",
+          "solution": "unattended"
+        },
+        {
+          "problem": "bags and suitcases that carry your possessions",
+          "solution": "baggage"
+        },
+        {
+          "problem": "throw away/get rid of",
+          "solution": "dispose of"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Polite Requests, Suggestions, Offers, Advice",
+      "definition": "Different ways to make requests, suggestions, offers, and give advice.",
+      "explanation": "Use 'Could', 'Would', 'Can' for polite requests. 'Shall' and 'Let's' for suggestions. 'Should' and 'shouldn't' for advice. 'I'll' for offers.",
+      "rules": null,
+      "notes": "Polite requests often use 'Could you' or 'Would you'. Suggestions can be made with 'Shall we' or 'Let's'.",
+      "examples": [
+        {
+          "problem": "Could / Do you give me your passport?",
+          "solution": "Could (Polite Request)"
+        },
+        {
+          "problem": "Shall / Would I help you with your baggage?",
+          "solution": "Shall (Offer)"
+        },
+        {
+          "problem": "You should / shouldn't keep your passport in a safe place.",
+          "solution": "should (Advice)"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Lesson 4: Applying for a Job",
+      "definition": "Understanding job advertisements and abbreviations.",
+      "explanation": "Job ads often use abbreviations to save space.",
+      "rules": null,
+      "notes": "Common abbreviations: yrs. = years, spk. = speak, avail. = available, wknds. = weekends, lic. = licence.",
+      "examples": [
+        {
+          "problem": "office bldgs.",
+          "solution": "office buildings"
+        },
+        {
+          "problem": "18 yrs.",
+          "solution": "18 years"
+        },
+        {
+          "problem": "driving lic.",
+          "solution": "driving licence"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Lesson 5: Military Jobs",
+      "definition": "Vocabulary related to military careers.",
+      "explanation": "Military branches include Air Force, Land Force, Navy. Jobs range from technical to non-technical.",
+      "rules": null,
+      "notes": "The military offers training that can be used in civilian jobs.",
+      "examples": [
+        {
+          "problem": "branches",
+          "solution": "divisions or parts of the military"
+        },
+        {
+          "problem": "maintain",
+          "solution": "keep in good condition"
+        },
+        {
+          "problem": "civilian",
+          "solution": "non-military person"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Reading: Main Idea of Paragraphs",
+      "definition": "The main idea is what the paragraph is mostly about.",
+      "explanation": "To find the main idea, look at most sentences in the paragraph, not just one detail.",
+      "rules": null,
+      "notes": "Avoid choosing an answer that is only a small detail from the text.",
+      "examples": [
+        {
+          "problem": "What is the main idea of the first paragraph?",
+          "solution": "You can do many different things in the military."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Grammar: Should / Shouldn't",
+      "definition": "Should is used to give advice or express expectation.",
+      "explanation": "Use 'should' when something is likely or advisable. Use 'shouldn't' when something is unlikely or not advisable.",
+      "rules": null,
+      "notes": "'Should' can also express probability.",
+      "examples": [
+        {
+          "problem": "I've studied hard for the test, so I think I'll pass.",
+          "solution": "I've studied hard for the test, so I should pass."
+        },
+        {
+          "problem": "You like exercising, so I don't think you'll have trouble getting fit.",
+          "solution": "You like exercising, so you shouldn't have trouble getting fit."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Lesson 6: A Robbery - Skimming and Scanning",
+      "definition": "Skimming: reading quickly to understand the main idea. Scanning: searching for specific information.",
+      "explanation": "Use skimming to get a general idea. Use scanning to find specific details like names, numbers, or dates.",
+      "rules": null,
+      "notes": "Scanning is efficient when you know exactly what you are looking for.",
+      "examples": [
+        {
+          "problem": "Who called the police?",
+          "solution": "Sue"
+        },
+        {
+          "problem": "What woke Sue up?",
+          "solution": "a loud noise"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Grammar: Have, Get, Make",
+      "definition": "Have/get + object + past participle: something is done for someone. Make + object + infinitive: cause someone to do something.",
+      "explanation": "Use 'have' or 'get' when arranging for someone to do something. Use 'make' when forcing or causing an action.",
+      "rules": null,
+      "notes": "Make is followed by the base form of the verb (infinitive without to).",
+      "examples": [
+        {
+          "problem": "I asked somebody to cut my hair.",
+          "solution": "I had my hair cut."
+        },
+        {
+          "problem": "Someone is repairing my computer.",
+          "solution": "I'm getting my computer repaired."
+        },
+        {
+          "problem": "He looked outside because he heard a noise.",
+          "solution": "The noise made him look outside."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Lesson 7: A Safety Brochure",
+      "definition": "Home safety tips to prevent burglary.",
+      "explanation": "Thieves target valuable items. Homeowners should secure windows, avoid hiding keys in obvious places, and use lighting.",
+      "rules": null,
+      "notes": "Inform neighbours when you are away and ask them to collect mail.",
+      "examples": [
+        {
+          "problem": "expensive items like gold rings and necklaces",
+          "solution": "jewellery"
+        },
+        {
+          "problem": "thieves who break into homes",
+          "solution": "burglars"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Lesson 8: Road Safety",
+      "definition": "Advice for new drivers.",
+      "explanation": "New drivers should be aware of keys, brakes, lights, parking, speeding, and valuables.",
+      "rules": null,
+      "notes": "Never leave keys in the ignition. Always lock valuables out of sight.",
+      "examples": [
+        {
+          "problem": "You shouldn't leave your keys in the ignition.",
+          "solution": "Someone could take them and steal your car."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Lesson 9: Security Technology - Radar Speed Guns",
+      "definition": "Radar speed guns use radio waves to measure vehicle speed.",
+      "explanation": "Radar guns send radio waves that bounce off cars. The speed is calculated by the change in frequency.",
+      "rules": null,
+      "notes": "Radar detectors can sense radar guns, but are illegal in some places.",
+      "examples": [
+        {
+          "problem": "When did police start using radar speed guns?",
+          "solution": "In the 1950s (from context of text)."
+        },
+        {
+          "problem": "What is a radar detector?",
+          "solution": "A device that detects radar signals."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Revision - Unit 2",
+      "definition": "Review of vocabulary and grammar from Unit 2.",
+      "explanation": "Covers security personnel, crime-fighting tools, and evidence terms.",
+      "rules": null,
+      "notes": "Includes have/get/make exercises and modal verbs.",
+      "examples": [
+        {
+          "problem": "My brother has his hair cut once a month.",
+          "solution": "Correct order: has / his / cut / hair"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Test - Unit 2",
+      "definition": "Assessment covering vocabulary, grammar, and writing.",
+      "explanation": "Tests understanding of military terms, security vocabulary, modal verbs, and have/get/make structures.",
+      "rules": null,
+      "notes": "Includes a writing task: letter of advice for a job interview.",
+      "examples": [
+        {
+          "problem": "Choose the correct word: The Land Force, the Navy and the Air Force are all branches / types of the military.",
+          "solution": "branches"
+        },
+        {
+          "problem": "Complete the dialogue with let's, would, could, can, should, shall, will.",
+          "solution": "1. Could / 2. should / 3. Could / 4. will / 5. Would / 6. Shall / 7. Let's"
+        }
+      ]
+    }
+  ]
+}

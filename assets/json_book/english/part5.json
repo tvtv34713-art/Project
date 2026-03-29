@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "pages": "83-105",
+    "description": "Activity book for sixth grade preparatory students covering travel vocabulary, compound nouns, present perfect tenses, past perfect, relative clauses, and tourism topics"
+  },
+  "sections": [
+    {
+      "id": "compound_nouns",
+      "title": "Compound Nouns - Travel Vocabulary",
+      "definition": "Compound nouns are nouns made up of two or more words that function as a single unit.",
+      "explanation": "Compound nouns can be found in three different forms: two separate nouns (boarding card), hyphenated (five-star), or one word (seaside). There is no clear rule about which form to use, and the form changes over time.",
+      "rules": "When words are often used together, they might become hyphenated and later become one word. Examples: cardboard, footstep, lifestyle, sunset.",
+      "notes": "Common travel compound nouns: boarding card, travel agency, five-star hotel, package deal, packed lunch, seaside, ski resort, car hire, self-catering, sightseeing",
+      "examples": [
+        {
+          "problem": "If we get a ______ in Spain, we can buy food at the market and make our own meals.",
+          "solution": "self-catering accommodation"
+        },
+        {
+          "problem": "Let's not go on a ______ to Italy. It would be more fun to choose our own hotels.",
+          "solution": "package tour"
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_ever_never",
+      "title": "Lesson 2: Present Perfect with Ever and Never",
+      "definition": "We use ever and never with the present perfect simple to talk about life experiences.",
+      "explanation": "We use ever in questions (Have you ever eaten octopus?). We use never in negative answers (No, I've never tried it).",
+      "rules": "Structure: have/has + ever/never + past participle. Ever is used in questions. Never makes the sentence negative.",
+      "notes": "Examples: Have you ever been to London? I've never seen such a beautiful sunset.",
+      "examples": [
+        {
+          "problem": "Write a true sentence about yourself using never and the verb 'ride' with 'elephant'.",
+          "solution": "I've never ridden an elephant."
+        },
+        {
+          "problem": "Write a sentence about your sister using never and 'hold' with 'scorpion'.",
+          "solution": "My sister has never held a scorpion."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_just_already_yet",
+      "title": "Lesson 2: Present Perfect with Just, Already, Yet",
+      "definition": "We use just, already, and yet with the present perfect to indicate when something happened relative to now.",
+      "explanation": "Just: something that happened a short time ago. Already: something that happened before expected. Yet: in negative sentences and questions about something expected to happen.",
+      "rules": "Just + present perfect (affirmative). Already + present perfect (affirmative). Yet at end of negative sentences or questions.",
+      "notes": "Examples: I've just had a cup of coffee. She has already gone to bed. I haven't done my exams yet.",
+      "examples": [
+        {
+          "problem": "Would you like a cup of coffee? No, thanks. I ______ (have) one.",
+          "solution": "I've just had one."
+        },
+        {
+          "problem": "Can I borrow that book after you? Here you are. I ______ (finish) it.",
+          "solution": "I've just finished it."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_for_since",
+      "title": "Lesson 3: Present Perfect with For and Since",
+      "definition": "We use How long + present perfect to ask about a period of time from a point in the past until now.",
+      "explanation": "For is used with a period of time (for ten years). Since is used with a point in time (since 2003). The present perfect simple is used with states using verbs like be, have, know, live, work.",
+      "rules": "How long have you...? For + period of time (duration). Since + specific point in time. The event is assumed to still be continuing.",
+      "notes": "Examples: How long have you lived here? For ten years. / Since 2003.",
+      "examples": [
+        {
+          "problem": "Choose for or since: ______ Friday, ______ ten years, ______ I was born",
+          "solution": "since Friday, for ten years, since I was born"
+        },
+        {
+          "problem": "How long have you been at this school?",
+          "solution": "I've been at this school for three years. / Since 2021."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_continuous",
+      "title": "Lesson 3: Present Perfect Continuous",
+      "definition": "We use the present perfect continuous when asking and answering about activities that began in the past and have just finished or are still going on now.",
+      "explanation": "The present perfect continuous describes the same time period as the present perfect simple, so we use since and for with this tense as well.",
+      "rules": "Structure: have/has + been + present participle (-ing form). Used for ongoing actions from past to present.",
+      "notes": "Examples: How long have they been talking? They've been talking for an hour.",
+      "examples": [
+        {
+          "problem": "You have a friend who is learning Japanese. Ask: (how long/learn/japanese?)",
+          "solution": "How long have you been learning Japanese?"
+        },
+        {
+          "problem": "You meet somebody who is a writer. Ask: (how long/write?)",
+          "solution": "How long have you been writing?"
+        }
+      ]
+    },
+    {
+      "id": "been_and_gone",
+      "title": "Lesson 3: Been and Gone",
+      "definition": "We use has gone to say someone has gone away and not yet returned. We use has been to say someone went away, returned, and is back.",
+      "explanation": "Has gone: the person is still away. Has been: the person has returned.",
+      "rules": "has/have gone = away and not returned. has/have been = went and came back.",
+      "notes": "Examples: Adel has gone to Dubai. (He is in Dubai now.) Latifa has been on holiday in Dubai. (She went and came back.)",
+      "examples": [
+        {
+          "problem": "I can't see the screen. I ______ my glasses at home.",
+          "solution": "I've left my glasses at home."
+        },
+        {
+          "problem": "I'm afraid Souad ______ out with her sister. They left about ten minutes ago.",
+          "solution": "I'm afraid Souad has gone out with her sister."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_vs_past_simple",
+      "title": "Lesson 3: Present Perfect vs Past Simple",
+      "definition": "Present perfect refers to what happened in a period starting in the past and ending in the present. Past simple is for actions that happened and ended in the past.",
+      "explanation": "Present perfect: often used with ever, never, just, already, yet, so far, since, for, How long. Past simple: used with yesterday, last week, on Tuesday, two years ago, When questions.",
+      "rules": "Present perfect: connection to present. Past simple: completed action in past with no connection to present.",
+      "notes": "Compare: He has lived there for two years (and still does). He lived there for two years (but left).",
+      "examples": [
+        {
+          "problem": "Have you bought your plane ticket yet? Yes, I ______ (buy) it last week.",
+          "solution": "Yes, I bought it last week."
+        },
+        {
+          "problem": "The last time I saw her was in 2001. (not see) I ______ her since 2001.",
+          "solution": "I haven't seen her since 2001."
+        }
+      ]
+    },
+    {
+      "id": "past_perfect",
+      "title": "Lesson 5: Past Perfect",
+      "definition": "We use the past perfect to show which of two past events happened first.",
+      "explanation": "The past perfect is formed with had + past participle. It is used when the first event explains what happened next, or to show change, or to clarify order with before/after.",
+      "rules": "Structure: had + past participle. Use for the earlier of two past events. Do not use for a simple series of events.",
+      "notes": "Examples: We couldn't get a room because we hadn't booked. After I had done my homework, I went to the cinema.",
+      "examples": [
+        {
+          "problem": "Last week, I went back to my village. It (change) beyond recognition.",
+          "solution": "It had changed beyond recognition."
+        },
+        {
+          "problem": "Before Hazem started working as CEO, he ______ (do) many other jobs.",
+          "solution": "Before Hazem started working as CEO, he had done many other jobs."
+        }
+      ]
+    },
+    {
+      "id": "holiday_vocabulary",
+      "title": "Lesson 6: Holiday Descriptions",
+      "definition": "Reading comprehension about a holiday experience with vocabulary for describing travel experiences.",
+      "explanation": "The text describes a holiday on islands with information about cost, location, facilities, and activities.",
+      "rules": null,
+      "notes": "Key vocabulary: ferry (boat transporting people and goods), luxurious (extremely comfortable), spectacular (wonderful to look at), local speciality (something special to a locality), warm welcome (fine welcome), entertainment (show/performance)",
+      "examples": [
+        {
+          "problem": "What did the cost of the holiday include?",
+          "solution": "The cost included flights, accommodation, and meals."
+        },
+        {
+          "problem": "What did Anna really like about the hotel?",
+          "solution": "She really liked the atmosphere and the location near the beach."
+        }
+      ]
+    },
+    {
+      "id": "relative_clauses",
+      "title": "Lesson 7: Relative Clauses",
+      "definition": "Relative clauses give additional information about a noun. They can be defining (essential) or non-defining (extra information).",
+      "explanation": "Defining relative clauses give essential information. Non-defining relative clauses give extra information and are set off with commas.",
+      "rules": "who = people, which/that = things, where = places, whose = possession. Non-defining clauses use who, which, where (not that) and require commas.",
+      "notes": "Examples: The man who lives next door has a private jet. My father, who loves reading, buys two or three books a week.",
+      "examples": [
+        {
+          "problem": "Combine: I spoke to a lady on the phone. She told me to call back later.",
+          "solution": "The lady who I spoke to on the phone told me to call back later."
+        },
+        {
+          "problem": "Combine: They've knocked down the restaurant. We had a meal there last year.",
+          "solution": "They've knocked down the restaurant where we had a meal last year."
+        }
+      ]
+    },
+    {
+      "id": "tourism_essay",
+      "title": "Lesson 8: Tourism and Environment Essay Writing",
+      "definition": "Writing an essay about the future of tourism with structured arguments and connectors.",
+      "explanation": "Organize ideas under topics: accommodation, public transport, types of holidays, tours. Use connectors to link ideas smoothly.",
+      "rules": "Essay structure: introduction, body paragraphs with topic categories, connectors for coherence, conclusion. Length: 100-120 words.",
+      "notes": "Connectors: similar idea (also, in addition, too), contrasting idea (although, but, however), example (for instance, such as), result/reason (consequently, for this reason, so)",
+      "examples": [
+        {
+          "problem": "Present a similar idea connector",
+          "solution": "also, in addition, as well as, too"
+        },
+        {
+          "problem": "Present a contrasting idea connector",
+          "solution": "although, but, however"
+        }
+      ]
+    },
+    {
+      "id": "work_life_balance",
+      "title": "Lesson 8: Work-Life Balance Reading",
+      "definition": "Reading about the importance of holidays and work-life balance.",
+      "explanation": "The text discusses how pressure of life causes health problems, why people don't take holidays, and the importance of time with family and friends.",
+      "rules": null,
+      "notes": "Key vocabulary: workaholic (person who works too much), sightseeing (visiting tourist places), trekking (walking long distance in nature), occasional (not happening often), severe (very serious), interrupted (stopped), significant (important), change of pace (slowing down after working a lot)",
+      "examples": [
+        {
+          "problem": "Why do some people not take holidays?",
+          "solution": "Because they think other people can't do their work or they want to make money."
+        },
+        {
+          "problem": "What can holidays give us a chance to do?",
+          "solution": "Holidays can give us a chance to learn new activities and stop thinking about problems."
+        }
+      ]
+    },
+    {
+      "id": "revision_compound_nouns",
+      "title": "Revision: Compound Nouns",
+      "definition": "Review of compound nouns related to travel and tourism.",
+      "explanation": "Complete dialogues using compound nouns: travel agency, package deal, sightseeing, car hire, five-star room, hotel.",
+      "rules": null,
+      "notes": "Common travel compound nouns: travel agency, package deal, sightseeing, car hire, five-star room",
+      "examples": [
+        {
+          "problem": "Did you go to the ______ to talk about our next trip?",
+          "solution": "travel agency"
+        },
+        {
+          "problem": "I paid for a ______ room but I can't see the ocean.",
+          "solution": "five-star room"
+        }
+      ]
+    },
+    {
+      "id": "revision_relative_clauses",
+      "title": "Revision: Relative Clauses",
+      "definition": "Review of using relative pronouns to combine sentences.",
+      "explanation": "Use who, which, where, whose with correct comma placement for non-defining clauses.",
+      "rules": "who for people, which for things, where for places, whose for possession. Use commas for non-defining clauses.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Combine: Salwa wants to be an interpreter. She speaks three languages.",
+          "solution": "Salwa, who speaks three languages, wants to be an interpreter."
+        },
+        {
+          "problem": "Combine: The Tigris Hotel has a fabulous pool. The pool opened two months ago.",
+          "solution": "The Tigris Hotel has a fabulous pool which opened two months ago."
+        }
+      ]
+    },
+    {
+      "id": "revision_present_perfect_for_since",
+      "title": "Revision: Present Perfect with For and Since",
+      "definition": "Review of using present perfect with for and since to express duration.",
+      "explanation": "Complete sentences with present perfect form and choose for or since correctly.",
+      "rules": "for + period of time, since + point in time.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "I (have) this car ______ November.",
+          "solution": "I've had this car since November."
+        },
+        {
+          "problem": "My family (live) in the same house ______ 15 years.",
+          "solution": "My family has lived in the same house for 15 years."
+        }
+      ]
+    },
+    {
+      "id": "revision_present_perfect_continuous",
+      "title": "Revision: Present Perfect Continuous",
+      "definition": "Review of using present perfect continuous for ongoing actions from past to present.",
+      "explanation": "Use have/has been + -ing for actions that started in the past and continue or have just finished.",
+      "rules": null,
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Souad looks tired. I don't think she (sleep) very well recently.",
+          "solution": "I don't think she has been sleeping very well recently."
+        },
+        {
+          "problem": "How long (you/wait) ?",
+          "solution": "How long have you been waiting?"
+        }
+      ]
+    },
+    {
+      "id": "test_vocabulary",
+      "title": "Test: Travel Vocabulary",
+      "definition": "Test covering compound nouns and travel collocations.",
+      "explanation": "Define compound nouns and choose correct collocations for travel contexts.",
+      "rules": null,
+      "notes": "Key vocabulary: boarding card, ski resort, five-star hotel, self-catering, packed lunch, seat belt, expectations, thoroughly",
+      "examples": [
+        {
+          "problem": "if you lose this, you can't get on an airplane",
+          "solution": "boarding card"
+        },
+        {
+          "problem": "When the plane takes off, you have to fasten / attach your seat belt.",
+          "solution": "fasten"
+        }
+      ]
+    },
+    {
+      "id": "test_grammar",
+      "title": "Test: Present Perfect vs Past Simple",
+      "definition": "Test distinguishing between present perfect and past simple usage.",
+      "explanation": "Identify correct and incorrect sentences and rewrite them correctly.",
+      "rules": "Present perfect: connection to present, no specific time. Past simple: completed action with specific time.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Fadia didn't speak to me since her sister's wedding.",
+          "solution": "Fadia hasn't spoken to me since her sister's wedding."
+        },
+        {
+          "problem": "Adam has come back from Beirut yesterday.",
+          "solution": "Adam came back from Beirut yesterday."
+        }
+      ]
+    }
+  ]
+}

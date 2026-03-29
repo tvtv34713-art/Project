@@ -1,0 +1,729 @@
+{
+  "metadata": {
+    "title": "English Language Examination Questions - Iraqi Preparatory Schools (6th Grade)",
+    "years_covered": ["2018", "2025"],
+    "sessions_covered": [
+      "July 2018",
+      "First Trial June 2025",
+      "Second Trial 2025"
+    ],
+    "branches_covered": ["Literary", "Biological"],
+    "source_file": "English Exam Questions 2018-2025.pdf"
+  },
+  "questions": [
+    {
+      "year": 2025,
+      "session": "First Trial",
+      "month": "June",
+      "branch": "Literary",
+      "time": "3 Hours",
+      "sections": [
+        {
+          "title": "Q1. Reading Comprehension",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Read this text carefully then answer (5) of the questions that follow:",
+              "text": "Adam worked as a banker in a busy city. His job involved managing accounts, working with numbers, and meeting clients, but despite earning a good salary, he felt unsatisfied. He enjoyed helping people, but he wanted to make a real difference in their lives. One day, while helping a young couple open a savings account, Adam listened to their dream of starting a small business. They were excited but nervous about the difficulties they might face. Inspired by their hopes, Adam realized he could use his skills to help others like them. In his free time, Adam began volunteering. He offered advice to small business owners on how to manage their finances, save money and plan for the future. He also set up workshops to teach people how to manage money and make good financial choices. His work soon gained attention and the bank decided to support his efforts by offering free financial advice to local business owners. As Adam continued helping people, he felt more satisfied than ever. He realized that banking wasn't just about numbers, it was about using his knowledge to help others achieve their goals.",
+              "questions": [
+                "What was Adam’s job?",
+                "What kind of advice did Adam give to small business owners?",
+                "The bank supported Adam’s efforts by giving him a promotion. (True / False)",
+                "What did he realize about his job as he helped others?",
+                "What inspired him to help the young couple?",
+                "Give the passage a suitable title."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Answer or complete (Five) of the following sentences using information from your text book:",
+              "questions": [
+                "Why shouldn't an interpreter waste time thinking?",
+                "Wind power is clean energy because ............ .",
+                "Drivers mustn't speed because ............ .",
+                "When we start work, we are encouraged to put money into pension plans to ............ .",
+                "What protected Zaid Tariq?",
+                "How can we make our holidays vital?"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q2. Grammar and Functions",
+          "total_marks": 30,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 20,
+              "instruction": "Re-write the following sentences, follow the instructions between brackets. (Choose 10)",
+              "questions": [
+                {
+                  "text": "My father asked somebody to install the new pipes. (Rewrite with the correct form of \"have\")"
+                },
+                {
+                  "text": "If I were you, I (not ask) his advice about anything. (Correct the form of the verb)"
+                },
+                {
+                  "text": "You’re very organized, so I think you will be a wonderful project manager. (Expectation: use \"should\")"
+                },
+                {
+                  "text": "I know they'll be here by 6 p.m. / I knew ............ . (Future in the past)"
+                },
+                {
+                  "text": "He (eat) a lot of fast food, but now he (cook) healthier meals. (Use the correct form of \"used to\" and the present or past simple)"
+                },
+                {
+                  "text": "Will you come to my birthday party? (Reported question) / She asked me ............ ."
+                },
+                {
+                  "text": "Unfortunately, I missed the bus this morning. That's why I was late to work. (Regret use \"I wish\")"
+                },
+                {
+                  "text": "Somebody is repairing the car at the moment. (Rewrite in the passive form)"
+                },
+                {
+                  "text": "The wedding (go) well because they (organize) everything very carefully. (Put the verbs in the correct form - past simple or past perfect)"
+                },
+                {
+                  "text": "Your sister is busy cooking for a party. You ask: (how long / cook?). Write a question using the words in brackets. Use the present perfect simple or present perfect continuous."
+                },
+                {
+                  "text": "They've knocked down the restaurant. We had a meal there last year. / They've knocked down the restaurant ............ . (Combine using the correct relative pronoun)"
+                },
+                {
+                  "text": "Define a journalist. (Use \"write articles for newspapers and magazines\")"
+                }
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Choose the correct answer between brackets: (5 only)",
+              "questions": [
+                "We have been waiting (for / since) two hours.",
+                "Can you (turn off it / turn it off)? It's too loud.",
+                "The movie was (frightened / frightening) that I couldn't sleep afterwards.",
+                "There isn't (many / much) sugar left in the jug.",
+                "I (need to / needn't) go to the store, as I've already bought everything.",
+                "I think she (will like / will be liking) the work."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q3. Vocabulary and Spelling",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Complete each sentence with the suitable word from the box:",
+              "word_bank": ["canteen", "weight", "spreadsheets", "broken", "sightseeing", "replace"],
+              "sentences": [
+                "She can't walk with a ........... leg.",
+                "We spent the day ........... around the city.",
+                "She bought a sandwich from the ........... during her break.",
+                "He wants to ........... his old laptop with a faster one.",
+                "Regular exercise helps to control our ........... ."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 5,
+              "instruction": "Match the beginnings of the sentences in list A with the endings in List B. (5 only)",
+              "note": "List A and List B content not fully provided in source"
+            },
+            {
+              "part": "C",
+              "marks": 5,
+              "instruction": "Complete the following with correctly spelt words. (Choose 5 only)",
+              "items": [
+                "branches, parts; unemployed, ............",
+                "obey, disobey; encourage, ............",
+                "ask, asked; hear, ............",
+                "18 yrs, 18 years; driving lic, driving ............",
+                "joint in the arm, ............",
+                "fast, faster; good, ............"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q4. Literature Focus",
+          "total_marks": 10,
+          "instruction": "Answer or complete (5) of the following questions:",
+          "questions": [
+            "In 1917, Katherine Mansfield became ill with ............ .",
+            "What did the washerwoman use to say every Monday?",
+            "Where did the woman use to hang the canary cage?",
+            "The woman in \"The Canary\" forgot ............ when the canary came into her life.",
+            "Missus was happy to have the canary because she lived (a. lonely / b. an unlonely) life.",
+            "Why did the woman's heart feel hollow?"
+          ]
+        },
+        {
+          "title": "Q5. Writing",
+          "total_marks": 20,
+          "instruction": "Choose either A or B.",
+          "options": [
+            {
+              "option": "A",
+              "text": "Write a short article for a travel magazine of (100 – 120) words on: \"A wonderful holiday I have had\""
+            },
+            {
+              "option": "B",
+              "text": "Write (100 – 120) words about ways people can help to improve the environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "session": "Second Trial",
+      "branch": "General",
+      "note": "أسئلة الإنكليزي - السادس الإعدادي 2025 الدور الثاني",
+      "time": "3 Hours",
+      "sections": [
+        {
+          "title": "Q1. Reading Comprehension",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Read this text carefully then answer (5) of the questions that follow:",
+              "text": "One sunny morning, an old woman was driving her small silver car through the busy streets of the city. She followed the traffic rules carefully. Suddenly, a police officer stopped her. He looked surprised and said, \"Excuse me, madam. You seem quite old to be driving alone. Are you sure you're able to drive safely at your age?\" The woman smiled politely and replied, \"Officer. I have been driving for over forty years. I've never had an accident. My eyesight is still very good.\" The officer seemed unsure and asked, \"Can you prove that your eyesight is still good?\" Without hesitation, the woman opened her handbag and took out a small sewing needle and a piece of thread. Calmly and quickly, she put the thread through the small hole of the needle. She looked at the officer and said, \"If I can do this, then I can see the road very well!\" The officer was surprised and laughed. \"That's amazing!\" he said. \"Your eyesight is better than mine!\" He smiled respectfully and said, \"That's very admirable, madam. Have a safe drive.\" The woman thanked him, smiled and drove away confidently. She felt proud that she could prove herself and she hoped people would learn that age does not always mean weakness or inability.",
+              "questions": [
+                "Why did the police officer stop the old woman?",
+                "The woman had been driving for only five years. (True / False)",
+                "How did the woman prove her eyesight was good?",
+                "Where was the woman driving?",
+                "What lesson can we learn from the story? (a. Don't judge people by age. / b. Police officers are always right.)",
+                "Give the passage a suitable title."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Answer or complete (Five) of the following sentences using information from your text book:",
+              "questions": [
+                "The banker has to assess new business ideas. (True / False)",
+                "The library has information about language tests. It also ............... .",
+                "Why do people have to follow the law?",
+                "Why did Samira not translate the Arabic phrase \"Akl il-inab habba habba\" literally into English? {a. She didn't know how to say it. / b. It wouldn't have been clear to English listeners.}",
+                "What do the diabetics have to do every day?",
+                "If we don't take breaks, the pressure of life can affect both our ............... and ............... health."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q2. Grammar and Functions",
+          "total_marks": 30,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 20,
+              "instruction": "Re-write the following sentences, follow the instructions between brackets. (Choose 10)",
+              "questions": [
+                {
+                  "text": "This is a new computer, so I think it is faster than the other one. (Expectation)"
+                },
+                {
+                  "text": "I (clean) my room and I (find) $30 under my bed. (Put one verb in the past continuous and one in the past simple)"
+                },
+                {
+                  "text": "Have you finished your homework? She asked me ............... . (Reported question)"
+                },
+                {
+                  "text": "The leaves fell because of the wind. The wind ............... . (Rewrite the sentence with the correct form of \"Make\")"
+                },
+                {
+                  "text": "If it (be) sunny tomorrow, we will go for a picnic. (Correct the form of the verb)"
+                },
+                {
+                  "text": "You decided not to go to the park with your friends. Now you regret it. (Regret: use \"If only\")"
+                },
+                {
+                  "text": "(next / being / are / week / The / replaced / windows). (Put the words in the correct order to make a passive sentence)"
+                },
+                {
+                  "text": "The Tigris Hotel has a fabulous pool. (The pool opened two months ago) (Use the correct relative pronoun to make one sentence)"
+                },
+                {
+                  "text": "\"I will arrive on time\" I knew I ............... . (Future in the past)"
+                },
+                {
+                  "text": "She (not like) coffee, but now she (drink) it every day. (Use the correct form of \"used to\" and the present or past simple)"
+                },
+                {
+                  "text": "You meet a pilot. You ask: (how long / be a pilot?) (Write a question using the words in brackets. Use the present perfect simple or present perfect continuous)"
+                },
+                {
+                  "text": "............... An average of eight hours a night is about right. (Use an imperative to give advice)"
+                }
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Choose the correct word between brackets: (5 only)",
+              "questions": [
+                "He has had that car (since / for) a long time.",
+                "We need a (few / little) water for the plants.",
+                "I like this jacket. Can I (try on it / try it on)?",
+                "When you get in a car, you (needn't / need to) put on your seat belt.",
+                "Let's (take / taking) a taxi to the airport.",
+                "It was the most (frightened / frightening) day of my life."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q3. Vocabulary and Spelling",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Complete each sentence with the suitable word from the box:",
+              "word_bank": ["lifeguard", "instilled", "dizzy", "qualifications", "plumber", "renewable"],
+              "sentences": [
+                "She went pale and felt .......... during the lesson.",
+                "Water, wind and sunlight are all examples of .......... natural resources.",
+                "A .......... is someone who is responsible for the safety of swimmers.",
+                "His parents .......... in him the value of saving before spending.",
+                "I can't get that job because I don't have the right ..........."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 5,
+              "instruction": "Match the words and phrases in list A with their definitions in List B. (5 only)",
+              "matching": {
+                "list_a": ["considerable", "spectacular", "transaction", "boarding card", "efficient", "pollution"],
+                "list_b": [
+                  "a. activity in your bank account.",
+                  "b. a lot (of).",
+                  "c. working quickly and well.",
+                  "d. the process of damaging the air, water or land with chemicals.",
+                  "e. if you lose this, you can't get on an airplane.",
+                  "f. something which is wonderful to look at."
+                ]
+              }
+            },
+            {
+              "part": "C",
+              "marks": 5,
+              "instruction": "Write the missing words. (Choose 5 only)",
+              "items": [
+                "frequent , freq. ; experience , ..........",
+                "usual , unusual ; legal , ..........",
+                "joint in the arm , ..........",
+                "do , done ; see , ..........",
+                "the opposite of deep , ..........",
+                "careful , carefully ; peaceful , .........."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q4. Literature Focus",
+          "total_marks": 10,
+          "instruction": "Answer or complete (5) of the following questions:",
+          "questions": [
+            "What were the people carried away by?",
+            "The woman bought the canary from a ...........",
+            "How did the canary greet his owner in the morning?",
+            "Katherine was the .......... of five children in the family. (fourth / third)",
+            "Why did Katherine move to London in 1903?",
+            "What was the canary to the woman?"
+          ]
+        },
+        {
+          "title": "Q5. Writing",
+          "total_marks": 20,
+          "instruction": "Choose either A or B.",
+          "options": [
+            {
+              "option": "A",
+              "text": "Write a short essay giving your opinion about this statement: \"Studying while you're working is worth all the hard work.\" Your essay should have a short introduction and a conclusion. Remember to use linking words and phrases. You should write (100 - 120) words."
+            },
+            {
+              "option": "B",
+              "text": "Write (100 - 120) words on the advantages of studying English in Britain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "session": "First Trial",
+      "branch": "Biological",
+      "note": "Examination in English for Preparatory Schools - Biological Branch",
+      "time": "3 Hours",
+      "sections": [
+        {
+          "title": "Q1. Reading Comprehension",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Read this text carefully then answer (5) of the questions that follow.",
+              "text": "Smoking causes lung cancer. Lung cancer is the number one cancer among men. Ninety percent of the people who get lung cancer die. Smokers have six times as much cancer of the mouth, tongue and throat as nonsmokers. Smoking gives people breathing problems. It harms the stomach. Smokers pollute the air. They breathe it out on their children and on their wives or husbands. Children whose parents smoke have more breathing and lung problems than other children. Smokers have the right to kill themselves by smoking if they want to. They don't have the right to kill their wives and children by smoking. Young people start smoking because everyone else is doing it. They feel grown up and independent. It helps them relax. Then it becomes a habit. It is very difficult to stop smoking, but the chance of getting lung cancer decreases only one year after one stops smoking. After ten years, the chance is almost the same as for nonsmokers.",
+              "questions": [
+                "Why do young people smoke?",
+                "How many people die when they get lung cancer?",
+                "What happens to children when their parents smoke?",
+                "What is the chance of getting lung cancer ten years after a person stops smoking?",
+                "What does smoking do to the body?",
+                "Give the passage a suitable title."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Answer or complete (5) of the following sentences using information from your text book:",
+              "questions": [
+                "Our families and friends feel that we care about them when we ...........",
+                "What was waiting on the shore?",
+                "When do people get a lot of interest of their saving accounts?",
+                "When Mustafa couldn't help his mother, he decided to ...........",
+                "The writer has learnt a lot about how body language is important in interviews. (True / False)",
+                "The amount of money an interpreter gets depends on .......... and ..........."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q2. Grammar and Functions",
+          "total_marks": 30,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 20,
+              "instruction": "Re-write the following sentences, follow the instructions between brackets. (Choose 10)",
+              "questions": [
+                {
+                  "text": "I always go to that garage for repairs. It was closed today. (Use the correct relative pronoun to make a defining relative clause)"
+                },
+                {
+                  "text": "Define a nurse. Use \"look after sick people and help doctors\""
+                },
+                {
+                  "text": ".......... An average of eight hours a night is about right. (Use an imperative to give advice)"
+                },
+                {
+                  "text": "You've painted the house blue. Now you think it doesn't look good. Blue was the wrong colour. (Regret: use \"I wish\")"
+                },
+                {
+                  "text": "Would you like to come to see the new film with us? Thanks for asking, but I ........... (Complete the response using \"already\" and an appropriate verb)"
+                },
+                {
+                  "text": "I (like) travelling, but now I (not / like) it anymore. (Use \"used to\" and the present or past simple)"
+                },
+                {
+                  "text": "I'm tired. I just walked all the way back from the shops. (Correct the sentence)"
+                },
+                {
+                  "text": "Somebody cleans the room every day. (Rewrite in the passive form)"
+                },
+                {
+                  "text": "I'm very disappointed to hear that the health club is closing down. I was ........... (Future in the past)"
+                },
+                {
+                  "text": "Where did you lose your purse? I asked her ........... (Reported question)"
+                },
+                {
+                  "text": "Luckily, Sharifa (not drive) very fast when the child (run) into the road. (Put one verb in the past continuous and one in the past simple)"
+                },
+                {
+                  "text": "I (learn) to parachute if my friend (say) she would do it with me. (Write in the second conditional using the verbs in brackets)"
+                }
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Choose the correct word between brackets: (5 only)",
+              "questions": [
+                "She didn't pass the exam last time. I hope (she will be doing better this time / she will do better this time).",
+                "Let's (take / taking) a taxi to the airport.",
+                "I need a calculator. I can't (work out it / work it out) in my head.",
+                "He learnt about computers in the military. He (should / shouldn't) be able to help me fix mine.",
+                "Everybody was (surprising / surprised) that he passed the exam.",
+                "The wind made the leaves (fall / fallen)."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q3. Vocabulary and Spelling",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Complete each sentence with the suitable word from the box:",
+              "word_bank": ["advice", "architecture", "loan", "peacefully", "claim", "accommodation"],
+              "sentences": [
+                "How many instalments do you have to make to pay back your ..........?",
+                "The .......... was in a three-star hotel with breakfast and dinner everyday.",
+                "I didn't know what to do after leaving school, but one of my teachers gave me some very good ...........",
+                "Some people .......... radar guns can make mistakes.",
+                "Zaha Hadid moved to London and studied ..........."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 5,
+              "instruction": "Match the beginnings in List A with the endings in List B. (5 only)",
+              "matching": {
+                "list_a": [
+                  "We complained to the manager",
+                  "If he's used computers before,",
+                  "She studied English because",
+                  "If I had an ATM card,",
+                  "I would have stayed in the police force if I",
+                  "If you distrust someone, you:"
+                ],
+                "list_b": [
+                  "a. she knew she would be travelling for work.",
+                  "b. hadn't been so unfit.",
+                  "c. I could withdraw money on my way to work.",
+                  "d. because our room hadn't been cleaned.",
+                  "e. don't have confidence in them.",
+                  "f. he should know how to use this software."
+                ]
+              }
+            },
+            {
+              "part": "C",
+              "marks": 5,
+              "instruction": "Complete the following with correctly spelt words or letters. (Choose 5 only)",
+              "items": [
+                "fair , unfair ; moral , ..........",
+                "property , stuff ; occurred , ..........",
+                "big , bigger ; cheap , ..........",
+                "inside the body : h ..........",
+                "branches , parts ; yearly , ..........",
+                "appt. , appointment ; exp. , .........."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q4. Literature Focus",
+          "total_marks": 10,
+          "instruction": "Answer or complete (5) of the following questions:",
+          "questions": [
+            "What did the woman in \"The Canary\" suffer from?",
+            "Mohammed Khudhair achieved fame in the Middle East after publishing his two short stories .......... and .......... in the Beirut Arts magazine.",
+            "Where did the woman in \"The Canary\" use to hang the canary cage?",
+            "Mohammed Khudhair was fully aware of the conditions of story-writing. (True / False)",
+            "In \"The Swing\" the name of the mayor's son was ........... (Ali / Sattar)",
+            "When did the woman in \"The Canary\" forget the evening star?"
+          ]
+        },
+        {
+          "title": "Q5. Writing",
+          "total_marks": 20,
+          "instruction": "Choose either A or B.",
+          "options": [
+            {
+              "option": "A",
+              "text": "Write a letter to your bank to complain about a withdrawal shown on your statement that you didn't make. Write (100 to 120) words."
+            },
+            {
+              "option": "B",
+              "text": "Write (100 to 120) words on the advantages of studying English in Britain. These notes may help you: You can hear people speaking English all day, in many different situations. Lots of opportunities to practise speaking, especially if staying with a British family. Watch TV and films in English and listen to radio. Read English newspapers, advertisements, notices. Observe British way of life. Possibly stay with British family."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "session": "First Trial",
+      "month": "July",
+      "time": "3:30 Hours",
+      "note": "July / 2018",
+      "sections": [
+        {
+          "title": "Q1. Reading Comprehension",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Read the following text carefully then answer (5) of the following questions.",
+              "text": "Water is the most important liquid on Earth. We can't live without it. Without water we will die of thirst. Three-quarters of our planet is covered by water. Most is in oceans, seas and rivers. Some is frozen and forms ice caps at the North and south poles. Water goes round and round in a process called the water cycle. Clouds in the sky contain water as a gas - water vapour. This gas becomes liquid and falls to Earth as rain or snow. The rain brings water to seas, rivers and lakes. Water also goes into the soil and it is taken up by plants. Like all animals, you need water to stay alive. Your body loses water when you breathe or sweat. You can go for many weeks without food, but if you go for three or four days without water, you could die. Plants, too, need water to live. It is therefore necessary that we make use of our water carefully. We must try not to pollute the water sources in the world. We should also use water wisely so that there will be enough of it left for our future generation.",
+              "questions": [
+                "What is the water cycle?",
+                "Three quarters of our planet is covered by water. (True / False)",
+                "When does your body lose water?",
+                "What do clouds in the sky contain?",
+                "Why is water very important to us?",
+                "Give a suitable title."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Answer or Complete the following sentences using information from your text book: (5 only)",
+              "questions": [
+                "What is the difficult part of the banker's job?",
+                "Stocks and shares, for many people can be both .......... and ...........",
+                "Why do police officers use radar speed guns?",
+                "Why shouldn't an interpreter waste time thinking?",
+                "What did the shark do to Tariq?",
+                "The writer decided to look for a new job because he failed in his work for the bank. (True / False)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q2. Grammar and Functions",
+          "total_marks": 30,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 20,
+              "instruction": "Re-write the following. Follow the instructions between brackets. (10 only)",
+              "questions": [
+                {
+                  "text": "If Nour (not get) a loan, he wouldn't have been able to buy a car. (Correct the form of the verb)"
+                },
+                {
+                  "text": "My grandmother still remembers her childhood. (She is 90) (Combine with a relative pronoun)"
+                },
+                {
+                  "text": "I was eating breakfast and a bird (fly) into the kitchen. (Correct the form of the verb)"
+                },
+                {
+                  "text": "This pencil is really old. You can / throw away / it. (Put in the correct order)"
+                },
+                {
+                  "text": "I'm very disappointed to hear that the health club is closing down. I was ..........."
+                },
+                {
+                  "text": "Somebody will clean the house every Saturday. (Rewrite in the passive)"
+                },
+                {
+                  "text": "Does Samira know about the meeting? I'm sorry, I ........... (Complete the response, using \"yet\" and appropriate verb)"
+                },
+                {
+                  "text": "They left three hours early. I think they will be here by now. (Expectation)"
+                },
+                {
+                  "text": "Salwa (eat) meat, but now she (be) a vegetarian. (Use the correct form of \"used to\" and the present or past simple)"
+                },
+                {
+                  "text": "Help you with your baggage. (Offer)"
+                },
+                {
+                  "text": "A photographer took a picture of the witness. The witness ........... (Rewrite the sentence with the correct form of \"have\")"
+                },
+                {
+                  "text": "Unfortunately, I missed my flight. That's why I won't get to Boston in time for the meeting. (Regret)"
+                }
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 10,
+              "instruction": "Choose the correct answer, write the number of the sentence and the correct answer: (Choose 5 only)",
+              "questions": [
+                "You (must / needn't) go to the store today. There is plenty of food in the fridge.",
+                "Ibrahim had to leave early because he (was having / had to) meet his friends.",
+                "If I open a student account, I (would / will) have to maintain a minimum balance.",
+                "Yes, I would (what is a good time / when do I come)?",
+                "We need a (little / few) butter for this cake.",
+                "Sara (carefully / careful) lifted the box."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q3. Vocabulary and Spelling",
+          "total_marks": 20,
+          "sub_sections": [
+            {
+              "part": "A",
+              "marks": 10,
+              "instruction": "Complete sentences with the suitable words between the brackets:",
+              "word_bank": ["waste", "booth", "replace", "involve", "environment", "statement"],
+              "sentences": [
+                "We need to .......... the trees that are cut down.",
+                "This bank .......... shows I have a lot of money in my account.",
+                "A .......... is a box-like room where interpreters work.",
+                "Today, more and more people are recycling their ..........",
+                "Children need a happy home .........."
+              ]
+            },
+            {
+              "part": "B",
+              "marks": 5,
+              "instruction": "Choose the best collocation: (5 only)",
+              "questions": [
+                "The ferry (works / operates) throughout the year.",
+                "Some accounts (cost / pay) more interest than others.",
+                "If you distrust someone, you: (don't have confidence in them / don't agree with them)",
+                "The Land Force, the Navy and the Air Force are all (branches / types) of the military.",
+                "I (deposited / installed) 5 million Iraqi dinars this morning.",
+                "To cross the river we had to (sail / board) a ferry."
+              ]
+            },
+            {
+              "part": "C",
+              "marks": 5,
+              "instruction": "Complete the following with correctly spelt words. (5 only)",
+              "items": [
+                "healthy, unhealthy ; legal, ..........",
+                "luxury, luxurious ; colour, ..........",
+                "joint in the leg, k. ..........",
+                "be, been ; find, ..........",
+                "big, bigger ; dangerous, ..........",
+                "co, company ; comp, .........."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Q4. Literature Focus",
+          "total_marks": 10,
+          "instruction": "Answer or complete the following questions: (5 only)",
+          "questions": [
+            "People have the idea that birds are heartless and cold little creatures. (True / False)",
+            "What is Katherine Mansfield?",
+            "How does the story of \"The Canary\" end?",
+            "In two lines what does \"The Swing\" tell us about?",
+            "Why was the woman happy to have the Canary?",
+            "In 1967 ..........."
+          ]
+        },
+        {
+          "title": "Q5. Writing",
+          "total_marks": 20,
+          "instruction": "Choose either A or B.",
+          "options": [
+            {
+              "option": "A",
+              "text": "Write a short article for a travel magazine of (100 to 120) words on: \"A wonderful holiday I have had\""
+            },
+            {
+              "option": "B",
+              "text": "Write a short essay giving your opinion about this statement: \"Studying while you're working is worth all the hard work.\" Your essay should have a short introduction and a conclusion. Remember to use linking words and phrases. You should write (100-120) words."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

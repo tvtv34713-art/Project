@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "unit": 1,
+    "pages": "1-10",
+    "description": "Activity book for sixth grade preparatory students covering minor health problems, past continuous vs past simple, phrasal verbs, used to, linking words, and reading comprehension about health and technology"
+  },
+  "sections": [
+    {
+      "id": "minor_health_problems",
+      "title": "Lesson 1: Minor Health Problems",
+      "definition": "Common minor health problems include sore throat, twisted ankle, headache, stomach ache, and other temporary conditions.",
+      "explanation": "Look at pictures and identify what minor health problems each person is suffering from. Match each person's statement with the correct picture.",
+      "rules": null,
+      "notes": "Minor health problems vocabulary: sore throat, twisted ankle, headache, stomach ache, cough, fever, runny nose, etc.",
+      "examples": [
+        {
+          "problem": "Identify health problems from pictures",
+          "solution": "Each picture shows a person with a specific health issue such as sore throat, twisted ankle, headache, etc."
+        }
+      ]
+    },
+    {
+      "id": "ammar_story",
+      "title": "Lesson 2: Ammar's Story - Past Continuous and Past Simple",
+      "definition": "Ammar's blog post tells the story of how a diving accident changed his life and how technology helped him recover.",
+      "explanation": "The story uses past continuous and past simple to describe events. Past continuous for longer actions (I was swimming), past simple for completed actions (I decided to jump).",
+      "rules": "Past continuous: was/were + verb-ing (for ongoing past actions). Past simple: verb-ed or irregular form (for completed past actions).",
+      "notes": "Key events: Ammar was 16, part of basketball team, jumped off bridge while swimming, hit bottom of river, hurt back, used exoskeleton to walk again.",
+      "examples": [
+        {
+          "problem": "What happened to Ammar when he was 16?",
+          "solution": "He was swimming with friends, decided to jump off a bridge, and hit the bottom of the river, seriously injuring his back."
+        },
+        {
+          "problem": "How did technology help Ammar?",
+          "solution": "Doctors used an exoskeleton, a machine worn to help him stand up and walk again."
+        }
+      ]
+    },
+    {
+      "id": "smoking_facts",
+      "title": "Lesson 4: Smoking Facts - Figures and Statistics",
+      "definition": "Statistics about smoking in the UK, including death rates, age groups, e-cigarette use, and teenage smoking habits.",
+      "explanation": "Every year around 74,000 smokers die from smoking. Smoking is highest in the 25-34 age group. E-cigarette use has increased among young people. It is illegal to sell cigarettes to under 18s.",
+      "rules": null,
+      "notes": "Key figures: 74,000 deaths/year, 25-34 highest age group, 50% of smokers start as teenagers, smokers die 7 years earlier on average.",
+      "examples": [
+        {
+          "problem": "How many smokers die each year in the UK?",
+          "solution": "About 74,000 per year."
+        },
+        {
+          "problem": "What percentage of smokers take up the habit as teenagers?",
+          "solution": "More than 50%."
+        }
+      ]
+    },
+    {
+      "id": "phrasal_verbs",
+      "title": "Lesson 4: Phrasal Verbs",
+      "definition": "Phrasal verbs are formed when a preposition (up, down, off) is added to a verb, creating a new verb with a meaning that may be similar or different to the original verb.",
+      "explanation": "Sometimes the new verb has a similar meaning (pick up = collect), sometimes it is very different (give up = quit).",
+      "rules": "Phrasal verb = verb + preposition. Meaning can be literal or idiomatic. Some phrasal verbs can be separated (turn off the light / turn the light off).",
+      "notes": "Examples: pick up, give up, take up, turn off, turn on, look after, find out, carry on.",
+      "examples": [
+        {
+          "problem": "What does 'give up' mean in 'He gave up smoking'?",
+          "solution": "quit or stop doing something."
+        },
+        {
+          "problem": "What does 'take up' mean in 'Most smokers take up the habit as teenagers'?",
+          "solution": "start doing something."
+        }
+      ]
+    },
+    {
+      "id": "health_tips",
+      "title": "Lesson 5: Health Tips",
+      "definition": "Ten tips for keeping healthy covering sleep, diet, exercise, hydration, dental care, and safety.",
+      "explanation": "Get enough sleep (8 hours), eat a balanced diet with fruit and vegetables, never miss breakfast, take exercise regularly, drink plenty of water, see the dentist regularly, limit coffee, don't smoke, look after eyes, be safe when traveling.",
+      "rules": null,
+      "notes": "Health tips: get 8 hours sleep, eat balanced diet, never skip breakfast, exercise 3 times a week or walk 20 minutes daily, drink 1.5 liters water daily, brush teeth 3 times daily.",
+      "examples": [
+        {
+          "problem": "How much sleep is recommended?",
+          "solution": "An average of eight hours a night."
+        },
+        {
+          "problem": "How much water should you drink daily?",
+          "solution": "At least a litre and a half every day."
+        }
+      ]
+    },
+    {
+      "id": "used_to",
+      "title": "Lesson 6: Used To",
+      "definition": "Used to + verb is used for things which were true in the past but are not true now.",
+      "explanation": "Used to describes past habits or states that no longer exist. Negative form is didn't use to. Question form is Did you use to?",
+      "rules": "Affirmative: subject + used to + verb. Negative: subject + didn't use to + verb. Question: Did + subject + use to + verb?",
+      "notes": "Examples: Films used to be black and white. People didn't use to have computers. Did you use to play outside?",
+      "examples": [
+        {
+          "problem": "Make a sentence about how children used to behave compared to now.",
+          "solution": "Children used to play outside more, but now they spend time on screens."
+        },
+        {
+          "problem": "Make a sentence about pollution in cities.",
+          "solution": "There didn't use to be so much pollution in cities."
+        }
+      ]
+    },
+    {
+      "id": "linking_words_essay",
+      "title": "Lesson 7: Linking Words and Opinion Essay",
+      "definition": "Dr Samir Ramzi's article argues that people should take responsibility for their own health and that the government shouldn't pay for healthcare for people with unhealthy lifestyles.",
+      "explanation": "The essay uses linking words to organize ideas: Let's start with (diet), Furthermore (exercise), Finally (smoking), In my opinion (conclusion).",
+      "rules": "Linking words functions: Giving opinions (In my opinion, I feel that), Listing points (Firstly, Secondly, Finally), Talking about causes (One reason is that, Because of), Talking about results (As a result, Therefore).",
+      "notes": "Key arguments: bad diet causes diabetes and obesity, lack of exercise leads to health problems, smoking damages lungs and heart, unhealthy people should pay for their own healthcare.",
+      "examples": [
+        {
+          "problem": "What linking word is used to introduce the topic of diet?",
+          "solution": "Let's start with"
+        },
+        {
+          "problem": "What linking word is used to introduce the conclusion?",
+          "solution": "In my opinion"
+        }
+      ]
+    },
+    {
+      "id": "phones_and_driving_essays",
+      "title": "Lesson 8: Phones and Driving - Two Opinion Essays",
+      "definition": "Two contrasting essays about using mobile phones while driving: one argues phones can be useful when used correctly, the other argues they should never be used.",
+      "explanation": "Essay A argues hands-free phones can be safe, navigation apps prevent accidents. Essay B argues any phone use is distracting, even hands-free, and drivers should put phones away.",
+      "rules": null,
+      "notes": "Essay A: phones can be useful and prevent accidents, hands-free is safe, map apps help navigation. Essay B: any distraction is dangerous, hands-free still distracting, permanent ban for texting while driving.",
+      "examples": [
+        {
+          "problem": "Do both essays agree that talking on the phone can be distracting?",
+          "solution": "Yes, both think talking on the phone can be distracting, though Essay A thinks hands-free is safer."
+        },
+        {
+          "problem": "Do they agree on the penalty for using phones while driving?",
+          "solution": "No, Essay A suggests losing licence, Essay B suggests permanent driving ban."
+        }
+      ]
+    },
+    {
+      "id": "najla_story",
+      "title": "Lesson 9: Against All Odds - Najla Imad Lafta",
+      "definition": "The inspiring story of Najla Imad Lafta, an Iraqi Paralympic table tennis champion who overcame losing her limbs in a bomb attack as a child.",
+      "explanation": "At age 3, Najla lost much of her right arm and both legs in a bomb attack. With support from family and healthcare, she adjusted to life in a wheelchair. At 10, she discovered table tennis and trained with her left hand. She joined the Iraqi Paralympic team at 12, won gold at the 2022 Asian Para Games, and won Paralympic gold at Paris 2024.",
+      "rules": null,
+      "notes": "Key facts: lost limbs at age 3, started table tennis at 10, joined Iraqi Paralympic team at 12, won Asian Para Games gold at 16, won Paris Paralympic gold at 19.",
+      "examples": [
+        {
+          "problem": "What happened to Najla when she was three years old?",
+          "solution": "A bomb attached to her father's car went off while she was nearby, causing her to lose much of her right arm and both legs."
+        },
+        {
+          "problem": "What did Najla say in an interview before the Paris Paralympics?",
+          "solution": "Never stop, nothing is impossible. With determination and resolve, we can achieve what we want and make our dreams a reality."
+        }
+      ]
+    },
+    {
+      "id": "unit_review",
+      "title": "Unit 1 Review",
+      "definition": "Review of key language points from Unit 1: minor health problems, past continuous and past simple, phrasal verbs, used to, and linking phrases.",
+      "explanation": "Practice talking about minor health problems, telling stories using past tenses, using phrasal verbs correctly, talking about past habits with used to, and organizing ideas with linking phrases.",
+      "rules": null,
+      "notes": "Review examples: I've got a sore throat (health problem). I was cycling to school when a car nearly hit me (past continuous + past simple). Most smokers take up the habit when young (phrasal verb). She used to live down the road (used to). In my opinion, parents should teach healthy lifestyle (linking phrase).",
+      "examples": [
+        {
+          "problem": "Give an example of a minor health problem",
+          "solution": "I've got a really bad sore throat. / Hamzah twisted his ankle playing volleyball."
+        },
+        {
+          "problem": "Give an example of using past continuous and past simple",
+          "solution": "I was cycling to school when a car nearly hit me."
+        }
+      ]
+    }
+  ]
+}

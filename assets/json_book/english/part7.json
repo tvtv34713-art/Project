@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "pages": "131-154",
+    "description": "Activity book for sixth grade preparatory students covering education topics, future tenses, word families, making inferences, linking ideas, and opinion essays"
+  },
+  "sections": [
+    {
+      "id": "education_vocabulary",
+      "title": "Lesson 1: What Can I Study? - Education Vocabulary",
+      "definition": "Vocabulary related to education, studying, and course enrollment.",
+      "explanation": "Key terms include: enrol (get on a list of people), conference (large meeting to discuss something), practical lesson, application (written request), efficient (working quickly and well), register (be on a list for a class), enhance (make something better), admitted (allowed into a place).",
+      "rules": null,
+      "notes": "Word families: enhance (verb) - enhancement (noun), enrol (verb) - enrolment (noun), apply (verb) - application (noun), admit (verb) - admission (noun), attend (verb) - attendance (noun), register (verb) - registration (noun)",
+      "examples": [
+        {
+          "problem": "You can ______ your computer skills by taking an evening class.",
+          "solution": "enhance"
+        },
+        {
+          "problem": "You must send your ______ to the school by 10 May if you want to start in July.",
+          "solution": "application"
+        }
+      ]
+    },
+    {
+      "id": "word_families_suffixes",
+      "title": "Lesson 1: Word Families with Suffixes",
+      "definition": "Making word families can help you remember vocabulary. Suffixes like -ance, -ation, -ment, -sion can change verbs into nouns.",
+      "explanation": "Note: 't' at the end of words is often doubled when adding suffixes. 'y' changes to 'i' at the end of a word.",
+      "rules": "Common suffixes: -ance (attendance), -ation (registration), -ment (enrolment), -sion (admission). Verb to noun transformations.",
+      "notes": "Examples: enhance → enhancement, enrol → enrolment, apply → application, admit → admission, attend → attendance, register → registration",
+      "examples": [
+        {
+          "problem": "Complete the noun form of 'enhance'.",
+          "solution": "enhancement"
+        },
+        {
+          "problem": "Complete the noun form of 'admit'.",
+          "solution": "admission"
+        }
+      ]
+    },
+    {
+      "id": "future_forms",
+      "title": "Lesson 2: Future Forms - Present Simple, Present Continuous, Going To, Future Continuous",
+      "definition": "Different future forms express different meanings: schedules, fixed arrangements, plans and intentions, predictions, and fixed time in the future with focus on the action.",
+      "explanation": "Present simple: schedules (The term begins on 3rd September). Present continuous: fixed arrangements (I'm playing football at 6:30). Going to: plans and intentions (I'm going to study to be a doctor). Future simple: predictions (I'll be able to finish it tonight). Future continuous: fixed time with focus on action (I'll be sitting on a plane).",
+      "rules": "Present simple = timetables/schedules. Present continuous = fixed arrangements. Going to = intentions/plans. Will = predictions/decisions. Future continuous = action in progress at a future time.",
+      "notes": "Examples: The football match finishes at 8 p.m. (schedule). I'm having a party on Wednesday (arrangement). I'm going to take a computer class (plan). I'll be tired afterwards (prediction).",
+      "examples": [
+        {
+          "problem": "My new class ______ (start) tomorrow.",
+          "solution": "starts (present simple for schedule)"
+        },
+        {
+          "problem": "We ______ (have) a party on Wednesday. Can you come?",
+          "solution": "are having (present continuous for arrangement)"
+        }
+      ]
+    },
+    {
+      "id": "computer_skills_vocabulary",
+      "title": "Lesson 3: Improve Your Computer Skills - Vocabulary",
+      "definition": "Vocabulary related to computer skills, courses, and digital literacy.",
+      "explanation": "Key terms: self-disciplined (able to make yourself do things even when you don't want to), spreadsheet (program that lets you arrange information in tables), job seeker (person looking for a job), web design (creating a website), graphic design (creating pictures for books, brochures).",
+      "rules": null,
+      "notes": "Reasons to improve computer skills: help change careers, increase number of people enrolling in computer classes",
+      "examples": [
+        {
+          "problem": "Many businesses use spreadsheets to ______.",
+          "solution": "organize and analyze data"
+        },
+        {
+          "problem": "A benefit of online computer classes is that you can ______.",
+          "solution": "study at your own pace and from home"
+        }
+      ]
+    },
+    {
+      "id": "making_inferences",
+      "title": "Lesson 3: Making Inferences",
+      "definition": "Making inferences involves understanding information that is not clearly stated in the text. You decide what makes sense based on the information you have.",
+      "explanation": "Although this may sound difficult, you do it all the time without realizing it. For example, if you read 'Ahmed put his swimsuit and sun cream in his bag,' you can infer Ahmed is going to the beach.",
+      "rules": "Use clues from the text and your own knowledge to draw conclusions not explicitly stated.",
+      "notes": "Practice: Find sentences in the text that support your inference.",
+      "examples": [
+        {
+          "problem": "From Paragraph 1: 'Learning new computer skills can also help you change careers, and the number of people enrolling in computer classes is increasing.' What can you infer?",
+          "solution": "People want to get better jobs (a), because the text connects computer skills to career change and increasing enrollment."
+        }
+      ]
+    },
+    {
+      "id": "summer_courses_vocabulary",
+      "title": "Lesson 4: Summer Courses - Vocabulary",
+      "definition": "Vocabulary related to course catalogs, venues, and job prospects.",
+      "explanation": "Venue means where something takes place. Enhance your job prospects means improve your chances of getting a job.",
+      "rules": null,
+      "notes": "Key vocabulary: course catalogue, venue, enhance, job prospects, beginners, twice a week, on campus",
+      "examples": [
+        {
+          "problem": "What does venue mean?",
+          "solution": "where something takes place"
+        },
+        {
+          "problem": "If you enhance your job prospects, you ______ them.",
+          "solution": "improve them"
+        }
+      ]
+    },
+    {
+      "id": "linking_ideas",
+      "title": "Lesson 5: Linking Ideas in Paragraphs",
+      "definition": "The ideas in a paragraph can be linked in different ways: general to specific, cause and effect, time order, and comparison or contrast.",
+      "explanation": "Understanding how ideas are connected helps you understand what the author is saying.",
+      "rules": "Type A (General to specific): for example, for instance, such as. Type B (Cause and effect): as a result, therefore, so. Type C (Time order): first, next, then, after that, once, as soon as. Type D (Comparison/contrast): however, whereas, like, unlike, while.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Find an example of Type A linking in the first paragraph.",
+          "solution": "A statement followed by examples using 'for example' or 'such as'."
+        },
+        {
+          "problem": "Find an example of Type B linking in the second paragraph.",
+          "solution": "An event and its result using 'as a result', 'therefore', or 'so'."
+        }
+      ]
+    },
+    {
+      "id": "future_in_the_past",
+      "title": "Lesson 6: Future in the Past",
+      "definition": "Future in the past is used to talk about something that was in the future at the time of speaking in the past.",
+      "explanation": "When reporting past thoughts, decisions, or plans about the future, we use would, was/were going to, or past continuous with future meaning.",
+      "rules": "I am going to → I was going to. I will → I would. Present continuous for future → past continuous for future. I know → I knew (with would/was going to).",
+      "notes": "Examples: I decided I was going to learn Arabic. My employer said the company would give me training. I found out he was going to a painting class.",
+      "examples": [
+        {
+          "problem": "I've decided I am going to learn Arabic. (I decided...)",
+          "solution": "I decided I was going to learn Arabic."
+        },
+        {
+          "problem": "He is going to a painting class this evening. (I found out he...)",
+          "solution": "I found out he was going to a painting class."
+        }
+      ]
+    },
+    {
+      "id": "opinion_essays",
+      "title": "Lesson 7: Opinion Essays - Books and the Internet",
+      "definition": "In an opinion essay, you say what you think about a subject and explain why you think this, making your essay more convincing and interesting.",
+      "explanation": "The essay begins with an introduction mentioning what you will write about. The body gives details and reasons. The conclusion sums up your ideas and opinion.",
+      "rules": "Structure: Introduction (state topic and opinion), Body (reasons and evidence, possibly addressing counterarguments), Conclusion (summarize and restate opinion).",
+      "notes": "Linking words for opinion essays: unlike, in addition, but, although, however",
+      "examples": [
+        {
+          "problem": "Rewrite: Books can be used anywhere. Computers can't be used anywhere. (unlike)",
+          "solution": "Unlike computers, books can be used anywhere."
+        },
+        {
+          "problem": "Rewrite: You can do more than just read information on the internet. You can listen to the news as well. (in addition)",
+          "solution": "In addition to reading information, you can listen to the news on the internet."
+        }
+      ]
+    },
+    {
+      "id": "distance_learning_essay",
+      "title": "Lesson 8: Distance Learning vs Classroom Learning Essay",
+      "definition": "Writing an opinion essay comparing distance learning and classroom learning.",
+      "explanation": "Distance learning advantages: no travel, quieter, less expensive, no missed classes due to illness, flexible schedule. Classroom learning advantages: regular schedule, collaborative learning, more fun, discussions, immediate teacher feedback.",
+      "rules": "Essay structure: Introduction (state opinion), Body (advantages and disadvantages), Conclusion (summarize opinion).",
+      "notes": "Essay length: 100-120 words. Use linking words to connect ideas.",
+      "examples": [
+        {
+          "problem": "Write an introduction stating your opinion about distance learning vs classroom learning.",
+          "solution": "In my opinion, distance learning offers greater flexibility, but classroom learning provides valuable face-to-face interaction. This essay will discuss both sides of the argument."
+        }
+      ]
+    },
+    {
+      "id": "library_vocabulary",
+      "title": "Lesson 9: Using the Library - Vocabulary",
+      "definition": "Vocabulary related to library services and job searching.",
+      "explanation": "Key terms: astounded (surprised), body language (how you sit and move), businesslike (professional), since (because), pay off (bring the right results).",
+      "rules": null,
+      "notes": "Library resources: job application skills, DVDs, newspapers, language tests information",
+      "examples": [
+        {
+          "problem": "What does 'astounded' mean?",
+          "solution": "surprised"
+        },
+        {
+          "problem": "What does 'pay off' mean in the context of job searching?",
+          "solution": "bring the right results"
+        }
+      ]
+    },
+    {
+      "id": "revision_word_formation",
+      "title": "Revision: Word Formation from Nouns to Adjectives/Verbs",
+      "definition": "Using correct forms of words with suffixes to complete sentences.",
+      "explanation": "Different suffixes change word forms: apply → application, attend → attendance, qualify → qualifications, register → registration, admit → admission, enrol → enrolment.",
+      "rules": "Noun suffixes: -tion, -ance, -ment, -ation",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Thank you for considering my ______ (apply) to your Web Design course.",
+          "solution": "application"
+        },
+        {
+          "problem": "I'm afraid your ______ (attend) on the course has been very low.",
+          "solution": "attendance"
+        }
+      ]
+    },
+    {
+      "id": "revision_future_in_the_past",
+      "title": "Revision: Future in the Past Practice",
+      "definition": "Rewriting future plans spoken in the past using future in the past structures.",
+      "explanation": "Convert direct speech about future plans into reported form showing they were future at the time.",
+      "rules": "am/is/are going to → was/were going to. will → would. present continuous for future → past continuous.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Hasan: 'Sorry. I can't go because I'm playing basketball later.' (Hasan couldn't meet his friends because...)",
+          "solution": "Hasan couldn't meet his friends because he was playing basketball later."
+        },
+        {
+          "problem": "Lina: 'I think I'll probably go to the shopping mall.' (Lina thought...)",
+          "solution": "Lina thought she would probably go to the shopping mall."
+        }
+      ]
+    },
+    {
+      "id": "revision_future_forms",
+      "title": "Revision: Choosing Correct Future Forms",
+      "definition": "Selecting the appropriate future form based on context.",
+      "explanation": "Different contexts require different future forms: schedules, arrangements, predictions, intentions, and future continuous.",
+      "rules": "Present simple for timetables. Present continuous for arrangements. Going to for intentions. Will for predictions. Future continuous for actions in progress at future time.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "I can't go to my course tonight because I ______ my mother at the airport.",
+          "solution": "I'm picking up (fixed arrangement)"
+        },
+        {
+          "problem": "This time next week I ______ Spanish in Madrid!",
+          "solution": "I'll be studying (future continuous - action in progress)"
+        }
+      ]
+    },
+    {
+      "id": "revision_linking_words",
+      "title": "Revision: Linking Words in Essays",
+      "definition": "Using linking words to connect ideas in academic writing.",
+      "explanation": "Different linking words serve different purposes: unlike (contrast), once (time), therefore (result), however (contrast), for instance (example).",
+      "rules": "Use linking words to show: contrast (unlike, however), time (once, after that), result (therefore), example (for instance).",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "______ face-to-face lessons, you can do an online course from home.",
+          "solution": "Unlike"
+        },
+        {
+          "problem": "______ you are enrolled in a course, you feel more motivated to go to the classes.",
+          "solution": "Once"
+        }
+      ]
+    },
+    {
+      "id": "test_vocabulary_compound_nouns",
+      "title": "Test: Compound Nouns and Definitions",
+      "definition": "Test covering compound nouns related to education and work.",
+      "explanation": "Match words to form compound nouns and define vocabulary terms.",
+      "rules": null,
+      "notes": "Key vocabulary: job prospects, placement test, continuing education, prior knowledge, astounded, body language",
+      "examples": [
+        {
+          "problem": "Doing a course can improve your j b pr sp cts.",
+          "solution": "job prospects"
+        },
+        {
+          "problem": "a computer program that is useful if you are working with numbers",
+          "solution": "spreadsheet"
+        }
+      ]
+    },
+    {
+      "id": "test_future_forms",
+      "title": "Test: Future Forms Multiple Choice",
+      "definition": "Test choosing correct future forms in various contexts.",
+      "explanation": "Select between present simple, present continuous, going to, will, and future continuous based on meaning.",
+      "rules": "Consider whether the context indicates: schedule, arrangement, intention, prediction, or ongoing future action.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "The train ______ at 11:00.",
+          "solution": "leaves (present simple for schedule)"
+        },
+        {
+          "problem": "I ______ going to the dentist's then.",
+          "solution": "am going to (arrangement)"
+        }
+      ]
+    },
+    {
+      "id": "test_future_in_the_past",
+      "title": "Test: Future in the Past",
+      "definition": "Test rewriting sentences using future in the past structures.",
+      "explanation": "Convert sentences about future plans into past perspective using was/were going to, would, or past continuous.",
+      "rules": "I'm going to → I was going to. I will → I would. Present continuous → past continuous.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "She's going to her computer course tomorrow night. (I found out she...)",
+          "solution": "I found out she was going to her computer course tomorrow night."
+        },
+        {
+          "problem": "He's starting his new job next week. (He said...)",
+          "solution": "He said he was starting his new job next week."
+        }
+      ]
+    },
+    {
+      "id": "writing_assignment_work_and_study",
+      "title": "Writing Assignment: Studying While Working",
+      "definition": "Write an opinion essay on the statement: 'Studying while you're working is worth all the hard work.'",
+      "explanation": "Write a short essay with introduction, body, and conclusion (100-120 words). Use linking words and phrases to connect ideas.",
+      "rules": "Essay structure: Introduction (state opinion), Body (reasons and evidence), Conclusion (summarize). Use linking words: however, therefore, for example, in addition, although.",
+      "notes": "Consider: time management, career advancement, financial benefits, personal growth, work-life balance",
+      "examples": null
+    }
+  ]
+}

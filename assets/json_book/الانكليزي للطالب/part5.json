@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "unit": 5,
+    "pages": "1-10",
+    "description": "Activity book for sixth grade preparatory students covering travel vocabulary, compound nouns, present perfect simple and continuous, past perfect, relative clauses, and reading comprehension about tourism and holidays"
+  },
+  "sections": [
+    {
+      "id": "compound_nouns_travel",
+      "title": "Lesson 1: Compound Nouns - Travel Vocabulary",
+      "definition": "Compound nouns are nouns made up of two or more words that function as a single unit. Common travel-related compound nouns include boarding card, travel agency, five-star hotel, package deal, packed lunch, ski resort, car hire, self-catering, sightseeing, and seaside.",
+      "explanation": "Compound nouns can be two separate words (boarding card), hyphenated (five-star), or one word (seaside). The form changes over time as words become commonly used together.",
+      "rules": null,
+      "notes": "Key travel compound nouns: boarding card (required for boarding a plane), travel agency (where you book travel), five-star hotel (luxury accommodation), package deal (inclusive holiday), packed lunch (prepared meal for excursions), ski resort (mountain holiday destination), car hire (rental car), self-catering (accommodation where you cook for yourself), sightseeing (visiting tourist attractions), seaside (coastal area).",
+      "examples": [
+        {
+          "problem": "What do you need to board a plane?",
+          "solution": "A boarding card."
+        },
+        {
+          "problem": "What type of accommodation allows you to cook your own meals?",
+          "solution": "Self-catering accommodation."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_experiences",
+      "title": "Lesson 2: Present Perfect - Travel Experiences",
+      "definition": "The present perfect simple is used to talk about travel experiences and things that have happened in an unfinished time period.",
+      "explanation": "Quiz questions about travel experiences use present perfect: Have you ever stayed in a really unusual hotel? Have you ever camped on a beach? Have you ever flown in a helicopter? Have you ever been sightseeing in an open-top bus? Have you ever been cheated by a taxi driver? Have you ever lost your passport while on holiday?",
+      "rules": "Present perfect structure: have/has + past participle. Used with ever in questions about experiences. Used with never in negative answers.",
+      "notes": "Examples: Have you ever stayed in a really unusual hotel? Yes, I have. I stayed in the Four Seasons Hotel in Cairo.",
+      "examples": [
+        {
+          "problem": "Ask about staying in an unusual hotel",
+          "solution": "Have you ever stayed in a really unusual hotel?"
+        },
+        {
+          "problem": "Ask about losing a passport on holiday",
+          "solution": "Have you ever lost your passport while on holiday?"
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_for_since",
+      "title": "Lesson 3: Present Perfect with For and Since",
+      "definition": "The present perfect is used with for and since to talk about actions or states that started in the past and continue to the present.",
+      "explanation": "Steve Harper has been coming to Iraq since 2009. He has visited 15 times. Safar Tours has been organizing trips for over 30 years. He has known Ahmed for three years. They have had their office on Al Sa'doon Street since last July. He has been in Iraq for eight days.",
+      "rules": "For + period of time (for three years, for over 30 years). Since + specific point in time (since 2009, since last July). Present perfect for states and repeated actions.",
+      "notes": "Key facts: Steve Harper has visited Iraq 15 times. Safar Tours was started in 1976. Ahmed Salim is the owner and manager.",
+      "examples": [
+        {
+          "problem": "How long has Steve Harper been coming to Iraq?",
+          "solution": "Since 2009."
+        },
+        {
+          "problem": "How many times has he visited?",
+          "solution": "15 times."
+        }
+      ]
+    },
+    {
+      "id": "present_perfect_vs_past_simple",
+      "title": "Lesson 4: Present Perfect vs Past Simple",
+      "definition": "The present perfect is used for past actions with connection to the present, while the past simple is used for completed actions at a specific time in the past.",
+      "explanation": "In Katie and Muna's conversation about Thailand: Have you ever been there? (present perfect for experience). We had a family holiday there a couple of years ago (past simple for completed action). We spent a week in Bangkok (past simple). Which hotel did you stay at? (past simple question).",
+      "rules": "Present perfect: no specific time, result in present, experience. Past simple: specific time (a couple of years ago, last week), completed action.",
+      "notes": "Key vocabulary: holiday brochures, deal, Bangkok, Phuket, green curry.",
+      "examples": [
+        {
+          "problem": "Ask about someone's travel experience to Thailand",
+          "solution": "Have you ever been to Thailand?"
+        },
+        {
+          "problem": "Ask about where someone stayed on holiday",
+          "solution": "Which hotel did you stay at?"
+        }
+      ]
+    },
+    {
+      "id": "past_perfect",
+      "title": "Lesson 5: Past Perfect",
+      "definition": "The past perfect (had + past participle) is used to show which of two past events happened first.",
+      "explanation": "Examples of past perfect in travel contexts: We couldn't get a room because we hadn't booked. I couldn't board the plane because I had lost my boarding card. She was nervous because she hadn't flown before. I didn't recognize the place because it had changed so much.",
+      "rules": "Past perfect for the earlier action. Past simple for the later action. Used with because, when, after, before to show sequence.",
+      "notes": "Key vocabulary: boarding card, excursion, hire a car, driving licence, complaint.",
+      "examples": [
+        {
+          "problem": "Why couldn't they get a room?",
+          "solution": "Because they hadn't booked."
+        },
+        {
+          "problem": "Why couldn't the person board the plane?",
+          "solution": "Because they had lost their boarding card."
+        }
+      ]
+    },
+    {
+      "id": "holiday_description",
+      "title": "Lesson 6: Holiday Description - Kerkennah Islands",
+      "definition": "A travel article describing a holiday in the Kerkennah Islands, Tunisia, using various past tenses to narrate experiences.",
+      "explanation": "Anna Johnson describes a two-week package holiday costing £300 including flights, transfers, ferry, and accommodation. The hotel overlooked the beach with a swimming pool and tennis courts. Activities included camel rides, windsurfing, donkey cart tours, and visiting Roman theatre at El Jem. Local speciality was octopus.",
+      "rules": null,
+      "notes": "Key vocabulary: ferry (boat transporting people), luxurious (extremely comfortable), spectacular (wonderful to look at), speciality (something special to a locality), hospitality (welcome), entertainment (show/performance).",
+      "examples": [
+        {
+          "problem": "What did the holiday cost include?",
+          "solution": "Flight from London to Sfax, bus transfers, ferry to and from the island, three-star hotel accommodation with breakfast and dinner, and evening entertainment."
+        },
+        {
+          "problem": "What local seafood speciality is mentioned?",
+          "solution": "Octopus, which is a speciality in Kerkennah."
+        }
+      ]
+    },
+    {
+      "id": "relative_clauses",
+      "title": "Lesson 7: Relative Clauses - Defining and Non-Defining",
+      "definition": "Relative clauses give additional information about a noun. Defining clauses provide essential information; non-defining clauses provide extra information and are set off with commas.",
+      "explanation": "Examples about Kerkennah Islands: Kerkenah is the name of a group of islands that are situated off the east coast of Tunisia (defining). The main two islands are Chergui and Gharbi, which are both inhabited (non-defining). The islands are reached by a ferry that operates throughout the year (defining). The most famous beach is Mkaren Klifa, where the water is an incredibly clear blue (defining). There are many colorful festivals, which are a great attraction for tourists (non-defining).",
+      "rules": "Defining: no commas, essential information, can use that. Non-defining: commas, extra information, cannot use that. Relative pronouns: who (people), which/that (things), where (places), whose (possession).",
+      "notes": "Examples: Hedi Berkhissa, who was a world-class footballer, died during a match in Tunis (non-defining).",
+      "examples": [
+        {
+          "problem": "Identify defining vs non-defining clause: 'Kerkenah is the name of a group of islands that are situated off the east coast of Tunisia.'",
+          "solution": "Defining (essential information, no commas, uses that)."
+        },
+        {
+          "problem": "Identify defining vs non-defining clause: 'The main two islands are Chergui and Gharbi, which are both inhabited.'",
+          "solution": "Non-defining (extra information, commas, uses which)."
+        }
+      ]
+    },
+    {
+      "id": "tourism_essay",
+      "title": "Lesson 8: Tourism and Environment - Pros and Cons Essay",
+      "definition": "An essay exploring the positive and negative impacts of tourism on the environment, highlighting the need for sustainable practices.",
+      "explanation": "Basim's essay discusses pros: money supports preservation, encourages locals to preserve, visitors realize need to preserve, learn about local culture. Cons: waste leads to water pollution, too many tourists damage ecosystem, greenhouse gases from planes, tourist facilities use land where animals live.",
+      "rules": "Essay structure: Introduction (present topic), Body (pros and cons with evidence), Conclusion (summarize and give balanced view). Use linking words: however, additionally, consequently, in conclusion.",
+      "notes": "Key arguments: tourism provides economic support for conservation, raises environmental awareness, but causes pollution, habitat destruction, and loss of biodiversity.",
+      "examples": [
+        {
+          "problem": "What is a positive impact of tourism on the environment?",
+          "solution": "Money generated from tourism can be used to preserve natural parks, wildlife reserves, and other protected areas."
+        },
+        {
+          "problem": "What is a negative impact of tourism on the environment?",
+          "solution": "The influx of tourists can lead to increased waste and water pollution, and construction of hotels can result in habitat destruction."
+        }
+      ]
+    },
+    {
+      "id": "work_life_balance",
+      "title": "Lesson 9: Work-Life Balance - Importance of Holidays",
+      "definition": "A text about the importance of taking breaks and holidays for physical and mental health, with headings about stress, workaholics, time for others, and relaxation.",
+      "explanation": "The text discusses how modern life pressure affects health, causes high blood pressure, strokes, and heart attacks. Workaholics avoid holidays due to deadlines. People need time with family and friends. Holidays provide a change of scene and pace, essential for well-being.",
+      "rules": null,
+      "notes": "Key vocabulary: workaholic (person who works too much), deadline (time limit), around the corner (about to happen), snatched (taken quickly), well-being (health), vital (very important).",
+      "examples": [
+        {
+          "problem": "What can the stress of modern life cause?",
+          "solution": "High blood pressure, strokes, heart attacks, and mental health problems."
+        },
+        {
+          "problem": "Why do workaholics avoid taking holidays?",
+          "solution": "They think their work is too important to leave in the hands of others, and there is always another deadline or deal around the corner."
+        }
+      ]
+    },
+    {
+      "id": "unit_review",
+      "title": "Unit 5 Review",
+      "definition": "Review of key language points from Unit 5: compound nouns, present perfect simple and continuous, past perfect, and relative clauses.",
+      "explanation": "Practice using compound nouns for travel (package deal, seafront). Using present perfect for experiences (I've never been to Europe, Have you ever stayed in a five-star hotel?). Using present perfect continuous for longer actions (She's been travelling for over a month). Using past perfect for change (Things had changed a lot). Using relative clauses to describe things (The resort where we spent our holidays).",
+      "rules": null,
+      "notes": "Review examples: I got a good package deal for our holiday. I've never been to Europe. She's been travelling for over a month. Things had changed a lot the second time. The resort where we spent our holidays had five swimming pools.",
+      "examples": [
+        {
+          "problem": "Give an example of a compound noun about travel",
+          "solution": "I got a good package deal for our holiday. Our hotel was right at the seafront."
+        },
+        {
+          "problem": "Give an example of present perfect for experience",
+          "solution": "I've never been to Europe. Have you ever stayed in a five-star hotel?"
+        },
+        {
+          "problem": "Give an example of past perfect",
+          "solution": "Things had changed a lot the second time we spent holidays there."
+        },
+        {
+          "problem": "Give an example of a relative clause",
+          "solution": "The resort where we spent our holidays had five swimming pools."
+        }
+      ]
+    }
+  ]
+}

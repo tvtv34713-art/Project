@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "1-10",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 2",
+    "title": "Police and Security"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Vocabulary: Crime and Security",
+      "definition": "Matching words with photos related to crime scene investigation and security equipment.",
+      "explanation": "Key vocabulary includes: footprint, fingerprint, radar speed gun, metal detector, X-ray machine, security camera, crime scene, speed limit, security guard.",
+      "rules": null,
+      "notes": "These terms are essential for discussing police work and security procedures.",
+      "examples": [
+        {
+          "problem": "Match the words and the photos: footprint",
+          "solution": "Image of a foot impression"
+        },
+        {
+          "problem": "Match the words and the photos: fingerprint",
+          "solution": "Image of finger patterns"
+        },
+        {
+          "problem": "Match the words and the photos: radar speed gun",
+          "solution": "Image of a handheld device used by police"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Listening: Police Officer and Driver",
+      "definition": "Listening exercise to identify speakers.",
+      "explanation": "Two speakers are talking. Students must identify which one is a police officer and which one is a driver.",
+      "rules": null,
+      "notes": "Focus on understanding roles from context and vocabulary.",
+      "examples": [
+        {
+          "problem": "Which speaker is a police officer?",
+          "solution": "Speaker who uses formal language and discusses rules."
+        },
+        {
+          "problem": "Which speaker is a driver?",
+          "solution": "Speaker who asks questions about driving."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Police Officer's Duties",
+      "definition": "Reading about the various duties of a police officer.",
+      "explanation": "Police officers direct traffic, use radar speed guns, check seat belts, investigate crimes, collect evidence, interview witnesses, and prevent crimes.",
+      "rules": [
+        "Drivers mustn't speed because it causes death on the road.",
+        "When you get into a car, you must wear your seat belt.",
+        "Police officers must investigate crimes and collect evidence."
+      ],
+      "notes": "Police also help with everyday problems like giving directions to lost people.",
+      "examples": [
+        {
+          "problem": "What activities does a police officer do?",
+          "solution": "Direct traffic, use radar speed guns, check seat belts, investigate crimes, look for fingerprints and footprints, interview witnesses, prevent crimes, help lost people."
+        },
+        {
+          "problem": "Why mustn't drivers speed?",
+          "solution": "Because speeding is one of the leading causes of death on the road."
+        },
+        {
+          "problem": "How do witnesses help the police?",
+          "solution": "By telling them what a criminal looks like or what time a crime was committed."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Airport Security",
+      "definition": "Places and procedures at the airport before boarding a plane.",
+      "explanation": "Passengers go through security screening, baggage check, and passport control before boarding. After landing, they go through customs and baggage claim.",
+      "rules": null,
+      "notes": "Security procedures are essential for passenger safety.",
+      "examples": [
+        {
+          "problem": "Which places do you go to before boarding a plane?",
+          "solution": "Check-in, security screening, passport control, departure lounge."
+        },
+        {
+          "problem": "Which places do you go to after getting off?",
+          "solution": "Baggage claim, customs, arrivals hall."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Polite Requests, Suggestions, Offers, and Advice",
+      "definition": "Different language functions used in airport dialogues.",
+      "explanation": "Polite requests: 'Can you...' Suggestions: 'You should...' Offers: 'I'll...' Advice: 'You should always...'",
+      "rules": null,
+      "notes": "Use appropriate language for different situations.",
+      "examples": [
+        {
+          "problem": "Make a polite request",
+          "solution": "Can you get me an orange soda?"
+        },
+        {
+          "problem": "Give advice",
+          "solution": "You should always have your baggage with you."
+        },
+        {
+          "problem": "Make an offer",
+          "solution": "I'll stay here with the bags if you want."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Job Advert: Security Guard",
+      "definition": "Reading a job advertisement for a security guard position.",
+      "explanation": "The advert lists requirements: age 18+, available weekends, fit, computer literate, speak English and Arabic, have a driving licence. No experience necessary.",
+      "rules": null,
+      "notes": "Abbreviations in adverts save space: bldgs. = buildings, yrs. = years, avail. = available, wknds. = weekends, spk. = speak, lic. = licence.",
+      "examples": [
+        {
+          "problem": "Where can you find adverts like this one?",
+          "solution": "In newspapers, online job sites, company websites."
+        },
+        {
+          "problem": "What are the requirements for the job?",
+          "solution": "18 years or older, available weekends, fit, computer literate, speak English and Arabic, have a driving licence."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Grammar: Should/Shouldn't for Expectation",
+      "definition": "Using should and shouldn't to express expectation about the future.",
+      "explanation": "'Should' means 'I expect this will happen.' 'Shouldn't' means 'I expect this won't happen.'",
+      "rules": [
+        "Use should to say what you expect will happen.",
+        "Use shouldn't to say what you expect won't happen."
+      ],
+      "notes": "This is different from giving advice. Here, should expresses probability.",
+      "examples": [
+        {
+          "problem": "Samir: That's fine. I enjoy talking to people. Mr Hazem: Then you should enjoy the job.",
+          "solution": "Mr Hazem means 'I think you will enjoy the job.' (expectation, not advice)"
+        },
+        {
+          "problem": "What does 'should' mean in this context?",
+          "solution": "It expresses expectation, not recommendation."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Military Jobs",
+      "definition": "Reading about career opportunities in the military.",
+      "explanation": "The military has three branches: Land Force, Navy, Air Force. Jobs include technical (computer specialists) and non-technical (drivers). Officers have more responsibility. Military training helps with civilian jobs later.",
+      "rules": [
+        "You must be 18 years old to join the military.",
+        "You don't have to have a lot of experience when you join.",
+        "You must be able to drive off the road and in bad weather conditions."
+      ],
+      "notes": "Military skills are useful in civilian life after leaving the service.",
+      "examples": [
+        {
+          "problem": "What are the three branches of the military?",
+          "solution": "The Land Force, the Navy, and the Air Force."
+        },
+        {
+          "problem": "What technical jobs are available in the military?",
+          "solution": "Computer specialists who install and maintain software and hardware."
+        },
+        {
+          "problem": "How can military training help after leaving?",
+          "solution": "It can help you find a civilian job."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "A Robbery - Reading",
+      "definition": "Reading two texts about a robbery: a police report and an email from the victim's daughter.",
+      "explanation": "The texts describe a robbery at the Smiths' house. Sue heard a crash, woke her parents, and they called the police. A computer, money, and jewellery were stolen.",
+      "rules": null,
+      "notes": "The two texts provide different perspectives on the same event.",
+      "examples": [
+        {
+          "problem": "Are the two texts about the same or different events?",
+          "solution": "They are about the same event."
+        },
+        {
+          "problem": "What was stolen?",
+          "solution": "Money, jewellery, and a computer."
+        },
+        {
+          "problem": "Why is Sue upset about the computer?",
+          "solution": "Her Science report was on the hard disk."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Home Safety Brochure",
+      "definition": "Reading a safety brochure published by the Police Department.",
+      "explanation": "The brochure aims to persuade people to take security measures in their homes. It discusses burglaries, the importance of good locks, and sentimental value of possessions.",
+      "rules": null,
+      "notes": "The purpose is to persuade, not just inform.",
+      "examples": [
+        {
+          "problem": "What is the purpose of the brochure?",
+          "solution": "To persuade people to take security measures in their home."
+        },
+        {
+          "problem": "What do thieves usually steal?",
+          "solution": "Money, jewellery, computers, and television sets."
+        },
+        {
+          "problem": "Why is a good lock important?",
+          "solution": "Because some locks are unbelievably easy to open without a key."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Road Safety - Driving Lesson",
+      "definition": "Listening to a dialogue about Hamzah's first driving lesson.",
+      "explanation": "The instructor gives recommendations about safe driving. Students number photos in order mentioned and remember the instructor's advice.",
+      "rules": null,
+      "notes": "Use phrases like: Never forget to..., You've got to..., Always remember to..., Make sure you..., It's always better to..., You really ought to...",
+      "examples": [
+        {
+          "problem": "What recommendations did the instructor give?",
+          "solution": "Check mirrors, use indicators, wear seat belt, obey speed limits, etc."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Security Technology: Radar Speed Guns",
+      "definition": "Reading about radar speed guns and how they work.",
+      "explanation": "Radar was invented in WWII to detect enemy aircraft. Radar speed guns send radio waves that bounce off cars to calculate speed. They work in both directions and can be hand-held or vehicle-mounted.",
+      "rules": null,
+      "notes": "Radar detectors are illegal in some places. The best way to avoid tickets is to drive under the speed limit.",
+      "examples": [
+        {
+          "problem": "When were radar speed guns first used by police?",
+          "solution": "Over 70 years ago."
+        },
+        {
+          "problem": "How does a radar speed gun work?",
+          "solution": "It sends radio waves that bounce off the car. If the car is moving, the space between waves changes, and the gun calculates the speed."
+        },
+        {
+          "problem": "What is a radar detector?",
+          "solution": "A device that detects if a radar gun is being used nearby."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Unit 2 Review: Grammar and Functions",
+      "definition": "Review of key language from Unit 2.",
+      "explanation": "Topics include: talking about rules (have to, must, need to), giving advice, making polite requests, suggestions, offers, talking about expectations (should/shouldn't), and giving recommendations.",
+      "rules": [
+        "Use have to, must, need to for rules and obligations.",
+        "Use mustn't for prohibition.",
+        "Use should/shouldn't for expectations.",
+        "Use phrases like 'Make sure you' and 'It's always better to' for recommendations."
+      ],
+      "notes": "Practice each function with a partner and give examples.",
+      "examples": [
+        {
+          "problem": "Talking about rules using have to, must, need to",
+          "solution": "You need to wear a seat belt, even if you're in the back. You mustn't use your phone while driving."
+        },
+        {
+          "problem": "Giving advice and making offers",
+          "solution": "I'll pack our bags if you want. Shall we take only hand luggage?"
+        },
+        {
+          "problem": "Talking about expectations using should/shouldn't",
+          "solution": "I'll be back soon; it shouldn't take long."
+        },
+        {
+          "problem": "Using phrases to talk about recommendations",
+          "solution": "Make sure you signal that you are going to turn. It's always better to do a safety check on your car."
+        }
+      ]
+    }
+  ]
+}

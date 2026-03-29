@@ -1,0 +1,758 @@
+[
+    {
+        "pages_range": "210 to 219",
+        "data": {
+            "chapter_number": "5",
+            "chapter_title_ar": "المعادلات التفاضلية الاعتيادية",
+            "chapter_title_en": "Ordinary Differential Equations",
+            "pages": [
+                {
+                    "page_number": 210,
+                    "sections": [
+                        {
+                            "id": "5-1",
+                            "title_ar": "مقدمة"
+                        },
+                        {
+                            "id": "5-2",
+                            "title_ar": "حل المعادلة التفاضلية"
+                        },
+                        {
+                            "id": "5-3",
+                            "title_ar": "الحل الخاص والعام للمعادلة التفاضلية الاعتيادية."
+                        },
+                        {
+                            "id": "5-4",
+                            "title_ar": "المعادلات التفاضلية الاعتيادية من المرتبة الاولى والدرجة الاولى."
+                        },
+                        {
+                            "id": "5-5",
+                            "title_ar": "بعض طرق حل المعادلات التفاضلية."
+                        }
+                    ],
+                    "tables": [
+                        {
+                            "title": "جدول المصطلحات",
+                            "headers": [
+                                "المصطلح",
+                                "الرموز أو العلاقة الرياضية"
+                            ],
+                            "rows": [
+                                {
+                                    "term_ar": "المعادلة التفاضلية الاعتيادية",
+                                    "symbol_or_relation": "O.D.E"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 211,
+                    "sections": [
+                        {
+                            "id": "5-1",
+                            "title_ar": "مقدمة"
+                        },
+                        {
+                            "id": "5-1-1",
+                            "type": "تعريف",
+                            "title_ar": "المعادلة التفاضلية",
+                            "content_ar": "المعادلة التفاضلية (Differential Equation) هي المعادلة التي تحتوي على مشتقة واحدة أو أكثر للدالة المجهولة في المعادلة (أي للمتغير التابع في المعادلة)."
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "title_ar": "ملاحظة",
+                            "content_ar": "المعادلة التفاضلية الاعتيادية هي علاقة بين متغير مستقل (Independent Variable) وليكن ($x$) ودالته غير المعروفة ($y$) (Dependent Variable) وبعض مشتقات ($y$) بالنسبة إلى ($x$) ويرمز لها O.D.E والتي هي مختصر إلى (Ordinary Differential Equation)."
+                        }
+                    ],
+                    "examples": [
+                        {
+                            "type": "مثلاً",
+                            "description_ar": "كلها معادلات تفاضلية اعتيادية لأن المتغير y يعتمد فقط على المتغير x.",
+                            "equations": [
+                                "$$\\\\frac{dy}{dx} = 3y-4x$$",
+                                "$$y'' + x^2y' + x = y$$",
+                                "$$x^2y'' + 5xy' - x^3y = 0$$",
+                                "$$y^{(4)} + \\\\cos y + x^2y'y = 0$$",
+                                "$$\\\\frac{d^2y}{dx^2} + \\\\frac{dy}{dx} = y-4$$",
+                                "$$y^{(3)} + 2y' + x^2 \\\\ln x = 5$$"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 212,
+                    "sections": [
+                        {
+                            "id": "5-1-2",
+                            "type": "تعريف",
+                            "title_ar": "رتبة ودرجة المعادلة التفاضلية",
+                            "definitions": [
+                                {
+                                    "term_ar": "رتبة المعادلة التفاضلية (Order)",
+                                    "definition_ar": "تعرف رتبة المعادلة التفاضلية بأنها رتبة أعلى مشتقة."
+                                },
+                                {
+                                    "term_ar": "درجة المعادلة التفاضلية (Degree)",
+                                    "definition_ar": "تعرف درجة المعادلة التفاضلية بأنها: أكبر قوة (أس) مرفوعة له أعلى مشتقة في المعادلة التفاضلية."
+                                }
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        {
+                            "type": "مثلاً",
+                            "items": [
+                                {
+                                    "equation": "$$\\frac{dy}{dx} + x - 7y = 0$$",
+                                    "description_ar": "من الرتبة الاولى والدرجة الاولى"
+                                },
+                                {
+                                    "equation": "$$\\frac{d^2y}{dx^2} = 5x - 3xy + 7$$",
+                                    "description_ar": "من الرتبة الثانية والدرجة الاولى"
+                                },
+                                {
+                                    "equation": "$$y^{(3)} + (y')^3 + y'' - y = 0$$",
+                                    "description_ar": "من الرتبة الثالثة والدرجة الثالثة"
+                                },
+                                {
+                                    "equation": "$$y'' + 2y(y')^3 = 0$$",
+                                    "description_ar": "من الرتبة الثانية والدرجة الاولى"
+                                },
+                                {
+                                    "equation": "$$(\\\\frac{dy}{dx})^4 = x^3 - 5$$",
+                                    "description_ar": "من الرتبة الاولى والدرجة الرابعة"
+                                },
+                                {
+                                    "equation": "$$x^2\\\\frac{d^3y}{dx^3} + (\\\\frac{d^2y}{dx^2})^2 = 0$$",
+                                    "description_ar": "من الرتبة الثالثة والدرجة الثانية"
+                                },
+                                {
+                                    "equation": "$$y^{(4)} + y^{(3)} + \\\\cos y + x^2y' = 0$$",
+                                    "description_ar": "من الرتبة الرابعة والدرجة الاولى"
+                                }
+                            ]
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "title_ar": "ملاحظة",
+                            "content_ar": "درجة المعادلة التفاضلية التي تكون جبرية في مشتقاتها هي الدرجة الجبرية للمشتقة ذات أعلى رتبة تظهر في المعادلة. فمثلاً المعادلة التفاضلية: $$(y'')^2 = \\\\sqrt{1+(y')^2}$$ من الرتبة الثانية لأن أعلى مشتقة فيها $$(y'')$$ حيث يمكن إزالة الجذور أو الأسس الكسرية ونحصل على : $$(y'')^4 = 1+(y')^2$$ وبذلك تكون درجة المعادلة التفاضلية الرابعة."
+                        }
+                    ]
+                },
+                {
+                    "page_number": 213,
+                    "sections": [
+                        {
+                            "id": "5-2",
+                            "title_ar": "حل المعادلة التفاضلية الاعتيادية",
+                            "title_en": "Solution of an Ordinary Differential Equation",
+                            "introduction_ar": "إن الغاية من دراسة المعادلات التفاضلية هي كيفية إيجاد حلولاً لها، ويتم ذلك بإيجاد علاقة بين المتغير التابع (غير المستقل) y والمتغير المستقل x بحيث تكون العلاقة خالية من الاشتقاقات وأن تحقق المعادلة التفاضلية عند التعويض."
+                        },
+                        {
+                            "id": "5-2-1",
+                            "type": "تعريف",
+                            "title_ar": "الحل للمعادلة التفاضلية",
+                            "definition_ar": "حل المعادلة التفاضلية هو أية علاقة بين متغيرات المعادلة التفاضلية بحيث إن هذه العلاقة:",
+                            "criteria_ar": [
+                                "أ) خالية من المشتقة.",
+                                "ب) معرفة على فترة معينة.",
+                                "ج) تحقق المعادلة التفاضلية."
+                            ],
+                            "clarification_ar": "أي ان الحل للمعادلة التفاضلية الاعتيادية هو أي دالة لمجهول (المتغير التابع) بدلالة المتغير المستقل تحقق المعادلة التفاضلية."
+                        }
+                    ],
+                    "examples": [
+                        {
+                            "id": "1",
+                            "title_ar": "مثال -1-",
+                            "problem_ar": "بين ان العلاقة $$y = x^2 + 3x$$ حلاً للمعادلة التفاضلية $$xy' = x^2+y$$.",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "من $$y = x^2 + 3x$$ ... (1)",
+                                "نجد $y'$ فيكون:",
+                                "$$\\\\Rightarrow y' = 2x + 3$$ ... (2)",
+                                "نعوض (1) و (2) في الطرف الايسر للمعادلة التفاضلية وكما يلي :",
+                                "$$LHS = xy'$$",
+                                "$$= x(2x+3) = 2x^2 + 3x$$",
+                                "$$RHS = x^2 + y = x^2 + (x^2+3x) = 2x^2 + 3x$$",
+                                "$$LHS = RHS$$",
+                                "إذا العلاقة المعطاة هي حل للمعادلة التفاضلية اعلاه."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 214,
+                    "sections": [
+                        {
+                            "id": "5-3",
+                            "title_ar": "الحل الخاص والعام للمعادلة التفاضلية الاعتيادية",
+                            "introduction_ar": "إن حل المعادلة التفاضلية هو كما أسلفنا هو أي علاقة بين المتغيرات. غير ان الحل العام لأي معادلة تفاضلية هو الحل المشتمل على عدد من الثوابت الاختيارية مساو لرتبة المعادلة . فإذا كانت المعادلة من الرتبة الأولى وجب ان يكون حلها العام مشتملاً على ثابت اختياري واحد هو ثابت التكامل الذي يظهر عند إجراء خطوة التكامل الوحيدة لمعادلات الرتبة الاولى . اما اذا كانت المعادلة من الرتبة الثانية وجب اشتمال حلها على ثابتي تكامل نظراً لإجراء خطوتي تكامل عند حل معادلة الرتبة الثانية وهكذا ...\nفعلى سبيل المثال : المعادلة التفاضلية $$\\frac{dy}{dx} - 5y = 0$$ تعتبر معادلة تفاضلية من الرتبة الأولى ويحققها الحل الخاص $$y = ce^{5x}$$ كما يبدو من التعويض في المعادلة التفاضلية غير ان حلها العام يجب ان يشتمل على ثابت اختياري واحد c، فيكون $$y = ce^{5x}$$ اما المعادلة التفاضلية $$\\frac{d^2y}{dx^2} + y = 0$$ فهي من الرتبة الثانية وتحققها الحلول الخاصة $$y = \\\\sin x, y = \\\\cos x$$ غير ان حلها العام يجب ان يشتمل على ثابتي اختيارين، كأن يكونا A,B ويصبح الحل العام عندها بالصورة $$y = A\\\\sin x + B\\\\cos x$$."
+                        }
+                    ],
+                    "examples": [
+                        {
+                            "id": "2",
+                            "title_ar": "مثال -2-",
+                            "problem_ar": "اثبت ان $$y = x + x \\\\ln|x|$$ حلاً للمعادلة $$\\frac{dy}{dx} = x + y, x > 0$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "ان المعادلة $$y = x + x \\\\ln|x|$$ خالية من المشتقات ومعرفة في $$x > 0$$ ولكن نثبت انها احد حلول المعادلة التفاضلية نقوم بالتعويض المباشر فيها:",
+                                "$$LHS = \\\\frac{dy}{dx} = \\\\frac{d}{dx}(x + x \\\\ln|x|) = 1 + (\\\\ln|x| + x \\\\frac{1}{x}) = 1 + \\\\ln|x| + 1 = 2 + \\\\ln|x|$$",
+                                "$$RHS = x + y = x + (x + x \\\\ln|x|) = 2x + x \\\\ln|x|$$",
+                                "إذاً المعادلة المعطاة هي احد الحلول الخاصة للمعادلة التفاضلية."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 215,
+                    "examples": [
+                        {
+                            "id": "3",
+                            "title_ar": "مثال -3-",
+                            "problem_ar": "بين ان $$y^2 = x + a, a \\\\in \\\\mathbb{R}$$ حلاً للمعادلة $$2y' - y = 0$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "$$\\\\ln y^2 = x + a \\\\Rightarrow 2\\\\ln|y| = x + a$$",
+                                "$$\\\\frac{2}{y} y' = 1$$",
+                                "$$\\\\Rightarrow 2y' = y \\\\Rightarrow 2y' - y = 0$$",
+                                "لذا $$y^2 = x + a$$ حلاً للمعادلة اعلاه."
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "title_ar": "مثال -4-",
+                            "problem_ar": "هل $$y = x^3 + x - 2$$ حلاً للمعادلة التفاضلية $$\\frac{d^2y}{dx^2} = 6x$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "من $$y = x^3 + x - 2$$",
+                                "$$\\\\Rightarrow \\\\frac{dy}{dx} = 3x^2 + 1$$",
+                                "$$\\\\Rightarrow \\\\frac{d^2y}{dx^2} = 6x$$",
+                                "وعليه $$y = x^3 + x - 2$$ هو حلاً للمعادلة $$\\frac{d^2y}{dx^2} = 6x$$."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 216,
+                    "examples": [
+                        {
+                            "id": "5",
+                            "title_ar": "مثال -5-",
+                            "problem_ar": "برهن ان $$y = 3\\\\cos 2x + 2\\\\sin 2x$$ هو حلاً للمعادلة التفاضلية $$y'' + 4y = 0$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "من $$y = 3\\\\cos 2x + 2\\\\sin 2x$$ ... (1)",
+                                "$$\\\\Rightarrow y' = -6\\\\sin 2x + 4\\\\cos 2x$$",
+                                "$$\\\\Rightarrow y'' = -12\\\\cos 2x - 8\\\\sin 2x$$ ... (2)",
+                                "بالتعويض عن (1) ، (2) في الطرف الايسر للمعادلة التفاضلية ينتج:",
+                                "$$LHS = (-12\\\\cos 2x - 8\\\\sin 2x) + 4 (3\\\\cos 2x + 2\\\\sin 2x)$$",
+                                "$$= -12\\\\cos 2x - 8\\\\sin 2x + 12\\\\cos 2x + 8\\\\sin 2x = 0$$",
+                                "الطرف الايمن $$ = 0$$",
+                                "$$LHS = RHS$$",
+                                "وعليه فإن $$y = 3\\\\cos 2x + 2\\\\sin 2x$$ هو حلاً للمعادلة اعلاه."
+                            ]
+                        },
+                        {
+                            "id": "6",
+                            "title_ar": "مثال -6-",
+                            "problem_ar": "هل $$y^2 = 3x^2 + x^3$$ هو حلاً للمعادلة $$yy'' + (y')^2 - 3x = 5$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "من $$y^2 = 3x^2 + x^3$$",
+                                "$$\\\\Rightarrow 2yy' = 6x + 3x^2$$",
+                                "$$\\\\Rightarrow y' = \\\\frac{6x + 3x^2}{2y}$$",
+                                "بالقسمة على 2:",
+                                "$$2y(y'') + 2(y')^2 = 6 + 6x$$",
+                                "$$yy'' + (y')^2 = 3 + 3x$$",
+                                "$$LHS = yy'' + (y')^2 - 3x = 3 + 3x - 3x = 3$$",
+                                "الطرف الايمن $$ = 5$$",
+                                "$$3 \\\\neq 5 \\\\Rightarrow LHS \\\\neq RHS$$",
+                                "وعليه فإن $$y^2 = 3x^2 + x^3$$ ليس حلاً للمعادلة اعلاه."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 217,
+                    "examples": [
+                        {
+                            "id": "7",
+                            "title_ar": "مثال -7-",
+                            "problem_ar": "بين ان $$y = e^{2x} + e^{-3x}$$ هو حلاً للمعادلة التفاضلية $$y'' + y' - 6y = 0$$",
+                            "solution_steps_ar": [
+                                "الحل:",
+                                "من $$y = e^{2x} + e^{-3x}$$",
+                                "$$\\\\Rightarrow y' = 2e^{2x} - 3e^{-3x}$$",
+                                "$$\\\\Rightarrow y'' = 4e^{2x} + 9e^{-3x}$$",
+                                "وبالتعويض في الطرف الايسر للمعادلة التفاضلية",
+                                "$$LHS = y'' + y' - 6y$$",
+                                "$$= (4e^{2x} + 9e^{-3x}) + (2e^{2x} - 3e^{-3x}) - 6(e^{2x} + e^{-3x})$$",
+                                "$$= 4e^{2x} + 9e^{-3x} + 2e^{2x} - 3e^{-3x} - 6e^{2x} - 6e^{-3x}$$",
+                                "$$= (4+2-6)e^{2x} + (9-3-6)e^{-3x}$$",
+                                "$$= 0e^{2x} + 0e^{-3x} = 0$$",
+                                "الطرف الايمن $$ = 0$$",
+                                "$$LHS = RHS$$",
+                                "وعليه يكون $$y = e^{2x} + e^{-3x}$$ حلاً للمعادلة اعلاه."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 218,
+                    "exercises": [
+                        {
+                            "id": "1",
+                            "instruction_ar": "بين رتبة ودرجة كل من المعادلات التفاضلية الأتية:",
+                            "sub_problems": [
+                                {
+                                    "label": "a",
+                                    "equation": "$$(x^2 - y^2) + 3xy \\\\frac{dy}{dx} = 0$$"
+                                },
+                                {
+                                    "label": "b",
+                                    "equation": "$$\\\\frac{d^2y}{dx^2} + x \\\\frac{dy}{dx} - 5y = 7$$"
+                                },
+                                {
+                                    "label": "c",
+                                    "equation": "$$(y''')^3 - 2y' + 8y = x^2 + \\\\cos x$$"
+                                },
+                                {
+                                    "label": "d",
+                                    "equation": "$$(\\\\frac{d^3y}{dx^3})^2 - 2(\\\\frac{dy}{dx})^5 + 3y = 0$$"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "instruction_ar": "برهن ان $$y = \\\\sin x$$ هو حل للمعادلة $$y'' + y = 0$$"
+                        },
+                        {
+                            "id": "3",
+                            "instruction_ar": "برهن ان العلاقة $$s = 8\\\\cos 3t + 6\\\\sin 3t$$ هي حل للمعادلة $$\\frac{d^2s}{dt^2} + 9s = 0$$"
+                        },
+                        {
+                            "id": "4",
+                            "instruction_ar": "هل $$x = 2 + y$$ حلاً للمعادلة $$y'' + 3y' + y = x$$ ؟"
+                        },
+                        {
+                            "id": "5",
+                            "instruction_ar": "هل $$y = \\\\tan x$$ حلاً للمعادلة $$y'' = 2y(1+y^2)$$ ؟"
+                        },
+                        {
+                            "id": "6",
+                            "instruction_ar": "هل $$y^2 + y' = -2$$ حلاً للمعادلة $$2x^2 + y^2 = x$$ ؟"
+                        },
+                        {
+                            "id": "7",
+                            "instruction_ar": "هل $$y = \\\\sin 5x$$ حلاً للمعادلة $$y'' + 2y' + 25yx = y$$ ؟"
+                        },
+                        {
+                            "id": "8",
+                            "instruction_ar": "بين ان $$y = ae^{-x}$$ هو حلاً للمعادلة $$y'' + y' = 0$$ حيث $$a \\\\in \\\\mathbb{R}$$"
+                        },
+                        {
+                            "id": "9",
+                            "instruction_ar": "بين ان $$ \\\\ln|y| + c = x^2 + x^2$$ هو حلاً للمعادلة $$y'' = 4x^2y + 2y$$ حيث $$c \\\\in \\\\mathbb{R}$$"
+                        }
+                    ]
+                },
+                {
+                    "page_number": 219,
+                    "sections": [
+                        {
+                            "id": "5-4",
+                            "title_ar": "المعادلات التفاضلية الاعتيادية من المرتبة الأولى والدرجة الاولى",
+                            "introduction_ar": "ان حل المعادلة التفاضلية هو عمل معاكس لعملية التفاضل ، أي يقوم على عمليات التكامل ، ومن المعروف انه لا يمكن إيجاد عكس تفاضل ( الصورة المباشرة ) لكل دالة . أي لا نتوقع ان يكون لكل معادلة تفاضلية حل عام بدلالة الدوائر الأصولية المعروفة. وعليه فالمعادلات التفاضلية التي يمكن حلها تقسم الى انواع متعددة حسب طريقة الحصول على حلها العام.\nوفي هذا الفصل سوف نستعرض المعادلات التفاضلية من الرتبة الاولى والدرجة الاولى بمتغيرين x و y . ومع ان هذا النوع من المعادلات التفاضلية قد تبدو بسيطة. إلا انه ليس من الممكن إيجاد حل عام لأي منها بصورة عامة ، ولا توجد طريقة عامة للحل . وعليه فسوف نقسم هذه المعادلات والتي يمكن إيجاد حلها بطريقة مباشرة الى عدة انواع، أهمها :",
+                            "types_of_odes": [
+                                "1. معادلات تنفصل متغيراتها.",
+                                "2. معادلات تفاضلية من النوع المتجانس.",
+                                "3. معادلات تفاضلية تامة.",
+                                "4. معادلات تفاضلية خطية – معادلة برنولي.",
+                                "وفي هذا الفصل سنقتصر على النوع (1)"
+                            ],
+                            "description_ar": "فمثلاً تأخذ المعادلة التفاضلية من المرتبة الاولى والدرجة الاولى الشكلين الاتيين:",
+                            "general_forms": [
+                                "1) $$\\frac{dy}{dx} = F(x, y)$$",
+                                "2) $$M(x, y) dx + N(x, y) dy = 0$$"
+                            ],
+                            "conditions_ar": "حيث $$N(x, y) \\\\neq 0, M(x, y) \\\\neq 0$$",
+                            "example_conversion": {
+                                "problem_ar": "فالمعادلة التفاضلية : $$\\frac{dy}{dx} = \\\\frac{3xy}{x+y}$$ يمكن ان تكتب بالشكل:",
+                                "steps": [
+                                    "$$(x+y) dy = 3xy dx$$",
+                                    "$$(x+y) dy - 3xy dx = 0$$",
+                                    "او",
+                                    "$$-3xy dx + (x+y) dy = 0$$",
+                                    "حيث ان",
+                                    "$$M = -3xy, N = (x+y)$$"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "appendix",
+                            "title_ar": "في البند اللاحق سندرس بعض طرق حل المعادلة التفاضلية."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "pages_range": "220 to 223",
+        "data": {
+            "title": "المعادلات التفاضلية الاعتيادية",
+            "english_title": "Ordinary Differential Equations",
+            "pages": [
+                {
+                    "page_number": 220,
+                    "sections": [
+                        {
+                            "type": "section_header",
+                            "title_arabic": "[5-5] بعض طرق حل المعادلات التفاضلية",
+                            "title_english": "Some methods for solving differential equations"
+                        },
+                        {
+                            "type": "subsection_header",
+                            "title_arabic": "المعادلات التي تنفصل متغيراتها",
+                            "title_english": "Separation of Variables"
+                        },
+                        {
+                            "type": "paragraph",
+                            "content_arabic": "في هذا النوع من المعادلات وكما يظهر من اسمها نستطيع ان نعزل كل الحدود التي تحتوي على X فقط مع dx في جانب والحدود التي تحتوي على Y فقط مع dy في الجانب الآخر فنحصل على:"
+                        },
+                        {
+                            "type": "equation",
+                            "latex": "$$f(x)dx = g(y)dy \\\\dots (1)$$"
+                        },
+                        {
+                            "type": "paragraph",
+                            "content_arabic": "ثم تكامل طرفي المعادلة (1) فيكون"
+                        },
+                        {
+                            "type": "equation",
+                            "latex": "$$\\int g(y)dy = \\\\int f(x)dx + c$$"
+                        },
+                        {
+                            "type": "note",
+                            "content_arabic": "حيث c ثابت اختياري (Arbitrary Constant)"
+                        },
+                        {
+                            "type": "example",
+                            "id": 1,
+                            "title_arabic": "مثال - 1",
+                            "problem_arabic": "حل المعادلة $\\\\frac{dy}{dx} = 2x+5$",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{dy}{dx} = 2x+5 \\\\implies dy = (2x+5)dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\int dy = \\\\int (2x+5)dx \\\\implies y = x^2+5x+c$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "example",
+                            "id": 2,
+                            "title_arabic": "مثال - 2",
+                            "problem_arabic": "حل المعادلة $\\\\frac{dy}{dx} = \\\\frac{x-1}{y}$",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "نجعل المعادلة بالصورة $g(y)dy = f(x)dx$ اي:",
+                                    "equation_latex": "$$ydy = (x-1)dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "بأخذ التكامل للطرفين:",
+                                    "equation_latex": "$$\\int ydy = \\\\int (x-1)dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{1}{2}y^2 = \\\\frac{1}{2}x^2-x+c$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$y^2 = x^2-2x+2c \\\\implies y=\\\\pm \\\\sqrt{x^2-2x+2c}$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$y=\\\\pm \\\\sqrt{x^2-2x+C_1}$$"
+                                },
+                                {
+                                    "type": "note",
+                                    "content_arabic": "(لكون C ثابت اختياري فإن 2C ثابت اختياري أيضاً اسميناه $C_1$)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 221,
+                    "sections": [
+                        {
+                            "type": "example",
+                            "id": 3,
+                            "title_arabic": "مثال - 3",
+                            "problem_arabic": "حل المعادلة التفاضلية $dy = \\\\sin x \\\\cos^2 y \\\\ dx$ حيث $y \\\\neq (2n+1)\\\\frac{\\\\pi}{2}, \\\\cos y \\\\neq 0$.",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "نجعل المعادلة بالشكل $g(y)dy = f(x)dx$",
+                                    "equation_latex": "$$\\frac{1}{\\\\cos^2 y} dy = \\\\sin x \\\\ dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "اي:",
+                                    "equation_latex": "$$\\sec^2 ydy = \\\\sin x \\\\ dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "باخذ التكامل",
+                                    "equation_latex": "$$\\int \\\\sec^2 ydy = \\\\int \\\\sin x \\\\ dx$$"
+                                },
+                                {
+                                    "type": "solution_final",
+                                    "content_arabic": "حيث C ثابت اختياري",
+                                    "equation_latex": "$$\\tan y = -\\\\cos x + C$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "example",
+                            "id": 4,
+                            "title_arabic": "مثال - 4",
+                            "problem_arabic": "اوجد الحل العام للمعادلة التفاضلية $y' - x\\\\sqrt{y} = 0$ عندما $x=2, y=9$.",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$y' - x\\\\sqrt{y} = 0 \\\\implies \\\\frac{dy}{dx} - x\\\\sqrt{y} = 0 \\\\implies \\\\frac{dy}{dx} = x\\\\sqrt{y}$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{1}{\\\\sqrt{y}} dy = x \\\\ dx \\\\implies \\\\int y^{-\\\\frac{1}{2}}dy = \\\\int xdx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$2\\\\sqrt{y} = \\\\frac{1}{2}x^2+C$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "بالتعويض عن $x=2, y=9$ ينتج",
+                                    "equation_latex": "$$2\\\\sqrt{9} = \\\\frac{1}{2}(2)^2+C \\\\implies 2(3) = \\\\frac{1}{2}(4)+C \\\\implies 6 = 2+C \\\\implies C = 4$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "اذن الحل هو:"
+                                },
+                                {
+                                    "type": "solution_final",
+                                    "equation_latex": "$$2\\\\sqrt{y} = \\\\frac{1}{2}x^2 + 4 \\\\implies y=(\\\\frac{1}{4}x^2+2)^2$$"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 222,
+                    "sections": [
+                        {
+                            "type": "example",
+                            "id": 5,
+                            "title_arabic": "مثال - 5",
+                            "problem_arabic": "حل المعادلة $\\\\frac{dy}{dx} = e^{2x+y}$ عندما $x=0, y=0$.",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{dy}{dx} = e^{2x}e^y \\\\implies e^{-y}dy = e^{2x}dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\int e^{-y}(-1)dy = \\\\frac{1}{2}\\\\int e^{2x}(2)dx$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$-e^{-y} = \\\\frac{1}{2}e^{2x}+C$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "content_arabic": "بالتعويض عن $x=0, y=0$ ينتج",
+                                    "equation_latex": "$$-e^0 = \\\\frac{1}{2}e^0+C \\\\implies -1 = \\\\frac{1}{2}+C \\\\implies C = -\\\\frac{3}{2}$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "اذن الحل هو:"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$-e^{-y} = \\\\frac{1}{2}e^{2x}-\\\\frac{3}{2} \\\\implies e^{-y} = \\\\frac{1}{2}(3-e^{2x})$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{1}{e^y} = \\\\frac{3-e^{2x}}{2}$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$e^y = \\\\frac{2}{3-e^{2x}}$$"
+                                },
+                                {
+                                    "type": "solution_final",
+                                    "content_arabic": "وبأخذ ln للطرفين ينتج:",
+                                    "equation_latex": "$$y = \\\\ln|\\\\frac{2}{3-e^{2x}}|$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "example",
+                            "id": 6,
+                            "title_arabic": "مثال - 6",
+                            "problem_arabic": "جد الحل العام للمعادلة التفاضلية: $(x+1)\\\\frac{dy}{dx} = 2y$.",
+                            "solution_arabic": [
+                                {
+                                    "type": "paragraph",
+                                    "content_arabic": "الحل"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\frac{dy}{y} = 2\\\\frac{dx}{x+1} \\\\implies \\\\int \\\\frac{dy}{y} = 2\\\\int \\\\frac{dx}{x+1}$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\ln|y| = 2\\\\ln|x+1|+C$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\ln|y|-\\\\ln|(x+1)^2|=C$$"
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$\\ln|\\\\frac{y}{(x+1)^2}| = C \\\\implies \\\\frac{y}{(x+1)^2} = e^C$$"
+                                },
+                                {
+                                    "type": "note",
+                                    "content_arabic": "حيث $e^C = C_1$ ثابت اختياري."
+                                },
+                                {
+                                    "type": "step",
+                                    "equation_latex": "$$|y| = C_1(x+1)^2$$"
+                                },
+                                {
+                                    "type": "solution_final",
+                                    "equation_latex": "$$\\\\therefore y = \\\\pm C_1(x+1)^2$$"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "page_number": 223,
+                    "sections": [
+                        {
+                            "type": "section_header",
+                            "title_arabic": "تمارين",
+                            "title_english": "Exercises"
+                        },
+                        {
+                            "type": "exercise_set",
+                            "id": 1,
+                            "instruction_arabic": "حل المعادلات التفاضلية الآتية بطريقة فصل المتغيرات:",
+                            "instruction_english": "Solve the following differential equations by separation of variables method:",
+                            "problems": [
+                                {
+                                    "id": "1a",
+                                    "latex": "$$y' \\\\cos^3 x = \\\\sin x$$"
+                                },
+                                {
+                                    "id": "1b",
+                                    "latex": "$$\\frac{dy}{dx} + xy = 3x, \\\\quad x=1, y=2$$"
+                                },
+                                {
+                                    "id": "1c",
+                                    "latex": "$$\\frac{dy}{dx} = (x+1)(y-1)$$"
+                                },
+                                {
+                                    "id": "1d",
+                                    "latex": "$$(y^2+4y-1)y' = x^2-2x+3$$"
+                                },
+                                {
+                                    "id": "1e",
+                                    "latex": "$$yy' = 4\\\\sqrt{1+y^2}$$"
+                                },
+                                {
+                                    "id": "1f",
+                                    "latex": "$$e^x - y y' = 0$$"
+                                },
+                                {
+                                    "id": "1g",
+                                    "latex": "$$y' = 2e^{x}y^3, \\\\quad x=0, y=\\\\frac{1}{2}$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "exercise_set",
+                            "id": 2,
+                            "instruction_arabic": "جد الحل العام للمعادلات التفاضلية الآتية:",
+                            "instruction_english": "Find the general solution for the following differential equations:",
+                            "problems": [
+                                {
+                                    "id": "2a",
+                                    "latex": "$$xy \\\\frac{dy}{dx} + y^2 = 1-y^2$$"
+                                },
+                                {
+                                    "id": "2b",
+                                    "latex": "$$\\\\sin x \\\\cos y \\\\frac{dy}{dx} + \\\\cos x \\\\sin y = 0$$"
+                                },
+                                {
+                                    "id": "2c",
+                                    "latex": "$$x \\\\cos^2 y \\\\ dx + \\\\tan y \\\\ dy = 0$$"
+                                },
+                                {
+                                    "id": "2d",
+                                    "latex": "$$\\tan^2 y \\\\ dy = \\\\sin^3 x \\\\ dx$$"
+                                },
+                                {
+                                    "id": "2e",
+                                    "latex": "$$\\frac{dy}{dx} = \\\\cos^2 x \\\\cos^2 y$$"
+                                },
+                                {
+                                    "id": "2f",
+                                    "latex": "$$\\frac{dy}{dx} = \\\\frac{\\\\cos x}{3y^2+e^y}$$"
+                                },
+                                {
+                                    "id": "2g",
+                                    "latex": "$$e^{2y} + y' = 0$$"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

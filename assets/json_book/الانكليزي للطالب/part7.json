@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "1-10",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 7",
+    "title": "Learning and Career"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Discussion: Learning After School",
+      "definition": "Discussing why people continue learning after leaving school.",
+      "explanation": "People study after school for various reasons: to get better jobs, to learn new skills, to change careers, or for personal interest. Learning can happen at universities, language schools, online, or through self-study.",
+      "rules": null,
+      "notes": "Lifelong learning is important for career development and personal growth.",
+      "examples": [
+        {
+          "problem": "Why do people study after they've left school?",
+          "solution": "To improve job prospects, change careers, learn new skills, or for personal interest."
+        },
+        {
+          "problem": "What can people learn when they've left school?",
+          "solution": "Languages, computer skills, professional qualifications, new hobbies."
+        },
+        {
+          "problem": "Where do they learn?",
+          "solution": "Universities, language schools, online courses, libraries, self-study."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Speakwell Language School Brochure",
+      "definition": "Reading a brochure for a language school.",
+      "explanation": "The school offers Arabic, English, Spanish, French, and Chinese. Features include small classes (10 students max), CDs, DVDs, computer room, and intensive exam preparation.",
+      "rules": null,
+      "notes": "Placement tests are mandatory. Course fees: 500,000 Iraqi dinars for 28 hours.",
+      "examples": [
+        {
+          "problem": "What languages does Speakwell offer?",
+          "solution": "Arabic, English, Spanish, French, and Chinese."
+        },
+        {
+          "problem": "What are the class sizes?",
+          "solution": "10 students maximum."
+        },
+        {
+          "problem": "How much does the course cost?",
+          "solution": "Half a million Iraqi dinars for 28 hours."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Grammar: Future Tenses",
+      "definition": "Different ways to talk about the future in English.",
+      "explanation": "Present continuous for fixed arrangements. Future continuous for actions in progress at a future time. Present simple for schedules. Going to for plans and intentions. Will for predictions.",
+      "rules": [
+        "Present continuous: fixed arrangements (I'm meeting Hasan at 7:00)",
+        "Future continuous: action in progress at a future time (At 7:00, I'll be sitting in my English class!)",
+        "Present simple: schedules (The class starts at 6:00)",
+        "Going to: plans and intentions (I'm going to work on my English)",
+        "Will: predictions (I'll get a better job more quickly)"
+      ],
+      "notes": "Choose the correct future form based on context and meaning.",
+      "examples": [
+        {
+          "problem": "Fixed arrangement",
+          "solution": "I'm meeting Hasan at 7:00."
+        },
+        {
+          "problem": "Action at a future time",
+          "solution": "I'll be sitting in my English class at 7:00."
+        },
+        {
+          "problem": "Schedule",
+          "solution": "The class starts at 6:00."
+        },
+        {
+          "problem": "Plan or intention",
+          "solution": "I'm going to work on my English this year."
+        },
+        {
+          "problem": "Prediction",
+          "solution": "I'll get a better job more quickly."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Computer Skills Article",
+      "definition": "Article about the importance of computer skills for employment.",
+      "explanation": "Computer skills are essential for many jobs. Spreadsheets are used for financial information. Graphic design helps with illustrations and advertising. Web design is increasingly popular. Classes are available at universities, online, or through self-study.",
+      "rules": null,
+      "notes": "Online classes offer flexibility, but you need to verify the quality of the site.",
+      "examples": [
+        {
+          "problem": "What computer skills are mentioned in the article?",
+          "solution": "Spreadsheets, digital graphic design, web design."
+        },
+        {
+          "problem": "Where can you take computer classes?",
+          "solution": "Universities, continuing education, online classes, self-study with books."
+        },
+        {
+          "problem": "What is the advantage of online classes?",
+          "solution": "You can study whenever you want."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Course Catalogue",
+      "definition": "Reading a catalogue of summer courses.",
+      "explanation": "Courses include: Basic Web Design (online), English for Work, Protecting Our Environment, and Secretarial Skills. Each course has different dates, venues, and requirements.",
+      "rules": null,
+      "notes": "Course fees and registration details are available in the catalogue.",
+      "examples": [
+        {
+          "problem": "What is the venue for Basic Web Design?",
+          "solution": "Online"
+        },
+        {
+          "problem": "When does Secretarial Skills take place?",
+          "solution": "1 June to 30 June, Sunday to Thursday 9:00-12:00"
+        },
+        {
+          "problem": "What skills does Secretarial Skills teach?",
+          "solution": "Typing, Word, Excel, PowerPoint"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Grammar: Future in the Past",
+      "definition": "Talking about past views of the future using past forms of future tenses.",
+      "explanation": "When we talk about the future from the point of view of the past, we use past forms: will → would, going to → was/were going to, present continuous → past continuous.",
+      "rules": [
+        "I will study → I would study",
+        "I am going to study → I was going to study",
+        "I am studying → I was studying"
+      ],
+      "notes": "Used to express what someone thought would happen in the past.",
+      "examples": [
+        {
+          "problem": "I thought I _______ study History and become a teacher.",
+          "solution": "would"
+        },
+        {
+          "problem": "She was excited because she _______ travel to London.",
+          "solution": "was going to"
+        },
+        {
+          "problem": "He told me he _______ for the exam that evening.",
+          "solution": "was studying"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Volunteering",
+      "definition": "Reading about three volunteers and their experiences.",
+      "explanation": "Batool volunteers at a hospital library and gained management skills. Layla volunteers to decide if nursing is right for her. Ibrahim worked with children and now writes for the hospital newsletter.",
+      "rules": null,
+      "notes": "Volunteering helps develop skills, make decisions about careers, and help others.",
+      "examples": [
+        {
+          "problem": "What is a volunteer?",
+          "solution": "Someone who works for an organization without being paid."
+        },
+        {
+          "problem": "Why do people volunteer?",
+          "solution": "To help others, gain experience, decide on a career, learn new skills."
+        },
+        {
+          "problem": "What did Batool learn from volunteering?",
+          "solution": "Management skills as well as library skills."
+        },
+        {
+          "problem": "Why is Layla volunteering?",
+          "solution": "To decide if being a nurse is the right job for her."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Essay Structure: Opinion Essays",
+      "definition": "Understanding the structure of an opinion essay.",
+      "explanation": "An opinion essay has an introduction (stating the topic and opinion), body paragraphs (giving arguments with examples and linking words), and a conclusion (summarizing and restating the opinion).",
+      "rules": null,
+      "notes": "Linking words help connect ideas: on the other hand, however, in addition, therefore, to summarize.",
+      "examples": [
+        {
+          "problem": "What do you say in the body of the essay?",
+          "solution": "You give arguments for and against, with examples and linking words."
+        },
+        {
+          "problem": "Find four linking words to express contrast.",
+          "solution": "On the other hand, however, although, whereas."
+        },
+        {
+          "problem": "Find a linking phrase to express result.",
+          "solution": "As a result, therefore."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Essay: Learning Languages",
+      "definition": "Reading an essay about learning languages at home vs abroad.",
+      "explanation": "The essay argues that learning in your home country is more advantageous. Advantages: convenience, continue other studies/work, understanding of difficulties. Disadvantages: fewer chances to practise. The author suggests studying at home first, then doing a short course abroad.",
+      "rules": null,
+      "notes": "The essay uses clear structure: introduction, body paragraphs with advantages/disadvantages, and conclusion.",
+      "examples": [
+        {
+          "problem": "What essay question is it about?",
+          "solution": "Is it better to learn languages abroad or in your home country?"
+        },
+        {
+          "problem": "What are the advantages of studying at home?",
+          "solution": "Convenience, can continue other studies/work, study with people who understand your language."
+        },
+        {
+          "problem": "What are the advantages of studying abroad?",
+          "solution": "Wonderful experience, learn about other cultures, practise language in an environment where it's spoken."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Reading: Using the Library for Career Information",
+      "definition": "A text about a person using the library to research career options.",
+      "explanation": "The writer worked at a bank but wanted a job involving travel. He uses the library to research careers, find information about qualifications, prepare for interviews, and search for job vacancies.",
+      "rules": null,
+      "notes": "Libraries offer books about careers, school catalogues, DVDs, newspapers, magazines, and internet access.",
+      "examples": [
+        {
+          "problem": "What did the writer do when he left school?",
+          "solution": "He started working for a bank."
+        },
+        {
+          "problem": "What kind of job did he want?",
+          "solution": "A job which involved travelling."
+        },
+        {
+          "problem": "What does the library offer to help with careers?",
+          "solution": "Books about careers, advice on interviews and CVs, school catalogues, DVDs, newspapers, magazines, internet access."
+        },
+        {
+          "problem": "What did he learn about interviews?",
+          "solution": "How important body language is and how to look businesslike."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Unit 7 Review",
+      "definition": "Review of key language from Unit 7.",
+      "explanation": "Topics include: talking about the future, using future in the past, forming nouns with suffixes (-ment, -ance, -ation, -sion), and linking ideas in an essay.",
+      "rules": [
+        "Use present continuous for fixed arrangements.",
+        "Use future in the past (would, was/were going to) to express past views of the future.",
+        "Use suffixes to form nouns: improve → improvement, apply → application."
+      ],
+      "notes": "Linking words help connect ideas in essays: whereas, therefore, however, etc.",
+      "examples": [
+        {
+          "problem": "Talking about the future",
+          "solution": "I'm meeting Malik at the library later. I don't think books will disappear anytime soon."
+        },
+        {
+          "problem": "Using future in the past",
+          "solution": "When I was a child, I thought I would be a librarian."
+        },
+        {
+          "problem": "Using suffixes to form nouns",
+          "solution": "improvement, application"
+        },
+        {
+          "problem": "Linking ideas in an essay",
+          "solution": "Studying online is more convenient, whereas learning in a classroom is more fun. Therefore, we should never stop learning."
+        }
+      ]
+    }
+  ]
+}

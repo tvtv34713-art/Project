@@ -1,0 +1,1953 @@
+[
+    {
+        "pages_range": "169 to 178",
+        "data": {
+            "chapter": {
+                "number": "5",
+                "title_arabic": "الفصل الخامس - الكيمياء التناسقية",
+                "title_english": "Coordination Chemistry",
+                "image_overview": {
+                    "description": "3D representation of cis-diamminedichloroplatinum(II) and trans-diamminedichloroplatinum(II) coordination complexes, illustrating geometric isomerism.",
+                    "compounds": [
+                        "cis-diamminedichloroplatinum(II)",
+                        "trans-diamminedichloroplatinum(II)"
+                    ],
+                    "latex_formulas": [
+                        "$$\\ce{cis-[Pt(NH3)2Cl2]}$$",
+                        "$$\\ce{trans-[Pt(NH3)2Cl2]}$$"
+                    ]
+                },
+                "learning_objectives": [
+                    "يميز بين الملح المزدوج والمركب التناسقي.",
+                    "يحدد صفات المركبات التناسقية ويعرف كيف تطورت الكيمياء التناسقية.",
+                    "يحسب التكافؤ الأولي والثانوي للمركبات التناسقية.",
+                    "يعرف معنى كل مصطلح من المصطلحات الخاصة بالكيمياء التناسقية.",
+                    "يطلع على أنواع الليكندات.",
+                    "يفهم قاعدة العدد الذري الفعال ويتمكن من حسابه.",
+                    "يسمي المركبات التناسقية على وفق نظام الـ IUPAC.",
+                    "يعدد أنواع النظريات المستخدمة لوصف طبيعة التأصر في المعقدات التناسقية.",
+                    "يطبق نظرية آصرة التكافؤ على المركبات التناسقية.",
+                    "يحدد الأعداد التناسقية والأشكال الهندسية المتوقعة لكل عدد تناسقي."
+                ],
+                "sections": [
+                    {
+                        "section_number": "1-5",
+                        "title_arabic": "مقدمة",
+                        "title_english": "Introduction",
+                        "content": [
+                            "أصبحت دراسة المركبات التناسقية أو المركبات المعقدة من المجالات الرئيسية في الكيمياء اللاعضوية لما تتميز به من مواد مختلفة وخواص مغناطيسية وبنيات وتفاعلات كيميائية متعددة، حيث تلعب هذه المركبات دوراً مهماً ومتزايداً في الصناعة والزراعة والطب والصيدلة، وفي إنتاج الطاقة النظيفة، التي اختيرت وأكدت أهميتها في الحياة المعاصرة.",
+                            "ومن المركبات المعقدة المهمة في حياتنا هي الهيموغلوبين وفيتامين B12 والكلوروفيل."
+                        ],
+                        "sub_section_transition_elements": {
+                            "title_arabic": "العناصر الانتقالية",
+                            "content": [
+                                "إن معظم العناصر الفلزية في الجدول الدوري القابلة على تكوين مركبات معقدة، ولكن ستقتصر دراستنا في هذا الفصل على المعقدات التي تكونها بعض العناصر الانتقالية التي تكون متخصصة في معظمها لتكوين هذا النوع من المركبات والتي سبق أن تعرفت عليها.",
+                                "تسمى العناصر التي تقع ضمن الجدول الدوري بين المجموعتين IIIA و IIIB بالعناصر الانتقالية، (الشكل 1-5).",
+                                "حيث يعد العنصر انتقالياً إذا كان يحتوي على الغلاف الثانوي $d$ أو $f$ مملوء جزئياً، أما في حالته الحرة أو في أحد مركباته.",
+                                "وتقسم العناصر الانتقالية الى قسمين:",
+                                "1- عناصر مجموعة $d$ أو العناصر الانتقالية الرئيسية وتتألف من ثلاث دورات كل منها يحتوي على عشرة عناصر، تدعى بالسلاسل الانتقالية الأولى والثانية والثالثة.",
+                                "2- عناصر مجموعة $f$ أو العناصر الانتقالية الداخلية المتكونة من دورتين كل منهما تحتوي على أربعة عشر عنصراً، وتقع أسفل الجدول الدوري وتسمى اللانثنيدات والأكتنيدات."
+                            ]
+                        },
+                        "properties_of_transition_elements": {
+                            "title_arabic": "ومن أبرز خواص العناصر الانتقالية بخصوص مركباتها أنها:",
+                            "list": [
+                                "1- أن لها حالات تأكسد متعددة حيث تميل العناصر الانتقالية الى إظهار أكثر من حالة تأكسد واحدة مع بعض الحالات الشاذة.",
+                                "2- تتصف العديد من مركباتها بالصفات البارامغناطيسية حيث إن للعناصر الانتقالية أغلفة $d$ أو $f$ مملوءة جزئياً بالإلكترونات ولذلك فإن ذرات الفلز تحتوي على إلكترونات منفردة تميز هذه المواد بخاصية البارامغناطيسية.",
+                                "3- العديد من مركباتها ملونة.",
+                                "4- لها ميل كبير لتكوين أيونات أو مركبات معقدة."
+                            ]
+                        },
+                        "images": [
+                            {
+                                "caption_arabic": "الهيموغلوبين",
+                                "description": "Simplified chemical structure of a porphyrin ring with substituents, representing part of hemoglobin. It shows methyl, vinyl, and propionic acid side chains.",
+                                "labels_latex": [
+                                    "$$\\ce{CH3}$$",
+                                    "$$\\ce{CH=CH2}$$",
+                                    "$$\\ce{CH2CH2COOH}$$"
+                                ]
+                            },
+                            {
+                                "caption_arabic": "الكلوروفيل",
+                                "description": "Simplified chemical structure of a porphyrin ring with substituents, representing part of chlorophyll. It shows methyl, formyl, vinyl, propionic acid, and methyl ester side chains.",
+                                "labels_latex": [
+                                    "$$\\ce{CH3}$$",
+                                    "$$\\ce{CH=O}$$",
+                                    "$$\\ce{CH=CH2}$$",
+                                    "$$\\ce{CH2CH2COOH}$$",
+                                    "$$\\ce{CH2CH2COOCH3}$$"
+                                ]
+                            },
+                            {
+                                "caption_arabic": "التركيب القصوي للهيموغلوبين",
+                                "description": "A complex 3D folded structure, likely representing the protein folding around the heme prosthetic group in hemoglobin."
+                            }
+                        ]
+                    },
+                    {
+                        "section_number": "2-5",
+                        "title_arabic": "الملح المزدوج والمركب التناسقي",
+                        "title_english": "Double Salt and Coordination Compound",
+                        "content_intro": [
+                            "عند مزج محلولي الملحين البسيطين (كبريتات الأمونيوم وكبريتات الحديد (II)) اللذين بنسب مولية بسيطة ثم تبخير المحلول الناتج سنحصل على حبيبات مركب جديد يدعى مركب إضافة (Addition compound).",
+                            "كما هو مبين في المعادلة أدناه:",
+                            "$$\\ce{(NH4)2SO4 + FeSO4 + 6H2O -> FeSO4.(NH4)2SO4.6H2O}$$",
+                            "أو ملح مور"
+                        ],
+                        "sub_sections": [
+                            {
+                                "title_arabic": "أ- الملح المزدوج (Double Salt)",
+                                "content": [
+                                    "وهو مركب إضافة مستقر يعطي عند إذابته في الماء الأيونات المكونة له كافة، وفي هذه الحالة يحتفظ كل أيون بصفاته المستقلة.",
+                                    "وعلى سبيل المثال، فعند إذابة ملح مور (Mohr's Salt) المزدوج الغني في المعادلة الأولى أعلاه يعطي أيونات `$$\\ce{Fe^{2+}}$$` و `$$\\ce{NH4^{+}}$$` و `$$\\ce{SO4^{2-}}$$` التي يمكن التأكد من وجودها في المحلول باستخدام الطرائق الشائعة للكشف عنها.",
+                                    "وعند إذابة كبريتات النحاس `$$\\ce{CuSO4}$$` في مذيب معين وإضافة الامونيا إليه نحصل على مركب الاضافة الآتي: `$$\\ce{CuSO4 + 4NH3 -> [Cu(NH3)4]SO4}$$`"
+                                ]
+                            },
+                            {
+                                "title_arabic": "ب- المركب التناسقي (Coordination Compound)",
+                                "content": [
+                                    "وهو مركب إضافة مستقر ولكنه لا يعطي كافة الأيونات المكونة له عند ذوبانه في الماء.",
+                                    "وفي هذه الحالة فإن الصفات المستقلة لقسم من الأيونات المكونة له سوف تختفي.",
+                                    "وعلى سبيل المثال، فعند إذابة المركب التناسقي `$$\\ce{CuSO4.4NH3}$$` والمحضر في المعادلة الثانية أعلاه في الماء فإنه لن يعطي الأيونات التي تكون منها `$$\\ce{Cu^{2+}}$$` و `$$\\ce{SO4^{2-}}$$` بل سيعطي أيون `$$\\ce{SO4^{2-}}$$` فقط ويكون أيون `$$\\ce{Cu^{2+}}$$` ضمن الايون المعقد `$$\\ce{[Cu(NH3)4]^{2+}}$$` وعلى وفق المعادلة أدناه:",
+                                    "$$\\ce{CuSO4.4NH3 <=> [Cu(NH3)4]^{2+} + SO4^{2-}}$$",
+                                    "وبالتالي فإن هذا المركب في المحلول يعطي كشفاً للأيون `$$\\ce{SO4^{2-}}$$` فقط ولا يعطي كشف لأيون `$$\\ce{Cu^{2+}}$$`.",
+                                    "لذلك يكتب المركب التناسقي بالشكل `$$\\ce{[Cu(NH3)4]SO4}$$`.",
+                                    "يتكون هذا المركب التناسقي من أيون معقد موجب `$$\\ce{[Cu(NH3)4]^{2+}}$$` وأيون سالب بسيط `$$\\ce{(SO4)^{2-}}$$`.",
+                                    "ويمكن للمركب التناسقي أيضاً أن يتكون من أيون معقد سالب وأيون موجب بسيط، كما في الأمثلة الآتية:",
+                                    "1. `$$\\ce{K4[Fe(CN)6] <=> 3K^{+} + [Fe(CN)6]^{3-}}$$` (مركب تناسقي، أيون سالب معقد، أيون موجب بسيط). *[Note: The dissociation equation presented in the text is chemically inconsistent with the formula `$$\\ce{K4[Fe(CN)6]}$$`. A chemically correct dissociation would be `$$\\ce{K4[Fe(CN)6] <=> 4K^{+} + [Fe(CN)6]^{4-}}$$`.]*",
+                                    "2. `$$\\ce{[Co(NH3)6]Cl3 <=> [Co(NH3)6]^{3+} + 3Cl^{-}}$$` (مركب تناسقي، أيون موجب معقد، أيون سالب بسيط).",
+                                    "وهناك مركبات تناسقية لا تذوب في الماء لعدم قدرتها على التأين وبالتالي لن تعطي أي أيونات عند وجودها بتماس مع الماء مثل `$$\\ce{[Ni(CO)4]}$$` و `$$\\ce{[Co(NH3)3Cl3]}$$`."
+                                ]
+                            }
+                        ],
+                        "periodic_table_figure": {
+                            "figure_number": "1-5",
+                            "caption_arabic": "موقع العناصر الانتقالية في الجدول الدوري",
+                            "description": "A standard periodic table highlighting the location of transition elements (d-block, Groups 3-12) and inner transition elements (f-block, Lanthanides and Actinides)."
+                        }
+                    },
+                    {
+                        "section_number": "مثال 1-5",
+                        "title_arabic": "تحديد ما إذا كان المركب ملح مزدوج أو مركب تناسقي",
+                        "content": [
+                            "ماذا يصنف المركب `$$\\ce{FeSO4.(NH4)2SO4.6H2O}$$` كملح مزدوج بينما يصنف المركب `$$\\ce{K4[Fe(CN)6]}$$` كمركب معقد (مركب تناسقي)؟"
+                        ],
+                        "solution": {
+                            "title_arabic": "الحل",
+                            "steps": [
+                                {
+                                    "compound": "`$$\\ce{FeSO4.(NH4)2SO4.6H2O}$$`",
+                                    "explanation": "يتكون المركب `$$\\ce{FeSO4.(NH4)2SO4.6H2O}$$` من مزج محلولي كبريتات الحديد (II) وكبريتات الأمونيوم وفق المعادلة الآتية: `$$\\ce{FeSO4.(NH4)2SO4.6H2O <=> Fe^{2+} + 2NH4^{+} + 2SO4^{2-} + 6H2O}$$`",
+                                    "conclusion": "المركب الناتج هو ملح مور خالي من الماء، وعند ذوبانه في الماء فإنه يعطي أيونات `$$\\ce{Fe^{2+}}$$` و `$$\\ce{NH4^{+}}$$` و `$$\\ce{SO4^{2-}}$$` ويتم التأكد من وجودها في المحلول باستخدام طرائق الكشف الشائعة لكل أيون منها. حيث يلاحظ عدم اختفاء أيونات `$$\\ce{Fe^{2+}}$$` أو `$$\\ce{NH4^{+}}$$` أو `$$\\ce{SO4^{2-}}$$`."
+                                },
+                                {
+                                    "compound": "`$$\\ce{K4[Fe(CN)6]}$$`",
+                                    "explanation": "أما عند إذابة المركب `$$\\ce{K4[Fe(CN)6]}$$` في الماء فيكون على وفق المعادلة: `$$\\ce{K4[Fe(CN)6] <=> K^{+} + [Fe(CN)6]^{-}}$$` (ملاحظة: هذه المعادلة تمثل الصياغة كما وردت في النص، ولكنها لا تتوافق كيميائياً مع صيغة المركب `$$\\ce{K4[Fe(CN)6]}$$` ولا مع بقية الشرح الذي يشير إلى أيون `$$\\ce{[Fe(CN)6]^{4-}}$$`).",
+                                    "further_explanation_text": "حيث يلاحظ اختفاء أيونات `$$\\ce{Fe^{2+}}$$` المستقبلة لانها تكون ضمن الأيون المعقد `$$\\ce{[Fe(CN)6]^{4-}}$$`.",
+                                    "conclusion": "وبالتالي فإن المحلول المعقد في الماء يعطي كشفاً لأيون `$$\\ce{K^{+}}$$` فقط ولا يعطي كشف لأيون `$$\\ce{Fe^{2+}}$$` وأيون `$$\\ce{CN^{-}}$$`. وهذا يعني أن المركب `$$\\ce{FeSO4.(NH4)2SO4.6H2O}$$` هو ملح مزدوج بينما المركب `$$\\ce{K4[Fe(CN)6]}$$` هو مركب تناسقي."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "section_number": "3-5",
+                        "title_arabic": "تطور الكيمياء التناسقية",
+                        "title_english": "Development of Coordination Chemistry",
+                        "content": [
+                            "تعد الكيمياء التناسقية من أقدم فروع الكيمياء، وقد شهدت تطوراً كبيراً منذ اكتشاف المركبات الأولى في أواخر القرن الثامن عشر.",
+                            "في عام 1798، قام العالم كوبلت (III) بدراسة مركب `$$\\ce{CoCl3.6NH3}$$` (يُعرف أيضاً بـ luteocobaltic chloride) والذي كان نقطة بداية للتحقيقات في الكيمياء التناسقية.",
+                            "ولقد أثار تفسير هذا المركب اهتماماً كبيراً لما له من صفات فريدة كان من الضروري تفسيرها، فكيف يمكن لهذا المركب `$$\\ce{CoCl3.6NH3}$$` أن يتحد مع الامونيا وكلاهما مركبان مستقران ولهما تكافؤ مشبع لتكوين مركب آخر مستقر أيضاً.",
+                            "وتفسير ذلك لم يتم إلا بعد مرور قرن من الزمن، ثم خلالها تحضير ودراسة خواص العديد منها حيث ظهرت عدة نظريات لتفسير تكوين هذه المركبات إلا أن مصيرها كان الإهمال لأنها لم تتمكن من تفسير النتائج العملية.",
+                            "وكانت إحدى هذه النظريات هي نظرية السلسلة (Chain Theory) والتي اقترحت من قبل احد العلماء في السويد الذي انتهج نفس المفهوم الذي عُرف عن تكوين سلاسل بين ذرات الكاربون في الكيمياء العضوية.",
+                            "ونظراً للاعتقاد السائد في ذلك الوقت عن وجود نوع واحد من التكافؤ فقد اقترح هذا العالم إن الكوبلت (III) يكون ثلاث أواصر فقط في معقداته.",
+                            "ولقد استعملت بنية السلسلة لبيان كيفية ارتباط جزيئات الامونيا الستة في المركب `$$\\ce{CoCl3.6NH3}$$` (الصيغة I)، حيث تكون أيونات الكلوريد غير مرتبطة مباشرة بالكوبلت ولهذا فإن ايونات الكلوريد تترسب بسرعة على شكل كلوريد الفضة عند إضافة محلول نترات الفضة إلى المحلول المائي لهذا المركب.",
+                            "وتمثل هذه النظرية بنية المركب `$$\\ce{CoCl3.5NH3}$$` بالصيغة (II) حيث يرتبط ايون كلوريد واحد مباشرة بالكوبلت والذي لا يترسب عند إضافة نترات الفضة، بينما يترسب ايوني الكلوريد الآخر بسهولة."
+                        ],
+                        "chain_theory_formulas_and_descriptions": [
+                            {
+                                "formula_text": "الصيغة (I): `$$\\ce{CoCl3.6NH3}$$`",
+                                "description": "A structural representation based on Chain Theory, depicting cobalt (Co) directly bonded to three chlorine (Cl) atoms, and ammonia (NH3) molecules forming chains, with the entire structure being neutral. This diagram suggests all chlorines are directly bonded to Co and therefore not ionizable.",
+                                "image_representation_details": "The image shows a central Co atom with 3 Cl atoms directly attached, and 6 NH3 molecules linked in chains to Co and to each other (e.g., `Cl-NH3-NH3-NH3-Co-NH3-NH3-NH3-Cl` with a third Cl attached to Co)."
+                            },
+                            {
+                                "formula_text": "الصيغة (II): `$$\\ce{CoCl3.5NH3}$$`",
+                                "description": "A structural representation based on Chain Theory, depicting cobalt (Co) directly bonded to three chlorine (Cl) atoms and five ammonia (NH3) molecules in chains, with the entire structure being neutral. This diagram implies all chlorines are directly bonded.",
+                                "image_representation_details": "Similar to Formula (I) but with five NH3 molecules, resulting in shorter chains around Co and three Cl atoms directly attached."
+                            },
+                            {
+                                "formula_text": "الصيغة (III): `$$\\ce{CoCl3.4NH3}$$`",
+                                "description": "One of two possible structural isomers based on Chain Theory, depicting cobalt (Co) directly bonded to three chlorine (Cl) atoms and four ammonia (NH3) molecules in chains, with the entire structure being neutral. All chlorines are directly bonded.",
+                                "image_representation_details": "Similar to Formula (I) but with four NH3 molecules, with three Cl atoms directly attached to Co."
+                            },
+                            {
+                                "formula_text": "الصيغة (IV): `$$\\ce{CoCl3.4NH3}$$`",
+                                "description": "The second possible structural isomer based on Chain Theory for `$$\\ce{CoCl3.4NH3}$$`, depicting cobalt (Co) directly bonded to three chlorine (Cl) atoms and four ammonia (NH3) molecules in chains, with the entire structure being neutral. All chlorines are directly bonded.",
+                                "image_representation_details": "Similar to Formula (III), representing an isomer with three Cl atoms directly attached to Co."
+                            }
+                        ],
+                        "criticism_of_chain_theory": [
+                            "ويمكن أن نتوقع بأن سلوك ايونات الكلوريد في الصيغة IV تكون متشابهة لتلك التي في المركب `$$\\ce{CoCl3.4NH3}$$`. لكن وجد بأنه لا يعطي راسباً عند إضافة محلول نترات الفضة إليه.",
+                            "ولهذا السبب ولأسباب أخرى لم تنجح هذه النظرية في تفسير الخواص كافة لهذا النوع من المركبات."
+                        ]
+                    },
+                    {
+                        "section_number": "1-5-3",
+                        "title_arabic": "نظرية فيرنر للتناسقية",
+                        "title_english": "Werner's Coordination Theory",
+                        "content_intro": [
+                            "استنبط فيرنر نظريته والتي أصبحت لاحقاً أساساً للنظريات الحديثة بالاعتماد على الفرضيات الآتية:"
+                        ],
+                        "postulates": [
+                            {
+                                "number": 1,
+                                "title_arabic": "التكافؤ الأولي والثانوي",
+                                "explanation": "تمتلك أكثر العناصر نوعين من التكافؤ، تكافؤ أولي متأين يمثل بخطوط متقطعة (----------) والذي يعرف بحالة التأكسد (Oxidation state)، وتكافؤ ثانوي غير متأين يمثل بخطوط متصلة (————) ويعرف بالعدد التناسقي (coordination number)."
+                            },
+                            {
+                                "number": 2,
+                                "title_arabic": "إشباع التكافؤات",
+                                "explanation": "يحاول كل عنصر عند اشتراكه في تكوين مركب معقد إشباع كلا التكافؤين، حيث تتشبع التكافؤات الأولية بأيونات سالبة أما التكافؤات الثانوية فتشبع بأيونات سالبة أو جزيئات متعادلة."
+                            },
+                            {
+                                "number": 3,
+                                "title_arabic": "كرة التناسق",
+                                "explanation": "تتجه التكافؤات الثانوية نحو مواقع ثابتة في الفراغ تدعى بالمجال التناسقي (Coordination sphere) حول أيون الفلز المركزي وهذا هو أساس الكيمياء الفراغية للمعقدات الفلزية.",
+                                "example_for_cobalt": "فمثل في المركب `$$\\ce{CoCl3.6NH3}$$`، يربط أيون الكوبالت بين أيونات الكلوريد وجزيئات الأمونيا في الصيغة الجزيئية `$$\\ce{V: CoCl2.6NH3}$$` والتي يمكن التعبير عنها بالصيغة الجزيئية `$$\\ce{[Co(NH3)6]Cl3}$$`. حيث تكون الحالة التأكسدية (التكافؤ الأولي) للكوبالت (3+) ولذلك تعمل ايونات الكلوريد الثلاثة على إشباع هذه التكافؤات الأولية (معادلة شحنة ايون الكوبالت). أما التكافؤ الثانوي أو عدد التناسق فيشبع من قبل جزيئات الامونيا المتعادلة الست، وبهذا يكون التكافؤ الثانوي للكوبالت (III)، والذي يتمثل بالعدد التناسقي، يساوي (6)."
+                            }
+                        ],
+                        "key_terms": [
+                            {
+                                "term_arabic": "ليكندات (Ligands)",
+                                "definition": "وتسمى جزيئات الأمونيا والمجموعات المتصلة بالفلز بـ (Ligands). يرتبط الليكند حسب هذه النظرية مع الفلز بأواصر تناسقية داخل المجال التناسقي للفلز، ولا تعتبر أيونات الكلوريد ليكندات حيث تكون خارج المجال التناسقي وترتبط بالفلز بأواصر أيونية. و تترسب جميعها عند إضافة محلول نترات الفضة."
+                            }
+                        ],
+                        "werner_compounds_and_structures": [
+                            {
+                                "compound_formula_text": "أما المركب `$$\\ce{CoCl3.6NH3}$$` فقد مثله فيرنر بالصيغة (V).",
+                                "werner_formula": "الصيغة (V): `$$\\ce{[Co(NH3)6]Cl3}$$`",
+                                "description": "Werner's representation shows a central cobalt atom bonded to six ammonia ligands via solid lines (secondary valency, coordination number 6). Three chloride ions are shown outside the coordination sphere, connected by dotted lines to cobalt (primary valency, ionizable). This explains the precipitation of all three chloride ions with silver nitrate.",
+                                "dissociation": "إن أحد ايونات الكلوريد قد قام بإشباع كلا التكافؤين الأولي والثانوي وعبـ عن الأصرة التي تربطه بالفلز بالخطين المستمر والمقطع (----------)، ولهذا فإن الكلوريد هذا لا يترسب بسهولة عند إضافة محلول نترات الفضة كونه أصبح مرتبطاً ارتباطا قويا مباشرا بذرة الكوبلت داخل المجال التناسقي. كما أن الايون المعقد الموجب `$$\\ce{[Co(NH3)5Cl]^{2+}}$$` يحمل شحنة مقدارها `$$\\ce{(+2) = (+3) + (-1)}$$`. ولهذا يمثل المركب `$$\\ce{CoCl3.5NH3}$$` بالصيغة الجزيئية `$$\\ce{[Co(NH3)5Cl]Cl2}$$` في الوقت الحاضر."
+                            },
+                            {
+                                "compound_formula_text": "وعلى المركب `$$\\ce{CoCl3.5NH3}$$` والذي يتمثل بالصيغة (VI) حسب هذه النظرية بالصيغة `$$\\ce{[Co(NH3)5Cl]Cl2}$$`.",
+                                "werner_formula": "الصيغة (VI): `$$\\ce{[Co(NH3)5Cl]Cl2}$$`",
+                                "description": "Werner's representation shows a central cobalt atom bonded to five ammonia ligands and one chloride ligand via solid lines (secondary valency, coordination number 6). Two chloride ions are shown outside the coordination sphere, connected by dotted lines to cobalt (primary valency, ionizable). This explains the precipitation of two chloride ions.",
+                                "dissociation": "حيث يشبع اثنان من ايونات الكلوريد كلا من التكافؤ الأولي والتكافؤ الثانوي ولهذا فإنهما يرتبطان بقوة في المجال التناسق. وبإضافة محلول نترات الفضة يترسب ايون كلوريد واحد فقط موجود خارج مجال التناسق. ويفكك هذا المركب في المحلول الى ايونات `$$\\ce{2Cl^{-}}$$` و `$$\\ce{[Co(NH3)4Cl2]^{+}}$$`. ولهذا يرمز له بالصيغة الجزيئية `$$\\ce{[Co(NH3)4Cl2]Cl}$$`."
+                            },
+                            {
+                                "compound_formula_text": "أما المركب `$$\\ce{CoCl3.4NH3}$$` والذي يتمثل حسب هذه النظرية بالصيغة (VII) `$$\\ce{[Co(NH3)4Cl2]Cl}$$`.",
+                                "werner_formula": "الصيغة (VII): `$$\\ce{[Co(NH3)4Cl2]Cl}$$`",
+                                "description": "Werner's representation shows a central cobalt atom bonded to four ammonia ligands and two chloride ligands via solid lines (secondary valency, coordination number 6). One chloride ion is shown outside the coordination sphere, connected by a dotted line to cobalt (primary valency, ionizable). This explains the precipitation of one chloride ion.",
+                                "dissociation": "فلا يربط راسباً عند إضافة محلول نترات الفضة اليه ويمكن تمثيله بالصيغة الكيميائية `$$\\ce{[Co(NH3)3Cl3]}$$`. ان عدم ترسيب ايونات الكلوريد عند اضافة محلول نترات الفضة يعني ان هذا المركب لا يتأين في المحلول وهذا عكس ما توقعته نظرية السلسلة. وقد بينت النتائج العملية ان مركبات من هذا النوع لا تتأين في المحلول مما برهن على عدم صحة نظرية السلسلة وعزز فرضيات نظرية التناسق."
+                            },
+                            {
+                                "compound_formula_text": "أما المركب `$$\\ce{CoCl3.3NH3}$$` والذي يتمثل حسب هذه النظرية بالصيغة (VIII) `$$\\ce{[Co(NH3)3Cl3]}$$`.",
+                                "werner_formula": "الصيغة (VIII): `$$\\ce{[Co(NH3)3Cl3]}$$`",
+                                "description": "Werner's representation shows a central cobalt atom bonded to three ammonia ligands and three chloride ligands via solid lines (secondary valency, coordination number 6). No chloride ions are shown outside the coordination sphere, indicating that none are ionizable. This is a neutral complex.",
+                                "dissociation_note": "لا يترسب الكلوريد عند إضافة محلول نترات الفضة إليه، مما يؤكد أن المركب لا يتأين في المحلول."
+                            }
+                        ]
+                    },
+                    {
+                        "section_number": "مثال 2-5",
+                        "title_arabic": "حساب التكافؤ الأولي والثانوي",
+                        "content_intro": [
+                            "ما التكافؤ الأولي (حالة التأكسد) والتكافؤ الثانوي (عدد التناسق) للفلز المركزي في المركبين الآتيين:"
+                        ],
+                        "compounds_to_analyze": [
+                            "أ- `$$\\ce{K4[Fe(CN)6]}$$`",
+                            "ب- `$$\\ce{[Cr(NH3)6](NO3)3}$$`"
+                        ],
+                        "solution": {
+                            "title_arabic": "الحل",
+                            "steps": [
+                                {
+                                    "compound": "أ- `$$\\ce{K4[Fe(CN)6]}$$`",
+                                    "calculations": [
+                                        "نعرف أن كل أيون بوتاسيوم له شحنة `$$\\ce{+1}$$`.",
+                                        "معلومة : يسلك أيون السيانيد `$$\\ce{CN-}$$` سلوك ليكند في المعقد `$$\\ce{[Fe(CN)6]}$$`.",
+                                        "الأيون السالب هو `$$\\ce{[Fe(CN)6]^{4-}}$$` وعليه:",
+                                        "`$$\\ce{Fe^{(x)} + (CN)6 = -4}$$`",
+                                        "`$$\\ce{x + 6(-1) = -4}$$`",
+                                        "`$$\\ce{x - 6 = -4}$$`",
+                                        "`$$\\ce{x = +2}$$`"
+                                    ],
+                                    "primary_valency": "`$$\\ce{+2}$$` (لذا فالتكافؤ الأولي يساوي 2).",
+                                    "secondary_valency": "6 (أما التكافؤ الثانوي فيساوي 6 وهو عدد الليكندات المتصلة مباشرة بالفلز أو التي توضع داخل الأقواس المربعة)."
+                                },
+                                {
+                                    "compound": "ب- `$$\\ce{[Cr(NH3)6](NO3)3}$$`",
+                                    "calculations": [
+                                        "بما أن كل أيون نترات يحمل شحنة `$$\\ce{-1}$$` وأن الأمونيا متعادلة.",
+                                        "الأيون الموجب هو `$$\\ce{[Cr(NH3)6]^{3+}}$$` وعليه:",
+                                        "`$$\\ce{Cr^{(x)} + (NH3)6 = +3}$$`",
+                                        "`$$\\ce{x + 6(0) = +3}$$`",
+                                        "`$$\\ce{x = +3}$$`"
+                                    ],
+                                    "primary_valency": "`$$\\ce{+3}$$` (لذا فالتكافؤ الأولي يساوي 3).",
+                                    "secondary_valency": "6 (أما التكافؤ الثانوي فيساوي 6)."
+                                }
+                            ]
+                        },
+                        "exercise": {
+                            "exercise_number": "تمرين 1-5",
+                            "question": "كم هو التكافؤ الأولي والتكافؤ الثانوي للحديد في المركب `$$\\ce{K3[Fe(CN)6]}$$`؟",
+                            "solution": "`$$\\ce{+3}$$`; `$$\\ce{6}$$`"
+                        }
+                    },
+                    {
+                        "section_number": "3-2-5",
+                        "title_arabic": "حوامض وقواعد لويس",
+                        "title_english": "Lewis Acids and Bases",
+                        "content_intro": [
+                            "يمثل كل من جزيء الميثان `$$\\ce{(CH4)}$$` وجزيء الأمونيا `$$\\ce{(NH3)}$$` على وفق رمز لويس بالصيغتين الآتيتين:"
+                        ],
+                        "lewis_structures": [
+                            {
+                                "compound": "الميثان",
+                                "latex_structure": "$\\ce{H:C:H\\\\ \\quad H}$",
+                                "description": "Lewis structure of methane showing single bonds with shared electron pairs, consistent with a tetrahedral geometry (implied by the H below)."
+                            },
+                            {
+                                "compound": "الأمونيا",
+                                "latex_structure": "$\\ce{H:N:H\\\\ \\quad H}$",
+                                "description": "Lewis structure of ammonia showing three single bonds with shared electron pairs and one lone pair on nitrogen, consistent with a trigonal pyramidal geometry (implied by the H below and lone pair not explicitly drawn but implied by context)."
+                            }
+                        ]
+                    },
+                    {
+                        "section_number": "Lewis Acids and Bases Continued",
+                        "content_intro": [
+                            "كما يمكن للأمونيا إشراك هذا المزدوج الإلكتروني مع مركبات أخرى إضافة لأيون الهيدروجين، كما في معقد أمين الفلز عندما يهب المزدوج الإلكتروني الى ايون الفلز كما هو في التفاعلات الآتية:"
+                        ],
+                        "reactions": [
+                            {
+                                "description": "Formation of the Ammonium ion from ammonia and a proton.",
+                                "equation": "$$\\ce{NH3 + H^{+} -> [H:NHH]^{1+} -> [NH4]^{+}}$$",
+                                "explanation": "Ammonia (Lewis base) donates a lone pair to the proton (Lewis acid) forming a coordinate covalent bond."
+                            },
+                            {
+                                "description": "Formation of the diamminesilver(I) complex.",
+                                "equation": "$$\\ce{Ag^{2+} + 2NH3 -> [H3N:Ag:NH3]^{1+}}$$",
+                                "explanation": "Silver ion (Lewis acid) accepts electron pairs from ammonia molecules (Lewis bases). *[Note: The initial charge of `$$\\ce{Ag^{2+}}$$` leading to a `$$\\ce{1+}$$` complex is chemically inconsistent for charge balance; usually `$$\\ce{Ag^{+}}$$` forms `$$\\ce{[Ag(NH3)2]^{+}}$$`. Transcribed as presented in the text.]*"
+                            },
+                            {
+                                "description": "Formation of a copper-ammonia complex (tetramminecopper(II)).",
+                                "equation": "$$\\ce{Cu^{2+} + 4NH3 -> [H3N:Cu:NH3]^{2+}}$$",
+                                "explanation": "Copper(II) ion (Lewis acid) accepts electron pairs from ammonia molecules (Lewis bases). *[Note: The general formula `$$\\ce{[H3N:Cu:NH3]}$$` is used in the equation, but the accompanying diagram in the textbook implies 4 `$$\\ce{NH3}$$` groups around `$$\\ce{Cu}$$`, representing `$$\\ce{[Cu(NH3)4]^{2+}}$$`.]*"
+                            },
+                            {
+                                "description": "Formation of a cobalt-ammonia complex (hexamminecobalt(III)).",
+                                "equation": "$$\\ce{Co^{3+} + 6NH3 -> [H3N:Co:NH3]^{3+}}$$",
+                                "explanation": "Cobalt(III) ion (Lewis acid) accepts electron pairs from ammonia molecules (Lewis bases). *[Note: The general formula `$$\\ce{[H3N:Co:NH3]}$$` is used in the equation, but the accompanying diagram in the textbook implies 6 `$$\\ce{NH3}$$` groups around `$$\\ce{Co}$$`, representing `$$\\ce{[Co(NH3)6]^{3+}}$$`.]*"
+                            }
+                        ],
+                        "definitions_summary": [
+                            "تعد هذه التفاعلات تفاعلات تحدث بين حوامض وقواعد لويس، حيث تُعد الأمونيا واهبة للإلكترونات ولهذا فهي قاعدة لويس.",
+                            "أما أيون الفلز الذي استقبل هذا المزدوج الإلكتروني فيعد حامض لويس.",
+                            "تسمى الأصرة المتكونة بالمعقد التناسقي.",
+                            "باختصار يمكن القول إن هذا التفاعل هو عبارة عن تفاعل قاعدة لويس الذي يسمى الليكند مع حامض لويس والذي يسمى الأيون أو الفلز المركزي."
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "pages_range": "179 to 188",
+        "data": {
+            "title": "استخراج وهيكلة البيانات من مناهج كيمياء - المركبات التناسقية",
+            "sections": [
+                {
+                    "id": "1",
+                    "title": "مقدمة ومفاهيم أساسية",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "نلاحظ استخدام عدد من المصطلحات الخاصة بالمركبات التناسقية. لهذا يجب أن نتعرف على هذه المصطلحات ومصطلحات أخرى سترد لاحقاً في هذا الفصل وكالآتي:"
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "1- الليكند"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "الليكد",
+                            "description": "جزيء أو أيون سالب أو موجب الشحنة، يرتبط بالأيون المركزي من خلال ذرة واحدة أو أكثر مانحة للمزدوجات الإلكترونية. وعندما يهب الليكند مزدوجاً واحداً من الإلكترونات فإنه يدعى أحادي المخلب (Monodentate). وعندما يهب مزدوجين من الإلكترونات يدعى ثنائي المخلب (Bidentate). وعندما يهب أكثر من مزدوجين من الإلكترونات يدعى متعدد المخلب (Multidentate)."
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "2- الأيون المعقد"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "الأيون المعقد",
+                            "description": "تمثل المركبات التناسقية بوجود ذرة مركزية مستقبلة (Acceptor) للمزدوجات الإلكترونية، وعادة تكون فلزاً يرتبط كيميائياً بالليكند بآصرة تناسقية. تسمى هذه الذرة المركزية بالأيون المركزي."
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "3- المعقد التناسقي (Coordinate Complex)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "المعقد التناسقي",
+                            "description": "وهو المركب الناتج من اتحاد الأيون المركزي مع عدد من الليكندات بوساطة أواصر تناسقية."
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "4- عدد التناسق (Coordination Number)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "عدد التناسق",
+                            "description": "هو عدد الجزيئات أو الأيونات (الليكندات) التي ترتبط بالأيون الفلزي المركزي مضروباً في عدد المخالب التي يملكها الليكند أي أنه يساوي عدد الأواصر التناسقية. وأكثر أعداد التناسق شيوعاً هي 2 و 4 و 6. وأما أعداد التناسق الفردية فهي نادرة. إن للذرة المركزية في المعقدات التناسقية تكافئين أحدهما عدد التأكسد والثاني هو عدد التناسق. في حين يكون لها في المركبات البسيطة تكافؤ واحد هو عدد التأكسد فقط. فمثلاً للحديد في الأيون المعقد $[Fe(CN)₆]^{4-}$ عدد تأكسدي يساوي $(2+)$ وعدد تناسقي يساوي $(6)$، أما شحنة الأيون المعقد فهي ناتج الجمع الجبري للشحنات في الأيون المعقد وهي تساوي $(-4)$ و (المجموع الجبري لشحنة ايون الحديد $(II)$ و $(2+)$ وشحنات ايونات السيانيد $(CN)$ الست $(-6)$."
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "5- الأيون المعقد (Complex Ion)",
+                    "content": [
+                        {
+                            "type": "definition",
+                            "term": "الأيون المعقد",
+                            "description": "وهو صنف مشحون بشحنة موجبة أو سالبة ويحتوي على ذرة فلز مركزية وعدد مناسب من الليكندات تحيط بها. وقد تكون الذرة المركزية متعادلة أو لها عدد تأكسد موجب أو سالب، أما الليكندات فقد تكون جزيئات متعادلة أو أيونات سالبة أو موجبة الشحنة عموماً. ومن الأمثلة على ذلك:"
+                        },
+                        {
+                            "type": "examples",
+                            "items": [
+                                {
+                                    "formula": "$$[Co(NH₃)₆]^{3+}$$",
+                                    "description": "ليكند متعادل"
+                                },
+                                {
+                                    "formula": "$$[Ni(CN)₄]^{2-}$",
+                                    "description": "ليكند سالب"
+                                },
+                                {
+                                    "formula": "$$[Fe(CN)₆]^{4-}$",
+                                    "description": "ليكند سالب"
+                                },
+                                {
+                                    "formula": "$$[Co(NH₃)₃Cl₂]^{2+}$$",
+                                    "description": "ليكندات سالب ومتعادل"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "6- معقد متعادل (Neutral Complex)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "معقد متعادل",
+                            "description": "يسمى المعقد الذي لا يحمل شحنة بالمعقد المتعادل وهو لا يتباين في الماء. ومن الأمثلة على المعقدات المتعادلة هي:"
+                        },
+                        {
+                            "type": "examples",
+                            "items": [
+                                {
+                                    "formula": "$$[Co³⁺(NH₃)₃Cl₃]$$"
+                                },
+                                {
+                                    "formula": "$$[Ni⁰(CO)₄]$$"
+                                },
+                                {
+                                    "formula": "$$[Pt²⁺(NH₃)₂Cl₂]$$"
+                                },
+                                {
+                                    "formula": "$$[Ni²⁺(dmg)₂]$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "7- مجال التناسق (Coordination Sphere)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "مجال التناسق",
+                            "description": "يعبر عن المركب المعقد جزئياً بحيث تكون ذرة الفلز المركزية والليكندات المتصلة به داخل أقواس مربعة $[ ]$. تدعى هذه الأقواس بالمجال التناسقي أو المجال الداخلي (Inner sphere)، بينما يطلق على الجزء الذي يكتب خارج هذه الأقواس المربعة (خارج مجال التناسق للمعقد) بمجال التأين (Ionisation sphere) أو المجال الخارجي (Outer sphere) للمعقد. وعلى سبيل المثال يكون المجال التناسقي للمعقد $[Co(NH₃)₅Cl]Cl₂$ مكون من أيون الفلز المركزي $Co^{3+}$ وستة ليكندات متكونة من خمس جزيئات أمونيا وأيون كلوريد واحد $Cl⁻$. أما الجزء الذي يحتوي على أيون $Cl⁻$ فهو المجال الأيوني. لذلك فإن المكونات التي تكتب داخل المجال الأيوني لها القابلية على التأين وبالتالي بالإمكان ترسيبها بأحد كواشف الترسيب المناسبة، بينما المكونات التي تكتب داخل المجال التناسقي فليس لها القابلية على التأين وبالتالي ليس بالإمكان ترسيبها. مثال ذلك :"
+                        },
+                        {
+                            "type": "chemical_reaction",
+                            "equation": "$$[Co(NH₃)₅Cl]Cl₂ \\rightarrow [Co(NH₃)₅Cl]^{2+} + 2Cl⁻$$"
+                        },
+                        {
+                            "type": "chemical_reaction",
+                            "equation": "$$2Ag^{+} + 2Cl⁻ \\rightarrow 2AgCl$$",
+                            "description": "راسب أبيض"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "أي: إن أيوني $Cl⁻$ الموجودين في مجال التأين يمكن ترسيبهما من محلول المعقد على شكل كلوريد الفضة (راسب أبيض) بإضافة محلول نترات الفضة $(AgNO₃)$، بينما أيون $Cl⁻$ الموجود في المجال التناسقي غير متأين في أعلاه."
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "8- الكيمياء التناسقية (Coordination Chemistry)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "الكيمياء التناسقية",
+                            "description": "وهو ذلك الجزء من الكيمياء اللاعضوية المعني بدراسة المركبات التناسقية وصفاتها."
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "4-5 أنواع الليكندات",
+                    "content": [
+                        {
+                            "type": "heading",
+                            "level": 4,
+                            "text": "أ- ليكندات أحادية المخلب"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "ليكندات أحادية المخلب",
+                            "description": "إن الغالبية العظمى من هذه الليكندات هي عبارة عن أيونات سالبة أو جزيئات متعادلة قادرة على منح مزدوج الكتروني واحد إلى أيون الفلز الموجب، وهي تحوي في تركيبها الكيميائي على ذرة واحدة قابلة للارتباط مع الذرة المركزية للفلز مثل أيونات $Cl⁻$ و $F⁻$ و $Br⁻$ و $CN⁻$ وجزيئات مثل الأمونيا $(NH₃)$ والكيل أمين $RNH₂$ والبيريدين $(C₅H₅N)$ وجزيئات الماء $H₂O$. وتسمى مثل هذه الليكندات بالليكندات أحادية المخلب أو أحادية السن."
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_ligand_structures_1.png",
+                            "caption": "ليكندات أحادية المخلب"
+                        },
+                        {
+                            "type": "examples",
+                            "items": [
+                                {
+                                    "formula": "$$\\text{H}-\\underset{|}{\\text{N}}-\\text{H}$$"
+                                },
+                                {
+                                    "formula": "$$\\text{C} \\equiv \\text{O}$$"
+                                },
+                                {
+                                    "formula": "$$\\text{Cl⁻}$$"
+                                },
+                                {
+                                    "formula": "$$\\text{[:C} \\equiv \\text{N}]⁻$$"
+                                },
+                                {
+                                    "formula": "$$\\text{[:S} = \\text{C} = \\text{N}]⁻$$"
+                                },
+                                {
+                                    "formula": "$$\\text{H}-\\underset{|}{\\text{O}}-\\text{H}$$"
+                                },
+                                {
+                                    "formula": "$$\\text{H₂N}-\\text{CH₂}-\\text{CH₂}-\\text{NH₂}$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading",
+                            "level": 4,
+                            "text": "ب- ليكندات ثنائية المخلب"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "ليكندات ثنائية المخلب",
+                            "description": "هناك العديد من الأيونات أو الجزيئات التي لها القدرة على الارتباط بأيون الفلز عبر أكثر من ذرة واحدة (تمتلك مزدوج إلكتروني غير مشترك في التفاعل) مكونة مركبات حلقية. مثل ايون الاوكزالات $C₂O₄^{2-}$ وجزيئة اثيلين ثنائي أمين $NH₂-CH₂-CH₂-NH₂$."
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_bidentate_ligand_structure.png",
+                            "caption": "ليكندات ثنائية المخلب"
+                        },
+                        {
+                            "type": "heading",
+                            "level": 4,
+                            "text": "ج- ليكندات متعددة المخلب"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "ليكندات متعددة المخلب",
+                            "description": "وتشمل ليكندات معقدة تحتوي على ثلاث أو أربع وأحياناً حتى أكثر من ذلك من الذرات القادرة على المساهمة في بناء أواصر تناسقية. وكمثال على ذلك الليكند اثيلين ثنائي أمين رباعي حامض الخليك (EDTA). وهو ليكند سداسي السن لاحتوائه على ست ذرات قادرة على الارتباط التناسقي."
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_multidentate_ligand_structure_EDTA.png",
+                            "caption": "ليكندات متعددة المخلب"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "الكليتية (Chelating ligand)",
+                            "description": "تسمى الليكندات التي ترتبط في موقعين أو أكثر في آن واحد مع نفس الأيون الفلزي بالليكندات الكليتية."
+                        },
+                        {
+                            "type": "table",
+                            "id": "5-1",
+                            "title": "أمثلة لبعض أنواع الليكندات أحادية وثنائية المخلب",
+                            "headers": [
+                                "اسم الليكند",
+                                "تركيب الليكند",
+                                "اسم الليكند",
+                                "تركيب الليكند"
+                            ],
+                            "rows": [
+                                {
+                                    "قسم_الليكندات_أحادية_المخلب": true
+                                },
+                                {
+                                    "اسم الليكند": "نايتروسيل",
+                                    "تركيب الليكند": "$$NO$$"
+                                },
+                                {
+                                    "اسم الليكند": "أمين",
+                                    "تركيب الليكند": "$$NH₃$$"
+                                },
+                                {
+                                    "اسم الليكند": "بيريدين",
+                                    "تركيب الليكند": "$$C₅H₅N$$"
+                                },
+                                {
+                                    "اسم الليكند": "ازيدو",
+                                    "تركيب الليكند": "$$N₃⁻$$"
+                                },
+                                {
+                                    "اسم الليكند": "يوريا",
+                                    "تركيب الليكند": "$${(NH₂)₂CO}$$"
+                                },
+                                {
+                                    "اسم الليكند": "برومو",
+                                    "تركيب الليكند": "$$Br⁻$$"
+                                },
+                                {
+                                    "قسم_الليكندات_ثنائية_المخلب": true
+                                },
+                                {
+                                    "اسم الليكند": "هايدرازين",
+                                    "تركيب الليكند": "$$NH₂NH₂$$"
+                                },
+                                {
+                                    "اسم الليكند": "اثيلين ثنائي أمين (en)",
+                                    "تركيب الليكند": "$$NH₂CH₂CH₂NH₂$$"
+                                },
+                                {
+                                    "اسم الليكند": "ثنائي مثيل كلايكوسيماتو (dmg)",
+                                    "تركيب الليكند": "$$C₄N₂O₂H₇⁻$$"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "title": "5-5 قاعدة العدد الذري الفعال (The Effective Atomic Number Rule - EAN)",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "قدمت أول محاولة لتفسير استقرارية المعقدات التناسقية من قبل سيدجويك (Sidgwick) الذي وسع نظرية لويس لتشمل المركبات التناسقية، حيث افترض أن استقرارية هذه المركبات تتوقف على قابلية ترتيبها الإلكتروني مع الترتيب الإلكتروني للغازات النبيلة. حسب هذه القاعدة يصبح المعقد التناسقي مستقراً إذا كان مجموع الإلكترونات الموجودة على الفلز أو الأيون المركزي والإلكترونات الممنوحة من قبل الليكندات تساوي العدد الذري لأحد الغازات النبيلة $(Kr_{36})$ أو $(Xe_{54})$ أو $(Rn_{86})$. ويسمى المجموع الكلي للإلكترونات على الذرة المركزية والممنوحة من الليكندات بالعدد الذري الفعال، وتسمى هذه القاعدة بقاعدة العدد الذري الفعال. وتطبق هذه القاعدة على عدد كبير من المركبات المعقدة."
+                        },
+                        {
+                            "type": "box",
+                            "title": "ملاحظة:",
+                            "text": "يمكن الرجوع إلى الجدول في نهاية الكتاب عند حل أسئلة وقارن الفصل."
+                        },
+                        {
+                            "type": "example",
+                            "id": "5-3",
+                            "title": "مثال 5-3",
+                            "question": "ما العدد الذري الفعال للمعقد $[Co(NH₃)₆]³⁺$ وهل تنطبق قاعدة (EAN) عليه؟ إذا علمت أن العدد الذري للكوبلت 27.",
+                            "solution": [
+                                "يتم الحساب على وفق الآتي :",
+                                "$$Co = 27e⁻$$",
+                                "$$Co³⁺ = 24e⁻$$",
+                                "$$6NH₃ = 12e⁻$$",
+                                "$$[Co(NH₃)₆]³⁺ = 36e⁻$$",
+                                "العدد الذري الفعال هنا يساوي 36 وهو يساوي العدد الذري للغاز النبيل الكريبتون، ولهذا فالمركب المعقد يكون مستقراً لأنه يخضع لقاعدة العدد الذري الفعال ."
+                            ]
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "5-2",
+                            "title": "تمرين 5-2",
+                            "question": "احسب العدد الذري الفعال للمركبات التالية ثم بين هل تنطبق عليه قاعدة العدد الذري الفعال؟",
+                            "items": [
+                                {
+                                    "formula": "$$[Pd(NH₃)₆]^{4+}$$",
+                                    "answer": "ج: 35 ; لا تنطبق"
+                                },
+                                {
+                                    "formula": "$$[Fe(CN)₆]³⁻$$",
+                                    "answer": "ج: 35 ; لا تنطبق"
+                                },
+                                {
+                                    "formula": "$$[Ni(en)₂]²⁺$$",
+                                    "answer": "ج: 38 ; لا تنطبق"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "attention_box",
+                            "title": "انتبه!",
+                            "text": "على الرغم من وجود عدد كبير من المركبات المعقدة التي تتماشى مع قاعدة العدد الذري الفعال، إلا أن هناك عدد من المعقدات تكون مستقرة على الرغم من عدم انطباق قاعدة العدد الذري الفعال عليها."
+                        },
+                        {
+                            "type": "example",
+                            "id": "5-4",
+                            "title": "مثال 5-4",
+                            "question": "ما العدد الذري الفعال للمعقد $[CoCl₄]²⁻$ وهل تنطبق قاعدة (EAN) عليه؟ إذا علمت أن العدد الذري للكوبلت هو 27.",
+                            "solution": [
+                                "الحل:",
+                                "$$Co = 27e⁻$$",
+                                "$$Co²⁺ = 25e⁻$$",
+                                "$$4Cl⁻ = 8e⁻$$",
+                                "$$[CoCl₄]²⁻ = 33e⁻$$",
+                                "العدد الذري الفعال هنا يساوي 33 وهو لا يساوي العدد الذري لأي من الغازات النبيلة لذا لا تخضع لقاعدة العدد الذري الفعال ولكن وعلى الرغم من ذلك فإن هذا المعقد مركب مستقر."
+                            ]
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "5-3",
+                            "title": "تمرين 5-3",
+                            "question": "ما هو العدد الذري الفعال للمعقد $[Ag(NH₃)₂]⁺$ و $[Ni(CN)₄]²⁻$ وهل تنطبق قاعدة (EAN) عليهما؟ اذا علمت أن العدد الذري للنيكل هو 28، والعدد الذري للفضة 47.",
+                            "answer": "ج: 38 ; لا تنطبق ; 54 ; تنطبق."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وتتجه الاستثناءات الكثيرة لهذه القاعدة نستنتج بأن أهمية هذه القاعدة تعد قليلة، إلا إنها مفيدة في مجال محدد من الكيمياء التناسقية وخاصة لمعقدات الكاربونيل الفلزية $(M_x(CO)_y)$، ومن الأمثلة على ذلك :"
+                        },
+                        {
+                            "type": "examples",
+                            "items": [
+                                {
+                                    "formula": "$$Cr = 24e⁻$$",
+                                    "calculation": "$$6CO = 12e⁻$$"
+                                },
+                                {
+                                    "formula": "$$Fe = 26e⁻$$",
+                                    "calculation": "$$5CO = 10e⁻$$"
+                                },
+                                {
+                                    "formula": "$$Ni = 28e⁻$$",
+                                    "calculation": "$$4CO = 8e⁻$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "results",
+                            "items": [
+                                {
+                                    "formula": "$$[Cr(CO)₆] = 36$$"
+                                },
+                                {
+                                    "formula": "$$[Fe(CO)₅] = 36$$"
+                                },
+                                {
+                                    "formula": "$$[Ni(CO)₄] = 36$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "يتضح من قيمة العدد الذري الفعال لهذه المعقدات بأنها تتبع القاعدة. ومن ناحية أخرى، لا تتبع الفلزات ذات الأعداد الذرية الفردية قاعدة العدد الذري الفعال وإضافة هذا النوع من الليكندات لأن الناتج النهائي سيكون عدداً فردياً من الإلكترونات وبالتالي لا يساوي أياً من الأعداد 36 أو 54 أو 86 مهما كان عدد الكاربونيلات المضافة. لذلك وجد أن مثل هذه المركبات تتواجد بشكل مزدوجات جزيئية (Dimer) أو معقدات جزيئية (Polymers) مثل $Mn₂(CO)₁₀$ و $Co₂(CO)₈$. وفي هذه الحالة يكون احتساب العدد الذري الفعال لكل من المعقدين أعلاه كما يأتي :"
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_dimer_structures.png",
+                            "caption": "هيكل معقدات Mn₂ (CO)₁₀ و Co₂ (CO)₈"
+                        },
+                        {
+                            "type": "examples",
+                            "items": [
+                                {
+                                    "formula": "$$Mn = 25e⁻$$",
+                                    "calculation": "$$Mn - Mn = 1e⁻$$",
+                                    "calculation2": "$$5CO = 10e⁻$$"
+                                },
+                                {
+                                    "formula": "$$Co = 27e⁻$$",
+                                    "calculation": "$$Co - Co = 1e⁻$$",
+                                    "calculation2": "$$4CO = 8e⁻$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "results",
+                            "items": [
+                                {
+                                    "formula": "$$[Mn₂(CO)₁₀] = 36$$"
+                                },
+                                {
+                                    "formula": "$$[Co₂(CO)₈] = 36$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "5-4",
+                            "title": "تمرين 5-4",
+                            "question": "احسب العدد الذري الفعال للمعقد $Re₂(CO)₁₀$ ثم بين هل تنطبق عليه قاعدة (EAN) علماً اذا علمت أن العدد الذري للرينيوم Re هو 75.",
+                            "answer": "ج: 86 ; تنطبق."
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "title": "6-5 تسمية المركبات التناسقية",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "يتم اتباع القواعد التي أوصت باستخدامها الهيئة المختصة في تسمية المركبات اللاعضوية في الاتحاد الدولي للكيمياء الصرفة والتطبيقية (IUPAC) لتسمية المركبات التناسقية وكما يأتي:"
+                        },
+                        {
+                            "type": "list",
+                            "list_type": "ordered",
+                            "items": [
+                                {
+                                    "title": "تسمية المركبات الأيونية:",
+                                    "text": "عند تسمية مركب أيوني، يسمى الأيون السالب أولاً ثم يتبعه الأيون الموجب، كما هو الحال في تسمية الأملاح البسيطة (مع ملاحظة عند التسمية باللغة الانكليزية يسمى الأيون الموجب أولاً ثم يتبعه الأيون السالب). فمثلاً يسمى الملح البسيط $NaCl$ بكلوريد الصوديوم (Sodium chloride) بينما يسمى المعقد التناسقي $[Cr(NH₃)₆]Cl₃$ في كلوريد سداسي أمين الكروم $(III)$ (Hexaammine chromium (III) chloride)."
+                                },
+                                {
+                                    "title": "تسمية الليكندات:",
+                                    "text": "في المركبات التناسقية، تسمى الليكندات أولاً ثم الفلز وفي حالة وجود أكثر من ليكند فإنها تذكر في التسمية حسب الترتيب الأبجدي للحروف باللغة الانكليزية. لكن التسمية تكون باللغة العربية. مثل: $[Cr(H₂O)₄Cl₂]Cl$ كلوريد رباعي أكوا ثنائي كلورو كروم $(III)$ (Tetraaqua dichloro chromium (III) chloride)."
+                                },
+                                {
+                                    "title": "أسماء الليكندات:",
+                                    "text": "تسمى الليكندات السالبة بالحرف (و) (وباللغة الانكليزية بالحرف (o)) بينما تسمى الليكندات المتعادلة باسم الجزيئة دون تغيير عدا الماء فيسمى أكوا (aqua)، والأمونيا بالأمين (ammine) حيث يتكرر الحرف m عند كتابتها باللغة الانكليزية مرتين عند التعبير عن الأمونيا لتفريقها عن الأمينات الأخرى حيث تكتب باستخدام حرف m واحد. أما الليكندات الموجبة (والتي هي نادرة) فتنتهي بـ (يوم) (ium). يوضح الجدول (5-2) أمثلة على أسماء بعض الليكندات السالبة والموجبة بنوعيها أحادية المخلب وثنائية المخلب :"
+                                },
+                                {
+                                    "type": "table",
+                                    "id": "5-2",
+                                    "title": "أسماء ورموز عدد من الليكندات",
+                                    "headers": [
+                                        "اسم الليكند باللغة الانكليزية",
+                                        "اسم الليكند باللغة العربية",
+                                        "رمز الليكند"
+                                    ],
+                                    "rows": [
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Chloro",
+                                            "اسم الليكند باللغة العربية": "كلورو",
+                                            "رمز الليكند": "$$Cl⁻$$"
+                                        },
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Cyano",
+                                            "اسم الليكند باللغة العربية": "سيانو",
+                                            "رمز الليكند": "$$CN⁻$$"
+                                        },
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Acetato",
+                                            "اسم الليكند باللغة العربية": "خلاتو",
+                                            "رمز الليكند": "$$CH₃COO⁻$$"
+                                        },
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Thiocyanato",
+                                            "اسم الليكند باللغة العربية": "ثيوسياناتو",
+                                            "رمز الليكند": "$$SCN⁻$$"
+                                        },
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Ethylenediamine",
+                                            "اسم الليكند باللغة العربية": "اثيلين ثنائي أمين",
+                                            "رمز الليكند": "$$NH₂CH₂CH₂NH₂$$"
+                                        },
+                                        {
+                                            "اسم الليكند باللغة الانكليزية": "Hydrazinium",
+                                            "اسم الليكند باللغة العربية": "هايدرازينيوم",
+                                            "رمز الليكند": "$$NH₃NH₃⁺$$"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "البادئات (Prefexes):",
+                                    "text": "تستعمل البادئات ثنائي (di)، وثلاثي (tri)، ورباعي (tetra)، ... الخ قبل أسماء الليكندات البسيطة مثل برومو وناترو ويترو وغيرها عندما يوجد أكثر من ليكند من نفس النوع في المعقد، في حين تستخدم البادئات بس (bis) وترس (tris) قبل أسماء الليكندات المعقدة مثل اثيلين ثنائي أمين والذي يرمز له (en) واثيلين ثنائي أمين رباعي حامض الخليك والذي يرمز له (EDTA). مثال :"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "$$[Co(en)₂Cl₂]SO₄$$",
+                                    "description": "كبريتات ثنائي كلورو بس (اثيلين ثنائي أمين) الكوبلت (III)"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "Dichloro bis (ethylenedi amine) cobalt (III) sulphate"
+                                },
+                                {
+                                    "title": "عدد التأكسد:",
+                                    "text": "يعبر عن حالة التأكسد للذرة المركزية بالأرقام الرومانية وتحصر بين قوسين مباشرة بعد اسم الفلز. عندما تكون حالة التأكسد مساوية صفراً فيستعمل الرقم (0). مثل :"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "$$[Ni(CO)₄]$$",
+                                    "description": "رباعي كاربونيل نيكل (0)"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "Tetracarbonyl nickel (0)"
+                                },
+                                {
+                                    "title": "الليكندات الأيونية:",
+                                    "text": "عندما يكون المعقد أيوناً سالباً ينتهي اسم الفلز المركزي بـ (ات) (ate) وفي أكثر الأحيان تستعمل الأسماء اللاتينية للفلز (مثلاً الحديد فيرم والصوديوم نتروم والرصاص بلمب ... الخ). أما في المعقدات الأيونية الموجبة أو المتعادلة فيبقى اسم الفلز المركزي دون أي تغيير. مثل :"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "$$Ca₂[Fe(CN)₆]$$",
+                                    "description": "سداسي سيانو فيرات (II) الكالسيوم"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "Calcium hexacyano ferrate(II)"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "$$[Fe(H₂O)₆]SO₄$$",
+                                    "description": "كبريتات سداسي أكوا حديد (II)"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "Hexa aqua iron (II) sulphate"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "$$[Ni(dmg)₂]$$",
+                                    "description": "بس (ثنائي مثيل كلايكسيماتو) نيكل (II)"
+                                },
+                                {
+                                    "type": "example",
+                                    "formula": "Bis(dimethyl glyoximato) nickel(II)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "5-5",
+                            "title": "تمرين 5-5",
+                            "question": "سمّ المعقدات التناسقية الآتية:",
+                            "items": [
+                                {
+                                    "formula": "$$[Co(NH₃)₅H₂O]Cl₃$$"
+                                },
+                                {
+                                    "formula": "$$Na₂[Co(NH₃)₄Cl₂]$$"
+                                },
+                                {
+                                    "formula": "$$K₃[PtCl₆]$$"
+                                },
+                                {
+                                    "formula": "$$[Cr(NH₃)₃(NO₂)₃]$$"
+                                },
+                                {
+                                    "formula": "$$Cu(en)₂Cl₂$$"
+                                },
+                                {
+                                    "formula": "$$[NH₄]₂[Cr(SCN)₆]$$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "attention_box",
+                            "title": "انتبه!",
+                            "text": "عند كتابة الاسم العلمي باللغة الانكليزية لا توضع فراغات عند كتابة الاسم العلمي للايون السالب او الايون الموجب ولكن يوضع فراغ واحد بين اسم الايون الموجب واسم الايون السالب ولكننا لم نتبع هذا السياق العلمي وذلك لتسهيل كتابة الاسم العلمي باللغة العربية."
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "title": "7-5 نظريات التآصر في المركبات التناسقية",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "لقد كانت نظرية السلسلة ونظرية التناسق لفرنر لتفسير بنية المعقدات التناسقية مقدمة بسيطة لفهم التآصر في المركبات التناسقية. تلى ذلك توسعاً واهتماماً كبيرين نتج عنهما ثلاث نظريات تستعمل في الوقت الحاضر لوصف طبيعة التآصر في المعقدات التناسقية هي :"
+                        },
+                        {
+                            "type": "list",
+                            "list_type": "ordered",
+                            "items": [
+                                {
+                                    "text": "نظرية آصرة التكافؤ (Valence Bond Theory - VBT)"
+                                },
+                                {
+                                    "text": "نظرية المجال البلوري (Crystal Field Theory - CFT)"
+                                },
+                                {
+                                    "text": "نظرية الأوربيتال الجزيئي (Molecular Orbital Theory - MOT)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "وسنقوم في هذه المرحلة الدراسية بشرح مبسط لنظرية آصرة التكافؤ فقط، تاركين دراسة كل من نظرية المجال البلوري ونظرية الأوربيتال الجزيئي للمراحل الجامعية."
+                        },
+                        {
+                            "type": "heading",
+                            "level": 3,
+                            "text": "1- نظرية آصرة التكافؤ (Valence Bond Theory - VBT)"
+                        },
+                        {
+                            "type": "definition",
+                            "term": "نظرية آصرة التكافؤ",
+                            "description": "لقد تم تطبيق مفهوم آصرة التكافؤ على المركبات التناسقية وبنجاح كبير التي يطلق عليها عادة اسم نظرية آصرة التكافؤ للمركبات التناسقية. وهي ذات علاقة وثيقة بالتهجين والشكل الهندسي للذرة المركزية. وبعد تكوين المعقد حسب هذه النظرية تتفاعلنا بين قاعدة لويس (الليكند) وحامض لويس (الفلز) مع تكوين آصرة تناسقية بين الليكند والفلز. تمثل في هذه النظرية أوربيتالات الفلز بمربعات أو في بعض الأحيان دوائر، لبسات توزيـع الإلكترونات الغلاف الخارجي للفلز والإلكترونات الآتية من الليكندات. وسنقوم بتطبيق هذه النظرية على المركبات التناسقية ذات الأعداد التناسقية 2 و 4 و 6 فقط تاركين تطبيق النظرية على الأعداد التناسقية الأعلى الى المراحل الدراسية القادمة."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "فمثلاً في حالة الأيون المعقد ثنائي أمين الفضة (I) $[Ag(NH₃)₂]⁺$ يكون الترتيب الالكتروني للغلاف الخارجي للفضة والترتيب الالكتروني في المعقد كالآتي:"
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_Ag_VBT.png",
+                            "caption": "ترتيب إلكترونات $Ag$, $Ag⁺$ و $[Ag(NH₃)₂]⁺$"
+                        },
+                        {
+                            "type": "list",
+                            "list_type": "bullet",
+                            "items": [
+                                {
+                                    "text": "أربعة إلكترونات آتية من ليكندين $NH₃$."
+                                },
+                                {
+                                    "text": "نوع التهجين: $sp$ من اشتراك أوربيتال واحد من $s$ و أوربيتال واحد من $p$ في التآصر."
+                                },
+                                {
+                                    "text": "شكل الأيون المعقد خطي (Linear)."
+                                },
+                                {
+                                    "text": "صفة الأيون المعقد دايا مغناطيسي نتيجة عدم وجود الكترونات منفردة فيه."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "أما الأيون المعقد ثلاثي يودو زئبقات (II) $[HgI₃]⁻$ فيكون الترتيب الالكتروني للغلاف الخارجي لفلز الزئبق والترتيب الالكتروني في المعقد كما يأتي:"
+                        },
+                        {
+                            "type": "image_caption",
+                            "image_url": "Image_of_Hg_VBT.png",
+                            "caption": "ترتيب إلكترونات $Hg$, $Hg²⁺$ و $[HgI₃]⁻$"
+                        },
+                        {
+                            "type": "exercise",
+                            "id": "5-6",
+                            "title": "تمرين 5-6",
+                            "question": "اعتماداً على VBT بين توزيع الإلكترونات الفلز والإلكترونات الآتية من الليكندات للمعقد $[Cu(CN)₄]²⁻$."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "pages_range": "189 to 196",
+        "data": {
+            "book_title": "مناهج كيمياء",
+            "chapters": [
+                {
+                    "chapter_number": null,
+                    "chapter_title": null,
+                    "pages": [
+                        {
+                            "page_number": 189,
+                            "content": [
+                                {
+                                    "type": "section_heading",
+                                    "text_arabic": "ستة الإلكترونات آتية من ثلاث ليكندات",
+                                    "notes": "The heading suggests 6 electrons from 3 ligands. However, the example complex [Ni(Cl)₄]²⁻ has 4 ligands, which would contribute 8 electrons (2 from each Cl⁻). This heading might be a general, possibly mislabeled, introduction or a typo."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "نوع التهجين $$sp^3$$ من اشتراك أوربيتال واحد من s وأوربيتالين من p في الناصر."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "شكل الأيون المعقد مثلث مستو (Trigonal planar)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "صفة الأيون المعقد ديامغناطيسي نتيجة عدم وجود الإلكترونات منفردة فيه."
+                                },
+                                {
+                                    "type": "complex_example",
+                                    "complex_formula": "$$\\\\left[Ni(Cl)_4\\\\right]^{2-}$$",
+                                    "complex_name_arabic": "الأيون المعقد رباعي كلورو نيكلات (II)",
+                                    "central_atom_details": [
+                                        {
+                                            "species": "Ni",
+                                            "configuration_label": "$$^{28}Ni\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\uparrow \\downarrow$",
+                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 3d configuration shown (4 paired electrons, 1 empty orbital) is a simplified representation or implies pre-pairing, as a free Ni atom (3d⁸ 4s²) typically has 2 unpaired 3d electrons."
+                                        },
+                                        {
+                                            "species": "Ni^{2+}",
+                                            "configuration_label": "$$Ni^{2+}\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\empty$",
+                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 3d configuration shown (4 paired electrons, 1 empty orbital) is a simplified representation or implies pre-pairing, as a free Ni²⁺ ion (3d⁸) typically has 2 unpaired 3d electrons."
+                                        },
+                                        {
+                                            "species": "$$\\\\left[Ni(Cl)_4\\\\right]^{2-}$$",
+                                            "configuration_label": "$$\\\\left[Ni(Cl)_4\\\\right]^{2-}\\\\left[Ar\\\\right]_{18}$$",
+                                            "description_arabic": "يتكون الترتيب الإلكتروني للغلاف الخارجي لفلز النيكل والترتيب الإلكتروني في المعقد كما يأتي:",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\uparrow \\downarrow$",
+                                                "4p": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$"
+                                            },
+                                            "hybridization": "sp³",
+                                            "shape_arabic": "مثلث مستو",
+                                            "shape_english": "(Trigonal planar)",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "notes": "The text states 'sp³' hybridization, but the orbital diagram shows ligand electrons filling one 4s orbital and two 4p orbitals, which would correspond to 'sp²' hybridization (not sp³). The stated geometry 'Trigonal planar' is inconsistent with a 4-coordinate complex undergoing sp³ hybridization (which should be tetrahedral). Furthermore, the 'diamagnetic' property contradicts the statement on page 2 that Cl is a weak field ligand, which would typically lead to unpaired electrons and paramagnetism for Ni(II) 3d⁸."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "section_heading",
+                                    "text_arabic": "ثمانية الإلكترونات آتية من أربع ليكندات"
+                                },
+                                {
+                                    "type": "general_description",
+                                    "context_arabic": "هذه الفقرة تصف الخصائص العامة لمعقد رباعي التناسق.",
+                                    "hybridization": "$$sp^3$$",
+                                    "ligand_origin_description": "من اشتراك أوربيتال واحد من s وثلاثة أوربيتالات من p في الناصر.",
+                                    "shape_arabic": "رباعي الأوجه منتظم",
+                                    "shape_english": "(Tetrahedral)",
+                                    "magnetic_property_arabic": "بارامغناطيسي",
+                                    "magnetic_property_reason_arabic": "نتيجة لوجود الكترونين غير مزدوجين."
+                                },
+                                {
+                                    "type": "complex_example",
+                                    "complex_formula": "$$\\\\left[Ni(CN)_4\\\\right]^{2-}$$",
+                                    "complex_name_arabic": "الأيون المعقد رباعي سيانو نيكلات (II)",
+                                    "context_arabic": "أما في حالة الأيون المعقد رباعي سيانو نيكلات (II)، فيكون الترتيب الإلكتروني للغلاف الخارجي للنيكل والترتيب الإلكتروني في المعقد كما يأتي:",
+                                    "central_atom_details": [
+                                        {
+                                            "species": "Ni",
+                                            "configuration_label": "$$^{28}Ni\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\uparrow \\downarrow$",
+                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 3d configuration shown is a simplified representation or implies pre-pairing, as a free Ni atom (3d⁸ 4s²) typically has 2 unpaired 3d electrons."
+                                        },
+                                        {
+                                            "species": "Ni^{2+}",
+                                            "configuration_label": "$$Ni^{2+}\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\empty$",
+                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 3d configuration shown (4 paired electrons, 1 empty orbital) is a simplified representation or implies pre-pairing, as a free Ni²⁺ ion (3d⁸) typically has 2 unpaired 3d electrons. The full orbital diagram for the complex is on page 2."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 190,
+                            "content": [
+                                {
+                                    "type": "complex_example",
+                                    "complex_formula": "$$\\\\left[Ni(CN)_4\\\\right]^{2-}$$",
+                                    "complex_name_arabic": "الأيون المعقد رباعي سيانو نيكلات (II)",
+                                    "context_arabic": "استكمالاً لـ $$[Ni(CN)_4]^{2-}$$ من الصفحة السابقة.",
+                                    "central_atom_details": [
+                                        {
+                                            "species": "Ni^{2+}",
+                                            "configuration_label": "$$Ni^{2+}\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "4s": "$\\empty$",
+                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 3d configuration shown (4 paired electrons, 1 empty orbital) is a simplified representation or implies pre-pairing for dsp² hybridization, as a free Ni²⁺ ion (3d⁸) typically has 2 unpaired 3d electrons."
+                                        },
+                                        {
+                                            "species": "$$\\\\left[Ni(CN)_4\\\\right]^{2-}$$",
+                                            "configuration_label": "$$\\\\left[Ni(CN)_4\\\\right]^{2-}\\\\left[Ar\\\\right]_{18}$$",
+                                            "orbitals": {
+                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\quad \\overset{CN}{\\uparrow \\downarrow}$",
+                                                "4s": "$\\quad \\overset{CN}{\\uparrow \\downarrow}$",
+                                                "4p": "$\\quad \\overset{CN}{\\uparrow \\downarrow} \\quad \\overset{CN}{\\uparrow \\downarrow} \\quad \\empty$"
+                                            },
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "shape_english": "(Square planar)",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "magnetic_property_reason_arabic": "نتيجة لتزاوج الإلكترونات (strong field ligand)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "نلاحظ من البيانين السابقين أن الكترونات d المنفردة بقيت على ما هي عليه في حالة المعقد $$[Ni(Cl)_4]^{2-}$$ بينما أصبحت مزدوجة في حالة المعقد $$[Ni(CN)_4]^{2-}$$ أي أن نوع الليكند تأثيره أمامي في هذه الحالة حيث أن الأيون CN يعد ليكندا قوياً؛ لأنه يجعل الإلكترونات المنفردة في المعقد تتزوج، بينما يعتبر الأيون Cl ليكند ضعيف لأنه غير قادر على جعل الإلكترونات المنفردة تتزوج، وعليه تصنف الليكندات المعروفة حسب سلسلة الطيف الكيميائي الى ليكندات قوية وليكندات ضعيفة. يوضح الجدول (3-5) بعض أنواع الليكندات القوية والضعيفة:"
+                                },
+                                {
+                                    "type": "table",
+                                    "table_number": "3-5",
+                                    "title_arabic": "بعض أنواع الليكندات الضعيفة والقوية",
+                                    "headers_arabic": [
+                                        "ليكندات ضعيفة",
+                                        "الرمز",
+                                        "الاسم",
+                                        "ليكندات قوية",
+                                        "الرمز",
+                                        "الاسم"
+                                    ],
+                                    "rows": [
+                                        {
+                                            "weak_ligand_arabic": "يوديد",
+                                            "weak_ligand_symbol": "$$I^-$$",
+                                            "strong_ligand_arabic": "سيانيد",
+                                            "strong_ligand_symbol": "$$CN^-$$"
+                                        },
+                                        {
+                                            "weak_ligand_arabic": "بروميد",
+                                            "weak_ligand_symbol": "$$Br^-$$",
+                                            "strong_ligand_arabic": "أمونيا",
+                                            "strong_ligand_symbol": "$$NH_3$$"
+                                        },
+                                        {
+                                            "weak_ligand_arabic": "كلوريد",
+                                            "weak_ligand_symbol": "$$Cl^-$$",
+                                            "strong_ligand_arabic": "إثيلين ثنائي أمين",
+                                            "strong_ligand_symbol": "$$NH_2CH_2CH_2NH_2$$"
+                                        },
+                                        {
+                                            "weak_ligand_arabic": "فلوريد",
+                                            "weak_ligand_symbol": "$$F^-$$",
+                                            "strong_ligand_arabic": "نتريت",
+                                            "strong_ligand_symbol": "$$NO_2^-$$"
+                                        },
+                                        {
+                                            "weak_ligand_arabic": "هيدروكسيد",
+                                            "weak_ligand_symbol": "$$OH^-$$",
+                                            "strong_ligand_arabic": "كاربونيل",
+                                            "strong_ligand_symbol": "$$CO$$"
+                                        },
+                                        {
+                                            "weak_ligand_arabic": "ماء",
+                                            "weak_ligand_symbol": "$$H_2O$$",
+                                            "strong_ligand_arabic": "بيريدين",
+                                            "strong_ligand_symbol": "$$C_5H_5N$$"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 191,
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "أما في حالة عناصر السلسلتين الانتقاليتين الثانية والثالثة فإن معقداتها رباعية التناسق تكون ذات أشكال هندسية من نوع مربع مستو (تهجين $$dsp^2$$). بعض النظر عن كون الليكند قوياً أو ضعيفاً. وفي هذه الحالة يكون السبب هو حجم الأيون الكبير مقارنة بحجم الأيون في السلسلة الانتقالية الأولى (الحجم الكبير لكل من الأوربتالات $$5d$$ و $$4d$$ وسهولة ازدواج الإلكترونات فيها مقارنة بالحجم الصغير للأوربيتال $$3d$$ في السلسلة الانتقالية الأولى). وعليه في حالة المعقد $$[PtCl_4]^{2-}$$ يكون الترتيب الإلكتروني للغلاف الخارجي لفلز البلاتين والترتيب الإلكتروني في المعقد كالآتي:"
+                                },
+                                {
+                                    "type": "complex_example",
+                                    "complex_formula": "$$\\\\left[PtCl_4\\\\right]^{2-}$$",
+                                    "complex_name_arabic": "رباعي كلورو بلاتينات (II)",
+                                    "central_atom_details": [
+                                        {
+                                            "species": "Pt",
+                                            "configuration_label": "$$^{78}Pt\\\\left[Xe\\\\right]_{54}4f^{14}$$",
+                                            "orbitals": {
+                                                "5d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "6s": "$\\uparrow \\downarrow$",
+                                                "6p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The ground state electronic configuration for a free Pt atom is typically 5d⁹ 6s¹. The diagram shows 5d⁸ 6s² with paired 5d electrons, which might be a simplified representation for hybridization purposes."
+                                        },
+                                        {
+                                            "species": "Pt^{2+}",
+                                            "configuration_label": "$$Pt^{2+}\\\\left[Xe\\\\right]_{54}4f^{14}$$",
+                                            "orbitals": {
+                                                "5d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\empty$",
+                                                "6s": "$\\empty$",
+                                                "6p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                            },
+                                            "notes": "The 5d configuration shown (4 paired electrons, 1 empty orbital) is consistent with the need for dsp² hybridization in 2nd/3rd row transition metals, where pairing is favored even with weak field ligands."
+                                        },
+                                        {
+                                            "species": "$$\\\\left[Pt(Cl)_4\\\\right]^{2-}$$",
+                                            "configuration_label": "$$\\\\left[Pt(Cl)_4\\\\right]^{2-}\\\\left[Xe\\\\right]_{54}4f^{14}$$",
+                                            "description_arabic": "الترتيب الإلكتروني في المعقد:",
+                                            "orbitals": {
+                                                "5d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\quad \\overset{Cl}{\\uparrow \\downarrow}$",
+                                                "6s": "$\\quad \\overset{Cl}{\\uparrow \\downarrow}$",
+                                                "6p": "$\\quad \\overset{Cl}{\\uparrow \\downarrow} \\quad \\overset{Cl}{\\uparrow \\downarrow} \\quad \\empty$"
+                                            },
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "magnetic_property_arabic": "دايامغناطيسي"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "section_heading",
+                                    "text_arabic": "ثمانية الإلكترونات آتية من أربعة ليكندات",
+                                    "notes": "This section seems to be a repeat or summary of the earlier section with the same heading on page 1."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "نوع التهجين $$dsp^2$$ من اشتراك اوربيتال واحد من d وأوربيتال واحد من s وأوربيتالين من p في الناصر."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "شكل الأيون المعقد مربع مستو."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "صفة الأيون المعقد ديامغناطيسي نتيجة عدم وجود الإلكترونات منفردة فيه."
+                                },
+                                {
+                                    "type": "exercise",
+                                    "exercise_number": "5-7",
+                                    "title_arabic": "ويمكن معرفة التهجين وبالتالي الشكل الهندسي للمركبات المعقدة وخاصة التي تكون ذرتها المركزية ذات عدد ذري مفرد من خلال حساب عدد الإلكترونات المنفردة في مركباتها المعقدة. ويعرف الزخم المغناطيسي ($$\\mu$$) الناتج من برم الإلكترونات وفق المعادلة الآتية:",
+                                    "formula": "$$\\mu \\,(B.M.) = \\\\sqrt{e(e+2)}$$",
+                                    "explanation_arabic": "حيث أن e = عدد الإلكترونات المنفردة و أن B.M هي وحدة لقياس الزخم المغناطيسي تسمى بور مغنيتون (Bohr Magneton). ولتوضيح ذلك نأخذ المثال 5-5."
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 192,
+                            "content": [
+                                {
+                                    "type": "example",
+                                    "example_number": "5-5",
+                                    "title_arabic": "لنفترض أن للمركب (II) المعقد $$[Co(L)_4]^{2-}$$ حيث أن L يمثل ليكند أحادي المخلب. اكتب تهجين هذا المعقد ثم حدد الزخم المغناطيسي:",
+                                    "solution": [
+                                        {
+                                            "step_title_arabic": "الحل:",
+                                            "sub_steps": [
+                                                {
+                                                    "step_name_arabic": "1- الحالة الأولى",
+                                                    "description_arabic": "يكون الترتيب الإلكتروني للغلاف الخارجي لفلز الكوبلت والترتيب الإلكتروني في المعقد كالآتي:",
+                                                    "central_atom_details": [
+                                                        {
+                                                            "species": "Co",
+                                                            "configuration_label": "$$^{27}Co\\\\left[Ar\\\\right]_{18}$$",
+                                                            "orbitals": {
+                                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\,\\,\\uparrow \\,\\,\\uparrow$",
+                                                                "4s": "$\\uparrow \\downarrow$",
+                                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                                            },
+                                                            "notes": "The configuration shown for a free Co atom (3d⁷ 4s²) correctly represents 2 paired and 3 unpaired 3d electrons, and a filled 4s orbital."
+                                                        },
+                                                        {
+                                                            "species": "Co^{2+}",
+                                                            "configuration_label": "$$Co^{2+}\\\\left[Ar\\\\right]_{18}$$",
+                                                            "orbitals": {
+                                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\,\\,\\uparrow \\,\\,\\uparrow$",
+                                                                "4s": "$\\empty$",
+                                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                                            },
+                                                            "notes": "Co²⁺ is 3d⁷. The diagram shows 2 paired and 3 unpaired 3d electrons, which is correct for a high-spin 3d⁷ ion."
+                                                        },
+                                                        {
+                                                            "species": "$$\\\\left[Co(L)_4\\\\right]^{2-}$$",
+                                                            "context_arabic": "يفترض أن L ليكند ضعيف.",
+                                                            "orbitals": {
+                                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\,\\,\\uparrow \\,\\,\\uparrow$",
+                                                                "4s": "$\\overset{L}{\\uparrow \\downarrow}$",
+                                                                "4p": "$\\overset{L}{\\uparrow \\downarrow} \\,\\,\\overset{L}{\\uparrow \\downarrow} \\,\\,\\overset{L}{\\uparrow \\downarrow}$"
+                                                            },
+                                                            "hybridization": "$$sp^3$$",
+                                                            "shape_arabic": "رباعي الأوجه",
+                                                            "shape_english": "(Tetrahedral)",
+                                                            "magnetic_property_arabic": "بارامغناطيسي",
+                                                            "unpaired_electrons": 3,
+                                                            "magnetic_moment": "$$\\mu = \\\\sqrt{3(3+2)} = \\\\sqrt{15} = 3.87 \\,B.M.$$"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "step_name_arabic": "2- الحالة الثانية",
+                                                    "description_arabic": "يكون الترتيب الإلكتروني في المعقد كالآتي:",
+                                                    "central_atom_details": [
+                                                        {
+                                                            "species": "Co^{2+}",
+                                                            "configuration_label": "$$Co^{2+}\\\\left[Ar\\\\right]_{18}$$",
+                                                            "orbitals": {
+                                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\,\\,\\empty$",
+                                                                "4s": "$\\empty$",
+                                                                "4p": "$\\empty \\,\\,\\empty \\,\\,\\empty$"
+                                                            },
+                                                            "notes": "Co²⁺ is 3d⁷. The diagram shows pairing of 3d electrons to form 3 paired and 1 unpaired electron, leaving one empty d-orbital for hybridization. This is consistent with a strong field ligand."
+                                                        },
+                                                        {
+                                                            "species": "$$\\\\left[Co(L)_4\\\\right]^{2-}$$",
+                                                            "context_arabic": "يفترض أن L ليكند قوي.",
+                                                            "orbitals": {
+                                                                "3d": "$\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\,\\,\\uparrow \\downarrow \\quad \\overset{L}{\\uparrow \\downarrow} \\quad \\uparrow$",
+                                                                "4s": "$\\quad \\overset{L}{\\uparrow \\downarrow}$",
+                                                                "4p": "$\\quad \\overset{L}{\\uparrow \\downarrow} \\quad \\overset{L}{\\uparrow \\downarrow} \\quad \\empty$"
+                                                            },
+                                                            "hybridization": "$$dsp^2$$",
+                                                            "shape_arabic": "مربع مستو",
+                                                            "shape_english": "(Square planar)",
+                                                            "magnetic_property_arabic": "بارامغناطيسي",
+                                                            "unpaired_electrons": 1,
+                                                            "magnetic_moment": "$$\\mu = \\\\sqrt{1(1+2)} = \\\\sqrt{3} = 1.73 \\,B.M.$$"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "did_you_know_box",
+                                    "title_arabic": "هل تعلم",
+                                    "content_arabic": "انه يمكن قياس قيمة الزخم المغناطيسي للمعقدات عملياً باستخدام جهاز خاص بذلك يسمى مقياس الزخم المغناطيسي."
+                                },
+                                {
+                                    "type": "exercise",
+                                    "exercise_number": "8-5",
+                                    "title_arabic": "اعتماداً على نظرية آصرة التكافؤ (VBT)، ما نوع التهجين والشكل اللاحوي على وفق هذا الترتيب إن عدد الإلكترونات المنفردة يساوي 3. وعليه الهندسي والصفة المغناطيسية للمعقدين يكون قيمة الزخم المغناطيسي كالآتي:",
+                                    "questions": [
+                                        {
+                                            "complex_formula": "$$\\\\left[Co(H_2O)_6\\\\right]^{2+}$$",
+                                            "description_arabic": "Co(II) هو $$d^7$$. ليكند $$H_2O$$ ضعيف. عدد الإلكترونات المنفردة يساوي 3.",
+                                            "hybridization": "$$sp^3d^2$$",
+                                            "shape_arabic": "ثماني الأوجه",
+                                            "shape_english": "(Octahedral)",
+                                            "magnetic_property_arabic": "بارامغناطيسي",
+                                            "magnetic_moment": "$$\\mu = \\\\sqrt{3(3+2)} = 3.87 \\,B.M.$$"
+                                        },
+                                        {
+                                            "complex_formula": "$$[PdCl_4]^{2-}$$",
+                                            "description_arabic": "Pd(II) هو $$d^8$$ من السلسلة الانتقالية الثانية. ليكند $$Cl^-$$ ضعيف، ولكن للفلزات الثقيلة (السلسلتين الثانية والثالثة) يحدث ازدواج للإلكترونات غالباً حتى مع الليكندات الضعيفة.",
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "shape_english": "(Square planar)",
+                                            "magnetic_property_arabic": "دايامغناطيسي"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 193,
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "نلاحظ وعلى وفق هذا الترتيب ان عدد الالكترونات المنفردة يساوي 1، وعليه يكون قيمة الزخم المغناطيسي كالآتي:",
+                                    "formula": "$$\\mu = \\\\sqrt{1(1+2)} = 1.73 \\,B.M.$$"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "أذن من خلال معرفة الزخم المغناطيسي يمكن معرفة نوع التهجين، ففي حالة هذا المعقد يكون التهجين في الحالة الأولى أي عندما يكون قيمة الزخم المغناطيسي تساوي 3.87 B.M من نوع $$sp^3$$، بينما يكون نوع التهجين عندما تكون قيمة الزخم المغناطيسي 1.73 B.M من نوع $$dsp^2$$."
+                                },
+                                {
+                                    "type": "section_heading",
+                                    "section_number": "8-5",
+                                    "text_arabic": "التصنيف والأشكال الهندسية المتوقعة (للاطلاع)",
+                                    "text_english": "Classification and Predicted Geometries (For Review)"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text_arabic": "عرفنا سابقاً إن العدد التناسقي يمثل عدد الليكندات مضروبة في عدد المخالب المرتبطة مباشرة بالفلز المركزي وان لهذا العدد علاقة بالشكل الهندسي المتوقع للمعقد التناسقي. تتراوح قيم الأعداد التناسقية من 2 الى 9 وأكثرها شيوعاً هي 4 و 6. وسنستعرض الآن أي الأعداد التناسقية من 2 الى 4 في المركبات التناسقية مع ذكر الأشكال الهندسية الأكثر شيوعاً لكل عدد."
+                                },
+                                {
+                                    "type": "subsection",
+                                    "subsection_number": "1",
+                                    "title_arabic": "العدد التناسقي 2",
+                                    "description_arabic": "يعد هذا العدد التناسقي نادراً، والمعقد $$[Ag(NH_3)_2]^+$$ من أحسن الأمثلة التي تعبر عن هذا العدد التناسقي، وكما هو متوقع فإن هذا الأيون المعقد يمتلك التركيب الخطي $$H_3N-Ag-NH_3^+$$، ويكون هذا العدد التناسقي شائعاً في معقدات النحاس (I) والفضة (I) والذهب (I). وكما يتضح في الأمثلة الآتية:",
+                                    "shape_arabic": "خطي",
+                                    "shape_english": "Linear",
+                                    "examples": [
+                                        "$$[NC-Ag-CN]^-$$",
+                                        "$$[Cl-Au-Cl]^-$$",
+                                        "$$[CN-Cu-CN]^-$$"
+                                    ]
+                                },
+                                {
+                                    "type": "subsection",
+                                    "subsection_number": "2",
+                                    "title_arabic": "العدد التناسقي 3",
+                                    "description_arabic": "المعقدات التي تمتلك العدد التناسقي ثلاثة نادرة أيضاً، والأمثلة من $$HgI_3^-$$ والجدول قبله ويعد الأيون المعقد السابق $$[HgI_3]^-$$ من أحسن الأمثلة على ذلك. ويكون شكل الأيون المعقد مثلث مستو (Trigonal Planer).",
+                                    "shape_arabic": "مثلث مستو",
+                                    "shape_english": "(Trigonal Planar)",
+                                    "examples": [
+                                        "$$Ni^{2+}$$",
+                                        "$$Au^{3+}$$",
+                                        "$$Pt^{2+}$$",
+                                        "$$Pd^{2+}$$",
+                                        "$$Cu^{2+}$$"
+                                    ],
+                                    "notes": "The listed examples $$Ni^{2+}$$, $$Au^{3+}$$, $$Pt^{2+}$$, $$Pd^{2+}$$, $$Cu^{2+}$$ are ions, not 3-coordinate complexes. This seems like a listing of metals that can form such complexes, but it is phrased as examples of complexes. The text also mentions a previous table that is not provided."
+                                },
+                                {
+                                    "type": "subsection",
+                                    "subsection_number": "3",
+                                    "title_arabic": "العدد التناسقي 4",
+                                    "description_arabic": "من الأمثلة على المعقدات التناسقية ذات الشكل رباعي الأوجه منتظم (Tetrahedral) هي $$[NiCl_4]^{2-}$$ و $$[FeCl_4]^{2-}$$. أما المعقدات ذات الشكل مربع مستو (Square Planar) هي $$[Ni(CN)_4]^{2-}$$, $$[PtCl_4]^{2-}$$, $$[Pd(CN)_4]^{2-}$$, $$[CoBr_4]^{2-}$$.",
+                                    "examples_tetrahedral": [
+                                        "$$[NiCl_4]^{2-}$$",
+                                        "$$[FeCl_4]^{2-}$$"
+                                    ],
+                                    "examples_square_planar": [
+                                        "$$[Ni(CN)_4]^{2-}$$",
+                                        "$$[PtCl_4]^{2-}$$",
+                                        "$$[Pd(CN)_4]^{2-}$$",
+                                        "$$[CoBr_4]^{2-}$$"
+                                    ],
+                                    "notes": "There is a contradiction here: $$[NiCl_4]^{2-}$$ was stated as diamagnetic on page 1, but the general description for tetrahedral $$sp^3$$ complexes mentions paramagnetism. Also, $$[FeCl_6]^{3-}$$ is listed on the page in this context, but it is a 6-coordinate complex, not 4-coordinate. This example is likely misplaced."
+                                },
+                                {
+                                    "type": "subsection",
+                                    "subsection_number": "4",
+                                    "title_arabic": "العدد التناسقي 5",
+                                    "description_arabic": "من أكثر الأعداد التناسقية شيوعاً ويكون للمعقدات التناسقية من هذا النوع أهمية كبيرة في الكيمياء التناسقية، حيث تترتب الأعداد حول ذرة الفلز المركزية بشكل ينتج عنه معقد تناسقي بشكل رباعي الأوجه منتظم (Tetrahedral) أو مربع مستو (Square Planar). ومن الأمثلة على المعقدات التناسقية ذات الشكل رباعي الاوجه منتظم هي:",
+                                    "notes": "The description for coordination number 5 incorrectly mentions tetrahedral/square planar geometry which are characteristic of CN=4, not CN=5. Typical geometries for CN=5 are trigonal bipyramidal or square pyramidal. The listed examples are also a mix of 4-coordinate and 6-coordinate complexes, not 5-coordinate.",
+                                    "examples": [
+                                        "$$[Ni(CO)_4]$$",
+                                        "$$[PtCl_4]^{2-}$$",
+                                        "$$[FeCl_6]^{3-}$$",
+                                        "$$[CoBr_4]^{2-}$$",
+                                        "$$[FeCl_4]^{2-}$$",
+                                        "$$[Pd(CN)_4]^{2-}$$"
+                                    ]
+                                },
+                                {
+                                    "type": "subsection",
+                                    "subsection_number": "6",
+                                    "title_arabic": "العدد التناسقي 6",
+                                    "description_arabic": "هذا هو العدد التناسقي الأكثر شيوعاً، ومعظم هذه المعقدات تكون ثمانية الأوجه (Octahedral) بتهجين $$d^2sp^3$$ أو $$sp^3d^2$$.",
+                                    "examples": [
+                                        "$$[Co(NH_3)_6]^{3+}$$",
+                                        "$$[Fe(CN)_6]^{4-}$$",
+                                        "$$[Fe(H_2O)_6]^{2+}$$",
+                                        "$$[Ni(H_2O)_6]^{2+}$$",
+                                        "$$[Cr(en)_3]^{3+}$$",
+                                        "$$[FeCl_6]^{3-}$$"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 194,
+                            "content": [
+                                {
+                                    "type": "chapter_questions_heading",
+                                    "text_arabic": "أسئلة الفصل الخامس"
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "5-1",
+                                    "text_arabic": "ما الذي يميز العناصر الانتقالية عن العناصر الممثلة؟"
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "5-2",
+                                    "text_arabic": "ماهو الفرق بين الأملاح المزدوجة والمركبات المعقدة ؟"
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "5-3",
+                                    "text_arabic": "عند مزج محلول $$FeSO_4$$ مع محلول $$(NH_4)_2SO_4$$ بنسبة مولية 1:1 فان المحلول الناتج يعطي كشفاً لايون $$Fe^{2+}$$, بينما عند مزج محلول $$CuSO_4$$ مع محلول الامونيا بنسبة مولية 1:1 فان المحلول الناتج لا يعطي كشفاً لايون $$Cu^{2+}$$. وضح ذلك ؟"
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "5-4",
+                                    "text_arabic": "عرف العدد الذري الفعال، ثم احسب قيمته لكل من المعقدات الآتية:",
+                                    "complexes": [
+                                        {
+                                            "formula": "$$[PtCl_6]^{2-}$$",
+                                            "calculated_ean": 86
+                                        },
+                                        {
+                                            "formula": "$$[FeCl_6]^{3-}$$",
+                                            "calculated_ean": 35
+                                        },
+                                        {
+                                            "formula": "$$[Cr(NH_3)_6]^{3+}$$",
+                                            "calculated_ean": 33
+                                        },
+                                        {
+                                            "formula": "$$[Ag(NH_3)_2]^+}$$",
+                                            "calculated_ean": 50
+                                        },
+                                        {
+                                            "formula": "$$[Cr(CO)_6]$$",
+                                            "calculated_ean": 36
+                                        }
+                                    ],
+                                    "given_answers": "(2) 86 ; (3) 35 ; (4) 33 ; (5) 50",
+                                    "notes": "The given answers list values corresponding to complexes starting from the second one, $$[FeCl_6]^{3-}$$. The first complex $$[PtCl_6]^{2-}$$ (EAN=86) is implicitly the first answer in the sequence but not explicitly numbered as (1). The answers for (2), (3), (4), (5) are correct in value."
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "5-5",
+                                    "text_arabic": "ما العدد التأكسدي (التكافؤ الأولي) للحديد في المركبات الآتية:",
+                                    "complexes": [
+                                        {
+                                            "formula": "$$[Fe(CO)_5]$$",
+                                            "calculated_oxidation_state": 0
+                                        },
+                                        {
+                                            "formula": "$$K_4[Fe(C_2O_4)_3]$$",
+                                            "calculated_oxidation_state": 2
+                                        },
+                                        {
+                                            "formula": "$$K_4[Fe(CN)_6]$$",
+                                            "calculated_oxidation_state": 2
+                                        },
+                                        {
+                                            "formula": "$$[Fe(H_2O)_5(NO)]SO_4$$",
+                                            "calculated_oxidation_state": 1
+                                        }
+                                    ],
+                                    "given_answers": "(0) ; (+2) ; (+3) ; (+3) ; (+4)",
+                                    "notes": "The number of given answers (5) does not match the number of complexes (4). Also, some of the given answers (+3, +4) do not correspond to the calculated oxidation states for the listed complexes. The first two answers (0, +2) match the first two complexes."
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "6-5",
+                                    "text_arabic": "سم المركبات المعقدة الآتية :",
+                                    "complexes_to_name": [
+                                        {
+                                            "formula": "$$[Fe(H_2O)_5(NO)]^{2-}$$",
+                                            "name_iupac": "Pentahydronitrosylferrate(I) ion",
+                                            "notes": "Assuming the complex is based on Fe(I) (a common oxidation state for nitrosyl complexes) with NO as NO⁺, leading to an overall charge of -2 if Fe is (I). If it refers to $$[Fe(H_2O)_5(NO)]SO_4$$ from question 5-5, then it is Pentahydronitrosyliron(I) sulfate, with a charge of +2 on the complex ion."
+                                        },
+                                        {
+                                            "formula": "$$Na_2[Fe(CN)_5(NO)]$$",
+                                            "name_iupac": "Sodium pentacyanonitrosylferrate(II)",
+                                            "notes": "Calculated Fe oxidation state is +2, not +3."
+                                        },
+                                        {
+                                            "formula": "$$K_3[Co(N_3)_6]$$",
+                                            "name_iupac": "Potassium hexaazidocobaltate(III)"
+                                        },
+                                        {
+                                            "formula": "$$K_2[Ni(CN)_4]$$",
+                                            "name_iupac": "Potassium tetracyanonickelate(II)"
+                                        },
+                                        {
+                                            "formula": "$$[Cr(H_2O)_4Cl_2]^+}$$",
+                                            "name_iupac": "Tetraaquadichlorochromium(III) ion"
+                                        },
+                                        {
+                                            "formula": "$$[Ni(en)_3]Cl_2$$",
+                                            "name_iupac": "Tris(ethylenediamine)nickel(II) chloride"
+                                        },
+                                        {
+                                            "formula": "$$[Co(NO_2)_3(NH_3)_3]$$",
+                                            "name_iupac": "Triamminetrinitrocobalt(III)"
+                                        },
+                                        {
+                                            "formula": "$$K_2[PtCl_6]$$",
+                                            "name_iupac": "Potassium hexachloroplatinate(IV)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 195,
+                            "content": [
+                                {
+                                    "type": "question",
+                                    "question_number": "7-5",
+                                    "text_arabic": "اكتب الصيغ التركيبية للمركبات التناسقية الآتية :",
+                                    "compounds_to_formula": [
+                                        {
+                                            "name_arabic": "نترات ترس (إثيلين ثنائي أمين) كوبلت (III)",
+                                            "formula": "$$[Co(en)_3](NO_3)_3$$"
+                                        },
+                                        {
+                                            "name_arabic": "رباعي سيانونيكلات (0) بوتاسيوم",
+                                            "formula": "$$K_4[Ni(CN)_4]$$",
+                                            "notes": "Ni(0) is rare for square planar, but possible if CN⁻ is considered a strong field ligand. It implies a 4- charge on the complex ion to balance 4K⁺."
+                                        },
+                                        {
+                                            "name_arabic": "أيون أكوا بس أو كزالو كروماث (III)",
+                                            "formula": "ambiguous",
+                                            "notes": "The name 'أيون أكوا بس أو كزالو كروماث (III)' is highly ambiguous. 'بس' (bis) or 'أوكزالو كروماث' (oxalatochromate) with 'أكوا' (aqua) for Chromium(III) suggests a complex like bis(oxalato)diaquochromate(III) ion, e.g., $$[Cr(C_2O_4)_2(H_2O)_2]^-$$ or similar. A precise formula cannot be determined without clearer naming conventions."
+                                        },
+                                        {
+                                            "name_arabic": "رباعي كلوروبلاتينات (II) بوتاسيوم",
+                                            "formula": "$$K_2[PtCl_4]$$"
+                                        },
+                                        {
+                                            "name_arabic": "رباعي كلورومنجنات (II) بوتاسيوم",
+                                            "formula": "$$K_2[MnCl_4]$$"
+                                        },
+                                        {
+                                            "name_arabic": "كلوريد سداسي أكوا تيتانيوم (III)",
+                                            "formula": "$$[Ti(H_2O)_6]Cl_3$$"
+                                        },
+                                        {
+                                            "name_arabic": "رباعي كاربونيل نيكل (0)",
+                                            "formula": "$$[Ni(CO)_4]$$"
+                                        },
+                                        {
+                                            "name_arabic": "أيون (ايثيلين ثنائي أمين) رباعي يودو كرومات (III)",
+                                            "formula": "$$[Cr(en)_2I_4]^-$$",
+                                            "notes": "The name is ambiguous. Assuming 'ايثيلين ثنائي أمين' for bis(ethylenediamine) and 'رباعي يودو' for tetraiodo ligands. For Cr(III) with 2 'en' (neutral) and 4 'I⁻' ligands, the charge would be +3 - 4 = -1. So the complex ion is $$[Cr(en)_2I_4]^-$$ with coordination number 6."
+                                        },
+                                        {
+                                            "name_arabic": "كلوريد ثلاثي أمين ثنائي الامين الكوبلت (III)",
+                                            "formula": "$$[Co(en)(NH_3)_3Cl]Cl_2$$",
+                                            "notes": "The name 'كلوريد ثلاثي أمين ثنائي الامين الكوبلت (III)' is syntactically problematic. Assuming 'ثلاثي أمين' means three ammine ligands ($$NH_3$$) and 'ثنائي الامين' for one ethylenediamine ($$en$$) ligand, and one chloro ligand, the complex ion would be $$[Co(en)(NH_3)_3Cl]^{2+}$$ for Cobalt(III). Hence, chloride counter-ion $$Cl_2$$ is needed."
+                                        },
+                                        {
+                                            "name_arabic": "أيون رباعي أمين نحاس (II)",
+                                            "formula": "$$[Cu(NH_3)_4]^{2+}$$"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "8-5",
+                                    "text_arabic": "إذا كانت لديك المركبات التناسقية الثلاثة الآتية : $$[Cr(H_2O)_6]Cl_3$$, $$[Cr(H_2O)_5Cl]Cl_2.H_2O$$, $$[Cr(H_2O)_4Cl_2]Cl.2H_2O$$.",
+                                    "sub_questions": [
+                                        {
+                                            "letter": "أ",
+                                            "text_arabic": "ما العدد التأكسدي (التكافؤ الأولي) للكروم في كل مركب ؟",
+                                            "answer": "$$[Cr(H_2O)_6]Cl_3: +3$$; $$[Cr(H_2O)_5Cl]Cl_2.H_2O: +3$$; $$[Cr(H_2O)_4Cl_2]Cl.2H_2O: +3$$"
+                                        },
+                                        {
+                                            "letter": "ب",
+                                            "text_arabic": "ما العدد التناسقي للكروم في كل مركب ؟",
+                                            "answer": "$$[Cr(H_2O)_6]Cl_3: 6$$; $$[Cr(H_2O)_5Cl]Cl_2.H_2O: 6$$; $$[Cr(H_2O)_4Cl_2]Cl.2H_2O: 6$$"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "9-5",
+                                    "text_arabic": "اختر الإجابة الصحيحة في كل مما يأتي :",
+                                    "multiple_choice_questions": [
+                                        {
+                                            "question_number": "1",
+                                            "text_arabic": "إن العدد التأكسدي (التكافؤ الأولي) للكروم في الأيون المعقد $$[Cr(H_2O)_4Cl_2]^+}$$ هو :",
+                                            "options_arabic": [
+                                                "أ- 1",
+                                                "ب- 3",
+                                                "ج- 6",
+                                                "د- 5"
+                                            ],
+                                            "correct_option_arabic": "ب- 3"
+                                        },
+                                        {
+                                            "question_number": "2",
+                                            "text_arabic": "إن الصيغة التركيبية للمركب كبريتات نحاس (II) (يوريا) $$Cu(NH_2CONH_2)_2Cl_2$$ هي :",
+                                            "options_arabic": [
+                                                "أ- $$[Cu(NH_2CONH_2)_2(H_2O)_2]Cl_2$$",
+                                                "ب- $$[Cu(NH_2CONH_2)_2Cl_2]$$",
+                                                "ج- $$[Cu(NH_2CONH_2)_2(CO)]Cl_2$$",
+                                                "د- جميع الإجابات السابقة خطأ"
+                                            ],
+                                            "correct_option_arabic": "ب- $$[Cu(NH_2CONH_2)_2Cl_2]$$"
+                                        },
+                                        {
+                                            "question_number": "3",
+                                            "text_arabic": "إن اسم المركب $$[Pt(NH_3)_3Br(NO_2)Cl]Cl$$ على وفق نظام الـ IUPAC هو :",
+                                            "options_arabic": [
+                                                "أ- كلوريد ثلاثي أمين كلورو برومو نايترو بلاتين (IV).",
+                                                "ب- كلوريد ثلاثي أمين برومو كلورو نايترو بلاتين (IV).",
+                                                "ج- كلوريد ثلاثي أمين نايترو كلورو برومو بلاتين (IV).",
+                                                "د- كلوريد ثلاثي أمين نايترو برومو كلورو بلاتين (IV)."
+                                            ],
+                                            "correct_option_arabic": "ب- كلوريد ثلاثي أمين برومو كلورو نايترو بلاتين (IV).",
+                                            "notes": "The correct order for naming ligands alphabetically (bromo, chloro, nitrito/nitro, ammine) is crucial. 'triamminebromochloronitroplatinum(IV) chloride' is the correct IUPAC name for the complex. Option 'ب' corresponds to 'triamminebromochloronitroplatinum(IV) chloride'."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "page_number": 196,
+                            "content": [
+                                {
+                                    "type": "question",
+                                    "question_number": "10-5",
+                                    "text_arabic": "اعتماداً على نظرية آصرة التكافؤ (VBT)، أجب عن الأسئلة التالية لكل من المركبات التناسقية الآتية : $$[Co(CN)_6]^{4-}$$ ; $$[PtCl_4]^{2-}$$ ; $$[Pd(CN)_4]^{2-}$$ ; $$[Ni(dmg)_2]$$ ; $$[CoCl_4]^{2-}$$ ; $$[ZnCl_4]^{2-}$$.",
+                                    "sub_questions_type": "list",
+                                    "sub_questions": [
+                                        {
+                                            "letter": "أ",
+                                            "text_arabic": "ما نوع التهجين للذرة المركزية ؟"
+                                        },
+                                        {
+                                            "letter": "ب",
+                                            "text_arabic": "ما الشكل الهندسي للمعقد ؟"
+                                        },
+                                        {
+                                            "letter": "ج",
+                                            "text_arabic": "ما الصفة المغناطيسية للمعقد ؟ ولماذا ؟"
+                                        }
+                                    ],
+                                    "complex_analysis": [
+                                        {
+                                            "complex_formula": "$$[Co(CN)_6]^{4-}$$",
+                                            "central_atom_oxidation_state": "Co(II)",
+                                            "electronic_configuration": "3d⁷",
+                                            "ligand_type": "strong field (CN⁻)",
+                                            "hybridization": "$$d^2sp^3$$",
+                                            "shape_arabic": "ثماني الأوجه",
+                                            "shape_english": "Octahedral",
+                                            "magnetic_property_arabic": "بارامغناطيسي",
+                                            "magnetic_property_reason_arabic": "وجود إلكترون منفرد واحد (بعد ازدواج الإلكترونات في المدار d)."
+                                        },
+                                        {
+                                            "complex_formula": "$$[PtCl_4]^{2-}$$",
+                                            "central_atom_oxidation_state": "Pt(II)",
+                                            "electronic_configuration": "5d⁸",
+                                            "ligand_type": "weak field (Cl⁻) but for 2nd/3rd row metals, strong field behavior is common",
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "shape_english": "Square planar",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "magnetic_property_reason_arabic": "عدم وجود إلكترونات منفردة (نتيجة ازدواج الإلكترونات في المدار d)."
+                                        },
+                                        {
+                                            "complex_formula": "$$[Pd(CN)_4]^{2-}$$",
+                                            "central_atom_oxidation_state": "Pd(II)",
+                                            "electronic_configuration": "4d⁸",
+                                            "ligand_type": "strong field (CN⁻)",
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "shape_english": "Square planar",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "magnetic_property_reason_arabic": "عدم وجود إلكترونات منفردة (نتيجة ازدواج الإلكترونات في المدار d)."
+                                        },
+                                        {
+                                            "complex_formula": "$$[Ni(dmg)_2]$$",
+                                            "central_atom_oxidation_state": "Ni(II)",
+                                            "electronic_configuration": "3d⁸",
+                                            "ligand_type": "strong field (dmg)",
+                                            "hybridization": "$$dsp^2$$",
+                                            "shape_arabic": "مربع مستو",
+                                            "shape_english": "Square planar",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "magnetic_property_reason_arabic": "عدم وجود إلكترونات منفردة (نتيجة ازدواج الإلكترونات في المدار d)."
+                                        },
+                                        {
+                                            "complex_formula": "$$[CoCl_4]^{2-}$$",
+                                            "central_atom_oxidation_state": "Co(II)",
+                                            "electronic_configuration": "3d⁷",
+                                            "ligand_type": "weak field (Cl⁻)",
+                                            "hybridization": "$$sp^3$$",
+                                            "shape_arabic": "رباعي الأوجه",
+                                            "shape_english": "Tetrahedral",
+                                            "magnetic_property_arabic": "بارامغناطيسي",
+                                            "magnetic_property_reason_arabic": "وجود ثلاثة إلكترونات منفردة."
+                                        },
+                                        {
+                                            "complex_formula": "$$[ZnCl_4]^{2-}$$",
+                                            "central_atom_oxidation_state": "Zn(II)",
+                                            "electronic_configuration": "3d¹⁰",
+                                            "ligand_type": "fully filled d-orbital",
+                                            "hybridization": "$$sp^3$$",
+                                            "shape_arabic": "رباعي الأوجه",
+                                            "shape_english": "Tetrahedral",
+                                            "magnetic_property_arabic": "دايامغناطيسي",
+                                            "magnetic_property_reason_arabic": "عدم وجود إلكترونات منفردة (المجال d ممتلئ)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "11-5",
+                                    "text_arabic": "اعتماداً على نظرية آصرة التكافؤ (VBT)، ما هو عدد الإلكترونات المنفردة للمركبات التناسقية التالية، وما قيمة ($$\\mu$$) لكل منها ؟",
+                                    "complex_analysis": [
+                                        {
+                                            "complex_formula": "$$[Ni(H_2O)_6]^{2+}$$",
+                                            "central_atom_oxidation_state": "Ni(II)",
+                                            "electronic_configuration": "3d⁸",
+                                            "ligand_type": "weak field (H₂O)",
+                                            "unpaired_electrons": 2,
+                                            "magnetic_moment": "$$\\mu = \\\\sqrt{2(2+2)} = \\\\sqrt{8} \\approx 2.83 \\,B.M.$$"
+                                        },
+                                        {
+                                            "complex_formula": "$$[Ni(NH_3)_6]^{2+}$$",
+                                            "central_atom_oxidation_state": "Ni(II)",
+                                            "electronic_configuration": "3d⁸",
+                                            "ligand_type": "strong field (NH₃) (but typically 2 unpaired for octahedral Ni(II))",
+                                            "unpaired_electrons": 2,
+                                            "magnetic_moment": "$$\\mu = \\\\sqrt{2(2+2)} = \\\\sqrt{8} \\approx 2.83 \\,B.M.$$"
+                                        },
+                                        {
+                                            "complex_formula": "$$[Ni(H_2O)_4]^{2+}$$",
+                                            "central_atom_oxidation_state": "Ni(II)",
+                                            "electronic_configuration": "3d⁸",
+                                            "ligand_type": "weak field (H₂O)",
+                                            "unpaired_electrons": 2,
+                                            "magnetic_moment": "$$\\mu = \\\\sqrt{2(2+2)} = \\\\sqrt{8} \\approx 2.83 \\,B.M.$$"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "12-5",
+                                    "text_arabic": "لنفترض ان للنيكل II في المعقد الايوني $$[NiL_4]^{2-}$$ حيث يمثل ليكند احادي المخلب جد:",
+                                    "sub_questions": [
+                                        {
+                                            "question_number": "1",
+                                            "text_arabic": "شحنة الليكند L.",
+                                            "answer": "$$L^-$$ (شحنة سالبة 1)",
+                                            "calculation": "Ni(II) = +2. For $$[NiL_4]^{2-}$$, charge is -2. So +2 + 4(charge of L) = -2 => 4(charge of L) = -4 => charge of L = -1."
+                                        },
+                                        {
+                                            "question_number": "2",
+                                            "text_arabic": "التهجين للذرة المركزية في المعقد الايوني.",
+                                            "answer": "لا يمكن التحديد بدون معرفة قوة مجال الليكند L. إذا كان L مجالاً قوياً، فالتهجين يكون $$dsp^2$$. إذا كان L مجالاً ضعيفاً، فالتهجين يكون $$sp^3$$."
+                                        },
+                                        {
+                                            "question_number": "3",
+                                            "text_arabic": "الزخم المغناطيسي ($$\\mu$$).",
+                                            "answer": "لا يمكن التحديد بدون معرفة قوة مجال الليكند L. إذا كان التهجين $$dsp^2$$ (L قوي)، فسيكون عدد الإلكترونات المنفردة 0 (دايامغناطيسي)، وبالتالي $$\\mu = 0$$. إذا كان التهجين $$sp^3$$ (L ضعيف)، فسيكون عدد الإلكترونات المنفردة 2 (بارامغناطيسي) ($$Ni^{2+}$$ هو $$d^8$$)، وبالتالي $$\\mu = \\\\sqrt{2(2+2)} = 2.83 \\,B.M.$$"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "question",
+                                    "question_number": "13-5",
+                                    "text_arabic": "عرف المصطلحات الآتية :",
+                                    "terms_to_define": [
+                                        {
+                                            "term_arabic": "المركب التناسقي",
+                                            "definition_hint": "مركب يتكون من أيون فلزي مركزي مرتبط بعدد من الليكندات."
+                                        },
+                                        {
+                                            "term_arabic": "ليكند",
+                                            "definition_hint": "ذرة أو أيون أو جزيء قادر على التبرع بزوج من الإلكترونات إلى ذرة فلزية مركزية."
+                                        },
+                                        {
+                                            "term_arabic": "ذرة مانحة",
+                                            "definition_hint": "الذرة في الليكند التي تتبرع بزوج الإلكترونات إلى الفلز المركزي."
+                                        },
+                                        {
+                                            "term_arabic": "عدد التناسق",
+                                            "definition_hint": "عدد الروابط المكونة بين ذرة الفلز المركزي والليكندات."
+                                        },
+                                        {
+                                            "term_arabic": "ليكندات أحادية المخلب",
+                                            "definition_hint": "ليكندات ترتبط بذرة الفلز المركزي عبر ذرة مانحة واحدة فقط."
+                                        },
+                                        {
+                                            "term_arabic": "ليكندات ثنائية المخلب",
+                                            "definition_hint": "ليكندات ترتبط بذرة الفلز المركزي عبر ذرتين مانحتين."
+                                        },
+                                        {
+                                            "term_arabic": "ليكندات عديدة المخلب (كلابية)",
+                                            "definition_hint": "ليكندات ترتبط بذرة الفلز المركزي عبر أكثر من ذرتين مانحتين، مكونة حلقة كلابية."
+                                        }
+                                    ],
+                                    "notes": "The requested terms were 'المركب التناسقي', 'ليكند', 'ذرة مانحة', 'عدد التناسق', 'ليكندات كلبية'. I've also inferred 'ليكندات مخلبية' (polydentate) from the context of 'bidentate' in the initial instruction and the general terms. I have provided general definitions for these terms."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "pages": "49-72",
+    "description": "Activity book for sixth grade preparatory students covering careers, conditional sentences, reported speech, and language skills"
+  },
+  "sections": [
+    {
+      "id": "careers_matching",
+      "title": "Careers and Duties",
+      "definition": "Matching careers with their corresponding duties and responsibilities.",
+      "explanation": "Different careers have specific duties. Match each job with what the person in that job does.",
+      "rules": null,
+      "notes": "Jobs include: architect, cameraman, engineer, flight attendant, journalist, lawyer, lifeguard, pilot, plumber, surgeon, secretary, tour guide",
+      "examples": [
+        {
+          "problem": "What does a pilot do?",
+          "solution": "A pilot flies a plane."
+        },
+        {
+          "problem": "What does a surgeon do?",
+          "solution": "A surgeon operates on people in hospital."
+        }
+      ]
+    },
+    {
+      "id": "word_web",
+      "title": "Word Web - Vocabulary Learning Strategy",
+      "definition": "A good way to learn new words is to make a word web.",
+      "explanation": "Choose a topic you like. Write it in the middle of a big piece of paper. Write words in English or in your language as they come into your head. Use a dictionary if necessary.",
+      "rules": null,
+      "notes": "Example: Word web based on the word 'jobs' - add related words like: salary, office, uniform, qualifications, experience",
+      "examples": null
+    },
+    {
+      "id": "first_conditional",
+      "title": "Lesson 2: First Conditional",
+      "definition": "The first conditional is used to talk about possible situations in the present or future and their results.",
+      "explanation": "We usually have the present simple in the if clause. In the main clause, we can use will/won't, present continuous with future reference, going to, can, might, should, or an imperative.",
+      "rules": "Structure: If + present simple, main clause (will/won't/can/might/should/imperative). Unless means 'if not'. Can use present continuous in if clause for prolonged actions.",
+      "notes": "If it's raining tomorrow, we won't go for a picnic. If you get here early, we can work together. I'll be home around four, unless there's an emergency.",
+      "examples": [
+        {
+          "problem": "If I (not pass) the high school exam this year, I (take) it again next year.",
+          "solution": "If I don't pass the high school exam this year, I'll take it again next year."
+        },
+        {
+          "problem": "If anyone (need) advice about their application forms, I (be) here tomorrow to help.",
+          "solution": "If anyone needs advice about their application forms, I'll be here tomorrow to help."
+        }
+      ]
+    },
+    {
+      "id": "second_conditional",
+      "title": "Lesson 3: Second Conditional",
+      "definition": "The second conditional is used to talk about unreal or imaginary situations in the present or future.",
+      "explanation": "Use past simple in the if clause and would + infinitive in the main clause.",
+      "rules": "Structure: If + past simple, would + infinitive. Can also use could or might in the main clause.",
+      "notes": "If I had lots of money, I would buy a racehorse.",
+      "examples": [
+        {
+          "problem": "I (not have) to spend so long on my homework if I (have) a computer of my own.",
+          "solution": "I wouldn't have to spend so long on my homework if I had a computer of my own."
+        },
+        {
+          "problem": "Where (you choose) to live if you (can) live anywhere in the world?",
+          "solution": "Where would you choose to live if you could live anywhere in the world?"
+        }
+      ]
+    },
+    {
+      "id": "reported_speech",
+      "title": "Lesson 4: Reported Speech",
+      "definition": "Reported speech is used when the speaker is conveying a message from someone else.",
+      "explanation": "In reported statements and negative sentences, we often move the verb one tense to the past. In reported questions, we do not use the question form of the verb.",
+      "rules": "Statements: change tenses (present to past, past to past perfect). Questions: use if/whether for Yes/No questions, keep question word for Wh- questions but use statement word order. Time/place references change (here → there, tomorrow → the next day).",
+      "notes": "Reporting verbs: suggest, advise, promise, agree, refuse",
+      "examples": [
+        {
+          "problem": "Zaha said: 'It has been my dream since childhood.'",
+          "solution": "Zaha said that it had been her dream since childhood."
+        },
+        {
+          "problem": "Interviewer asked: 'When did you decide to be an architect?'",
+          "solution": "The interviewer asked Zaha when she had decided to be an architect."
+        }
+      ]
+    },
+    {
+      "id": "regrets_wish",
+      "title": "Lesson 5: Regrets - I wish / If only",
+      "definition": "We use If only or I wish + past perfect to express regret about the past.",
+      "explanation": "Use past perfect to talk about things that happened in the past that you wish had been different.",
+      "rules": "Structure: I wish + past perfect. If only + past perfect. Meaning: I regret that this happened or didn't happen.",
+      "notes": "I wish I hadn't gone to bed so late. If only you had told me about your problem.",
+      "examples": [
+        {
+          "problem": "Unfortunately, I ate three bars of chocolate. That's why I felt sick.",
+          "solution": "If only I hadn't eaten three bars of chocolate."
+        },
+        {
+          "problem": "Unfortunately, he fell over during the race. That's why he didn't win.",
+          "solution": "I wish he hadn't fallen over during the race."
+        }
+      ]
+    },
+    {
+      "id": "third_conditional",
+      "title": "Lesson 6: Third Conditional",
+      "definition": "The third conditional is used to talk about unreal situations in the past - things that did not happen and their imagined results.",
+      "explanation": "Use past perfect in the if clause and would have + past participle in the main clause.",
+      "rules": "Structure: If + past perfect, would have + past participle. Can also use could have or might have.",
+      "notes": "If I had known about her problems, I would have lent her some money.",
+      "examples": [
+        {
+          "problem": "If we (leave) a little earlier, we wouldn't have missed the bus.",
+          "solution": "If we had left a little earlier, we wouldn't have missed the bus."
+        },
+        {
+          "problem": "We (not eat) at that restaurant if we had known it was so expensive.",
+          "solution": "We wouldn't have eaten at that restaurant if we had known it was so expensive."
+        }
+      ]
+    },
+    {
+      "id": "accommodation_vocabulary",
+      "title": "Lesson 7: Accommodation Forms",
+      "definition": "Vocabulary for completing accommodation and application forms.",
+      "explanation": "Common terms: dietary requirements, medical condition, allergies, smoking permit, details.",
+      "rules": null,
+      "notes": "Form fields: Title, First name, Family name, Date of birth, Gender, Special dietary requirements, Medical condition, Allergies, Smoking",
+      "examples": [
+        {
+          "problem": "What information do you give about special food needs?",
+          "solution": "Dietary requirements"
+        }
+      ]
+    },
+    {
+      "id": "adjectives_from_nouns",
+      "title": "Lesson 7: Adjectives from Nouns",
+      "definition": "Forming adjectives from nouns by adding suffixes.",
+      "explanation": "Add suffixes like -ed, -ial, -able, -ive, -ous, -ful to nouns to form adjectives.",
+      "rules": "qualification → qualified, residence → residential, comfort → comfortable, experience → experienced, tailor → tailored, friend → friendly",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "All our teachers and other staff members are _____ (qualification).",
+          "solution": "qualified"
+        },
+        {
+          "problem": "All our staff members are really _____ (friend).",
+          "solution": "friendly"
+        }
+      ]
+    },
+    {
+      "id": "email_writing_summer_course",
+      "title": "Lesson 8: Writing an Email about Summer Course",
+      "definition": "Writing an email to a friend inviting them to join an English course abroad.",
+      "explanation": "Include: duration, location preferences, accommodation choices, costs, reasons for preferences.",
+      "rules": "Email structure: Greeting, reason for writing, details about course (duration, location, accommodation), personal preferences with reasons, invitation, closing.",
+      "notes": "Key phrases: 'I was wondering if you would like to join me', 'Personally, I would prefer', 'I am open to your suggestions', 'I definitely think it will be worth it'",
+      "examples": null
+    },
+    {
+      "id": "conference_interpreter",
+      "title": "Lesson 9: Conference Interpreter - Careers Focus",
+      "definition": "Reading about the career of a conference interpreter, focusing on Samira's experience.",
+      "explanation": "Interpreters need to be well-informed, know technical terms, and convey meaning rather than literal translation.",
+      "rules": null,
+      "notes": "Key terms: conference interpreter, diploma, postgraduate, stressful, technical terms, literal translation",
+      "examples": [
+        {
+          "problem": "Why do interpreters need to read about the subject beforehand?",
+          "solution": "So they know the technical terms of the field and can translate accurately."
+        },
+        {
+          "problem": "How did Samira translate the phrase 'Akl il-inab habba habba'?",
+          "solution": "She conveyed the meaning rather than doing a literal translation."
+        }
+      ]
+    },
+    {
+      "id": "revision_conditional_forms",
+      "title": "Revision: Conditional Sentences",
+      "definition": "Review of first, second, and third conditional structures.",
+      "explanation": "First conditional: real possibility. Second conditional: unreal present/future. Third conditional: unreal past.",
+      "rules": "First: if + present, will + infinitive. Second: if + past, would + infinitive. Third: if + past perfect, would have + past participle.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "If people don't get / doesn't get enough rest, they feel / feels tired.",
+          "solution": "If people don't get enough rest, they feel tired."
+        },
+        {
+          "problem": "If you had remembered to set your alarm, you (not wake) up so late.",
+          "solution": "If you had remembered to set your alarm, you wouldn't have woken up so late."
+        }
+      ]
+    },
+    {
+      "id": "revision_reported_speech",
+      "title": "Revision: Reported Speech",
+      "definition": "Review of converting direct speech to reported speech.",
+      "explanation": "Change tenses, pronouns, time references, and word order appropriately.",
+      "rules": "Statements: change tense back. Questions: use statement word order, use if/whether for yes/no questions.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "My mother told me: 'I will buy you my birthday present the next day.'",
+          "solution": "My mother told me she would buy me my birthday present the next day."
+        },
+        {
+          "problem": "The teacher asked me: 'What are you doing?'",
+          "solution": "The teacher asked me what I was doing."
+        }
+      ]
+    },
+    {
+      "id": "revision_wish_regrets",
+      "title": "Revision: I wish / If only",
+      "definition": "Review of expressing regrets about the past.",
+      "explanation": "Use past perfect after I wish or If only to express regret about something that happened or didn't happen.",
+      "rules": "I wish + past perfect. If only + past perfect.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "I forgot Muna's birthday, and now she's mad at me.",
+          "solution": "I wish I hadn't forgotten Muna's birthday because now she's mad at me."
+        },
+        {
+          "problem": "I didn't save enough money to buy the sneakers I want.",
+          "solution": "If only I had saved enough money to buy the sneakers I want."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary_revision",
+      "title": "Vocabulary Revision",
+      "definition": "Review of careers and related vocabulary.",
+      "explanation": "Complete sentences with correct job titles and vocabulary words.",
+      "rules": null,
+      "notes": "Key vocabulary: secretary, pilot, lifeguard, architect, tour guide, journalist, technology, research, highly qualified, needs, canteen, application, limit, interpreter",
+      "examples": [
+        {
+          "problem": "Salwa works with the director. She writes letters and answers the telephone. She is his _____",
+          "solution": "secretary"
+        },
+        {
+          "problem": "Captain Yousouf flies planes from Europe to the Gulf. He is a _____",
+          "solution": "pilot"
+        }
+      ]
+    },
+    {
+      "id": "writing_advantages_study_britain",
+      "title": "Writing Assignment: Advantages of Studying English in Britain",
+      "definition": "Write 100-120 words on the advantages of studying English in Britain.",
+      "explanation": "Consider: hearing English all day, opportunities to practise speaking, staying with British family, watching TV and films in English, reading newspapers, observing British way of life.",
+      "rules": "Essay should be 100-120 words. Include multiple advantages of immersion learning.",
+      "notes": "Key points: immersion in English environment, authentic language exposure, cultural experience, conversation practice with native speakers",
+      "examples": null
+    }
+  ]
+}

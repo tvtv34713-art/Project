@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "107-130",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 6"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Lesson 1: What does it all mean?",
+      "definition": "Banking vocabulary and non-defining relative clauses.",
+      "explanation": "Understanding bank statements and common banking terms like account number, balance, transaction, withdrawal, deposit.",
+      "rules": null,
+      "notes": "Non-defining relative clauses add extra information and are separated by commas.",
+      "examples": [
+        {
+          "problem": "bank statement",
+          "solution": "paper that tells you about what happened to your bank account in the past month"
+        },
+        {
+          "problem": "account number",
+          "solution": "the number that is used to identify your account"
+        },
+        {
+          "problem": "balance",
+          "solution": "the total amount of money in your account"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Banking Definitions",
+      "definition": "Definitions of common banking terms.",
+      "explanation": "Bank card, ATM, PIN, cheque, credit card are essential banking tools.",
+      "rules": null,
+      "notes": "PIN is a secret number used with a bank card to prevent unauthorized use.",
+      "examples": [
+        {
+          "problem": "bank card =",
+          "solution": "a piece of plastic you can use for things or get money in the street"
+        },
+        {
+          "problem": "ATM =",
+          "solution": "somewhere you can get money using your bank card"
+        },
+        {
+          "problem": "PIN =",
+          "solution": "a secret number you can use with your bank card to stop others using it"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Grammar: Non-defining Relative Clauses",
+      "definition": "Non-defining relative clauses add extra information about a noun.",
+      "explanation": "They are separated by commas and use 'which' or 'who'. The sentence makes sense without them.",
+      "rules": [
+        "Use commas to separate non-defining relative clauses.",
+        "Use 'which' for things and 'who' for people.",
+        "Do not use 'that' in non-defining relative clauses."
+      ],
+      "notes": "Your account number, which is an eight-digit number, appears on the top right.",
+      "examples": [
+        {
+          "problem": "Your bank statement is very important.",
+          "solution": "Your bank statement, which shows all your transactions, is very important."
+        },
+        {
+          "problem": "Aziz is very helpful.",
+          "solution": "Aziz, who works at the bank, is very helpful."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Banking Paragraph Completion",
+      "definition": "Using banking vocabulary to complete a paragraph.",
+      "explanation": "Common banking terms include: account, bank card, ATM, withdrawal, bank statement, credit card.",
+      "rules": null,
+      "notes": "Keep track of spending to avoid overspending.",
+      "examples": [
+        {
+          "problem": "I opened a _______ last month.",
+          "solution": "bank account"
+        },
+        {
+          "problem": "Now I've got a _______ which I can use to get money.",
+          "solution": "bank card"
+        },
+        {
+          "problem": "I made a _______ of 12,000 Iraqi dinars.",
+          "solution": "withdrawal"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Lesson 2: Types of Bank Accounts",
+      "definition": "Different bank accounts serve different purposes.",
+      "explanation": "Savings accounts: for saving money. Current accounts: for daily transactions. Student accounts: for students. Each has different features.",
+      "rules": null,
+      "notes": "Some accounts require a minimum balance; others offer overdraft facilities.",
+      "examples": [
+        {
+          "problem": "Which account is best if you want to save money to buy something expensive?",
+          "solution": "Savings account"
+        },
+        {
+          "problem": "Which account can you get if you are 16?",
+          "solution": "Student account"
+        },
+        {
+          "problem": "Which account requires a minimum balance?",
+          "solution": "Current account"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Grammar: Passive Forms",
+      "definition": "The passive voice is used when the doer of the action is unknown or unimportant.",
+      "explanation": "Passive form: to be + past participle. The tense changes in the verb 'to be'.",
+      "rules": [
+        "Use passive when the subject is less important than the action.",
+        "Use 'by' to mention the doer of the action.",
+        "Passive is often used to describe processes."
+      ],
+      "notes": "Example: The money was deposited last week by my uncle.",
+      "examples": [
+        {
+          "problem": "Somebody stole my wallet last week.",
+          "solution": "My wallet was stolen last week."
+        },
+        {
+          "problem": "Somebody robbed the bank yesterday.",
+          "solution": "The bank was robbed yesterday."
+        },
+        {
+          "problem": "The cheque (sign) last week.",
+          "solution": "was signed"
+        },
+        {
+          "problem": "My ATM card (steal) yesterday.",
+          "solution": "was stolen"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Lesson 3: Meet a Banker",
+      "definition": "Understanding a banker's daily duties and skills.",
+      "explanation": "Bankers assess business ideas, make loans, work with individuals and large companies. They need financial knowledge and communication skills.",
+      "rules": null,
+      "notes": "Bankers use deposited money to make loans to others.",
+      "examples": [
+        {
+          "problem": "What does the banker like most about his job?",
+          "solution": "Helping people and the variety of work."
+        },
+        {
+          "problem": "How does the bank use the money that people deposit?",
+          "solution": "They lend it to others for loans."
+        },
+        {
+          "problem": "Why does a banker have to communicate well?",
+          "solution": "To explain financial products and understand clients' needs."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Grammar: Passive vs Active Voice",
+      "definition": "Choosing between active and passive voice based on context.",
+      "explanation": "Active focuses on the doer; passive focuses on the action or recipient.",
+      "rules": null,
+      "notes": "Use passive when the action is more important than who did it.",
+      "examples": [
+        {
+          "problem": "The money in a bank account (use) in many ways.",
+          "solution": "is used"
+        },
+        {
+          "problem": "The machine (repair) at the moment.",
+          "solution": "is being repaired"
+        },
+        {
+          "problem": "Bankers usually (like) helping their customers.",
+          "solution": "like"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Grammar: Present and Past Deductions (Modals)",
+      "definition": "Using modal verbs to make deductions about present and past situations.",
+      "explanation": "Must: sure. May/Might: not sure. Can't: sure something didn't happen.",
+      "rules": [
+        "Present deduction: must/may/might/can't + infinitive",
+        "Past deduction: must/may/might/can't + have + past participle"
+      ],
+      "notes": "I can't find my wallet. I must have left it in the car.",
+      "examples": [
+        {
+          "problem": "I left some pizza in the fridge, but it's not there now. Saeed _______ (eat) it.",
+          "solution": "must have eaten"
+        },
+        {
+          "problem": "I'm not sure, but Razan _______ (be) at home already.",
+          "solution": "may be / might be"
+        },
+        {
+          "problem": "You _______ (finish) the test already. That's impossible!",
+          "solution": "can't have finished"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Grammar: Types of Conditional Sentences",
+      "definition": "Four types of conditionals: zero, first, second, and third.",
+      "explanation": "Zero: always true. First: real future possibility. Second: hypothetical present/future. Third: hypothetical past (impossible to change).",
+      "rules": [
+        "Zero: if + present, present",
+        "First: if + present, will + infinitive",
+        "Second: if + past, would + infinitive",
+        "Third: if + past perfect, would have + past participle"
+      ],
+      "notes": "Third conditional expresses regret about past actions that cannot be changed.",
+      "examples": [
+        {
+          "problem": "If Sami hadn't forgotten his keys last night, he wouldn't have had to sleep in the car.",
+          "solution": "Third conditional - Sami forgot his keys, so he slept in the car."
+        },
+        {
+          "problem": "If you studied harder, you would pass the exam easily.",
+          "solution": "Second conditional - You don't study hard, so you won't pass easily."
+        },
+        {
+          "problem": "If people drive for too long, they get tired.",
+          "solution": "Zero conditional - People sometimes drive too long and get tired."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Lesson 5: Travelling Abroad - Currency and Exchange",
+      "definition": "Vocabulary for international travel and currency exchange.",
+      "explanation": "Terms include: exchange rate, local currency, internationally accepted cards, prepaid debit cards, souvenirs.",
+      "rules": null,
+      "notes": "Prepaid debit cards are safe because you can freeze them online if lost.",
+      "examples": [
+        {
+          "problem": "Hazem thinks his suitcase is too heavy to carry on the _______",
+          "solution": "Underground"
+        },
+        {
+          "problem": "He has a debit card that is accepted _______",
+          "solution": "internationally"
+        },
+        {
+          "problem": "He says a prepaid debit card is safe because you can _______ it online.",
+          "solution": "freeze"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Conditional Chain Exercises",
+      "definition": "Creating chains of conditional sentences.",
+      "explanation": "Each sentence's result becomes the condition for the next sentence.",
+      "rules": null,
+      "notes": "First conditional chain: If I go to town, I'll spend money. If I spend money, I'll need more. etc.",
+      "examples": [
+        {
+          "problem": "If I go to town, I'll spend a lot of money.",
+          "solution": "If I spend a lot of money, I'll need to withdraw from my account."
+        },
+        {
+          "problem": "If my alarm clock had gone off this morning, I wouldn't have overslept.",
+          "solution": "If I hadn't overslept, I wouldn't have missed the bus."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Lesson 6: A Car Loan",
+      "definition": "Vocabulary related to car loans and financing.",
+      "explanation": "Down payment: initial payment. Monthly instalments: regular payments. Investment: money put into something expecting profit. Car insurance: protection against accidents.",
+      "rules": null,
+      "notes": "Used cars often have lower monthly payments.",
+      "examples": [
+        {
+          "problem": "down payment =",
+          "solution": "initial payment made when buying something on credit"
+        },
+        {
+          "problem": "monthly instalments =",
+          "solution": "regular monthly payments to repay a loan"
+        },
+        {
+          "problem": "Nour got a car loan, so he could buy a car.",
+          "solution": "If Nour hadn't got a car loan, he wouldn't have been able to buy a car."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Letter Completion - Car Loan",
+      "definition": "Completing a letter with banking vocabulary.",
+      "explanation": "Loan, banker, owner, down payment, instalments, insurance are key terms.",
+      "rules": null,
+      "notes": "A car loan can be paid back over several years with monthly instalments.",
+      "examples": [
+        {
+          "problem": "I get a good _______",
+          "solution": "salary"
+        },
+        {
+          "problem": "It wasn't too hard to get a car _______",
+          "solution": "loan"
+        },
+        {
+          "problem": "My _______ is very nice.",
+          "solution": "banker"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Lesson 7: Formal and Informal Letters",
+      "definition": "Differences between formal and informal letter writing.",
+      "explanation": "Formal: to people you don't know well, no contractions, standard expressions. Informal: to friends and family, contractions, friendly language.",
+      "rules": [
+        "Formal: Dear Mr/Ms, Yours sincerely/faithfully, no contractions",
+        "Informal: Dear [first name], Best wishes, contractions are fine"
+      ],
+      "notes": "Passive forms are common in formal letters.",
+      "examples": [
+        {
+          "problem": "Dear Mr Smith,",
+          "solution": "Formal (F)"
+        },
+        {
+          "problem": "Dear Rashid,",
+          "solution": "Informal (I)"
+        },
+        {
+          "problem": "This letter is to inform you ...",
+          "solution": "Formal (F)"
+        },
+        {
+          "problem": "Thanks for your letter.",
+          "solution": "Informal (I)"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Letter of Complaint",
+      "definition": "Writing a formal letter to complain about a banking issue.",
+      "explanation": "Include: reason for writing, problem description, request for action, polite closing.",
+      "rules": null,
+      "notes": "Use standard formal expressions like 'I am writing to inform you', 'Could you please', 'Yours sincerely'.",
+      "examples": [
+        {
+          "problem": "What problem did Samira have?",
+          "solution": "Her name was misspelt on her cheque book (Sanira instead of Samira)."
+        },
+        {
+          "problem": "What does she ask her banker to do?",
+          "solution": "Send a new cheque book with her name correctly spelt and information about online banking."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Lesson 8: I apologize for any misunderstanding",
+      "definition": "Writing formal emails and letters to enquire about banking services.",
+      "explanation": "Use polite expressions to ask about ATM cards, telephone banking, and account services.",
+      "rules": null,
+      "notes": "Formal letters often use 'I am writing to enquire', 'Could you please', 'I was told that'.",
+      "examples": [
+        {
+          "problem": "Could you please let me know",
+          "solution": "when I will receive my card?"
+        },
+        {
+          "problem": "I was told that",
+          "solution": "I would receive it within a week."
+        },
+        {
+          "problem": "If I had an ATM card,",
+          "solution": "I could withdraw money on my way to work."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Writing: Letter of Complaint",
+      "definition": "Writing a formal complaint letter to the bank.",
+      "explanation": "Choose a problem like lack of ATM machines or inconvenient opening hours. Explain the issue clearly and request action.",
+      "rules": null,
+      "notes": "Write 100-120 words in a formal style.",
+      "examples": []
+    },
+    {
+      "id": 19,
+      "title": "Lesson 9: Making Money",
+      "definition": "Understanding savings, investments, and financial planning.",
+      "explanation": "Topics include: starting to save early, different types of accounts, investing in stocks/shares, property investment, financial wisdom.",
+      "rules": null,
+      "notes": "Compound interest helps savings grow over time. Investments carry risk.",
+      "examples": [
+        {
+          "problem": "When we are children,",
+          "solution": "we are taught the value of saving."
+        },
+        {
+          "problem": "We can get more interest",
+          "solution": "if we keep our money in our account for a long time."
+        },
+        {
+          "problem": "What are we told to do when we start work?",
+          "solution": "To put some money aside for the future."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Vocabulary: Financial Terms",
+      "definition": "Key vocabulary for banking and finance.",
+      "explanation": "Current account, withdraw, minimum balance, value, loan, statement, PIN, instalments are essential terms.",
+      "rules": null,
+      "notes": "Interest can be paid on savings and charged on loans.",
+      "examples": [
+        {
+          "problem": "A _______ account comes with a debit card.",
+          "solution": "current"
+        },
+        {
+          "problem": "You can _______ money from an ATM machine.",
+          "solution": "withdraw"
+        },
+        {
+          "problem": "The _______ of an investment can go down as well as up.",
+          "solution": "value"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Unit 6 Test - Vocabulary",
+      "definition": "Testing banking vocabulary.",
+      "explanation": "Verbs: open, deposit, charge, maintain, make, pay. Nouns: statement, withdrawal, instalments, down payment, branch.",
+      "rules": null,
+      "notes": "Understanding collocations like 'open an account', 'make a withdrawal', 'pay interest'.",
+      "examples": [
+        {
+          "problem": "My father _______ an account for me.",
+          "solution": "opened"
+        },
+        {
+          "problem": "I _______ 5 million Iraqi dinars this morning.",
+          "solution": "deposited"
+        },
+        {
+          "problem": "Banks usually _______ a fee if you are overdrawn.",
+          "solution": "charge"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Unit 6 Test - Conditionals",
+      "definition": "Testing conditional sentences.",
+      "explanation": "Choose correct conditional forms based on context.",
+      "rules": null,
+      "notes": "Pay attention to time references and whether the situation is real or hypothetical.",
+      "examples": [
+        {
+          "problem": "If I open a student account, I _______ maintain a minimum balance.",
+          "solution": "won't have to"
+        },
+        {
+          "problem": "If I had known it was raining, I _______ brought an umbrella.",
+          "solution": "would have"
+        },
+        {
+          "problem": "If I _______ a computer, we could search the internet.",
+          "solution": "had"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Unit 6 Test - Passive Voice",
+      "definition": "Testing passive voice formation.",
+      "explanation": "Form passive sentences using correct tense of 'to be' + past participle.",
+      "rules": null,
+      "notes": "Questions in passive: be + subject + past participle.",
+      "examples": [
+        {
+          "problem": "When was the mail delivered?",
+          "solution": "When was the mail delivered?"
+        },
+        {
+          "problem": "The windows are being replaced next week.",
+          "solution": "The windows are being replaced next week."
+        },
+        {
+          "problem": "These books were left in the classroom.",
+          "solution": "These books were left in the classroom."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Unit 6 Test - Deductions and Writing",
+      "definition": "Testing present/past deductions and formal letter writing.",
+      "explanation": "Use must/may/might/can't with infinitive or have + past participle. Write a formal complaint letter about an unauthorized withdrawal.",
+      "rules": null,
+      "notes": "Letter should be 100-120 words, formal style, explaining the problem and requesting action.",
+      "examples": [
+        {
+          "problem": "Hazem _______ making a lot of money; he's just bought a new car!",
+          "solution": "must be"
+        },
+        {
+          "problem": "Rasha didn't make that payment. She _______",
+          "solution": "may have forgotten"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "unit": 8,
+    "pages": "1-4",
+    "description": "Activity book for sixth grade preparatory students covering natural resources, renewable and non-renewable resources, recycling, wind power, and the Euphrates River"
+  },
+  "sections": [
+    {
+      "id": "natural_resources_intro",
+      "title": "Lesson 1: Natural Resources - Definition and Types",
+      "definition": "Natural resources are materials that are found in nature, such as air, water, land, trees, petrol, and gas. They are essential to human life and must be used wisely.",
+      "explanation": "Natural resources are used in hundreds of different ways. We use land to grow food, water to drink, and petrol and gas for energy. Some resources are renewable (can replace themselves), while others are non-renewable (cannot be replaced quickly).",
+      "rules": "Renewable resources: do not disappear completely when used, or can replace themselves as quickly as they are used (e.g., trees can be replanted). Non-renewable resources: cannot replace themselves as quickly as they are used (e.g., petrol takes thousands of years to form).",
+      "notes": "Key vocabulary: natural resources (materials from nature), essential (extremely necessary), wisely (in a sensible manner), efficiently (working well and quickly), renewable (can be used again and again), non-renewable (cannot be replaced once used), deforestation (cutting down trees for wood).",
+      "examples": [
+        {
+          "problem": "What are natural resources?",
+          "solution": "Natural resources are materials found in nature such as air, water, land, trees, petrol, and gas."
+        },
+        {
+          "problem": "What is the difference between renewable and non-renewable resources?",
+          "solution": "Renewable resources can replace themselves as quickly as they are used (like trees). Non-renewable resources cannot replace themselves quickly (like petrol which takes thousands of years to form)."
+        }
+      ]
+    },
+    {
+      "id": "recycling_waste",
+      "title": "Lesson 2: Recycling - Dealing with Waste",
+      "definition": "Recycling is a solution to waste management where materials like paper, plastic, glass, and biological waste are collected, sorted, and processed to be used again.",
+      "explanation": "Each person in industrial countries throws away an average of 2 kg of waste daily (over 700 kg per year). Waste is often burnt or buried, causing pollution. Recycling uses different colored bags: green for paper, yellow for plastic, blue for glass, brown for biological waste. In some countries, over 50% of waste is recycled.",
+      "rules": "Recycling process: waste is collected → sorted by color/type → processed at treatment plant → turned into new products (glass, paper, plastic can be recycled).",
+      "notes": "Key vocabulary: waste (useless materials), buried (put in ground and covered with earth), pollution (damaging air/water/land), encourage (suggest something good), recycle (process waste to use again).",
+      "examples": [
+        {
+          "problem": "How much waste does each person in industrial countries throw away daily?",
+          "solution": "An average of two kilograms of waste each day (14 kg a week, over 700 kg a year)."
+        },
+        {
+          "problem": "What are the different colored bags used for recycling?",
+          "solution": "Green for paper (envelopes, newspapers), yellow for plastic (bottles, bags), blue for glass, brown for biological waste (food and garden waste)."
+        }
+      ]
+    },
+    {
+      "id": "wind_power",
+      "title": "Lesson 3: Wind Power - Advantages and Disadvantages",
+      "definition": "Wind power is a renewable energy source that has been used for thousands of years to power sailing boats, grind corn, and now generate electricity.",
+      "explanation": "Advantages: clean energy (no waste or greenhouse gases), renewable (wind never runs out), efficient (land under turbines can still be used for agriculture). Disadvantages: unattractive (spoil landscape), noisy, expensive to install and maintain, cannot supply all energy needs, harm birds and fish, may interfere with radar.",
+      "rules": "Wind is caused by changing temperatures in the air. Wind turbines convert wind energy into electricity. They can be built on land or offshore.",
+      "notes": "Key vocabulary: wind turbines (machines that generate electricity from wind), greenhouse gases (substances that harm environment), efficient (working well), spoil (ruin appearance), install (set up), maintain (keep in good condition), rely on (depend on).",
+      "examples": [
+        {
+          "problem": "What are the advantages of wind power?",
+          "solution": "Clean energy (no waste or greenhouse gases), renewable (wind never runs out), efficient (land under turbines can still be used for agriculture)."
+        },
+        {
+          "problem": "What complaints do people who live near wind turbines have?",
+          "solution": "They find them unattractive and think they spoil the landscape. They also complain about the noise, harm to birds, and impact on fishing."
+        }
+      ]
+    },
+    {
+      "id": "euphrates_river",
+      "title": "Lesson 4: The Euphrates River",
+      "definition": "The Euphrates River is the longest river in the Middle East, flowing through Turkey, Syria, and Iraq. It has been vital for civilization, transport, and agriculture for thousands of years.",
+      "explanation": "The Euphrates is 2,800 km long. It begins in the Caucasus Mountains, flows through steep gorges (upper part) and shallow areas (lower part), joining the Tigris to form the Shatt al-Arab. The area between the two rivers was the birthplace of early civilizations. Ancient cities like Babylon were built on its banks. Dams (Euphrates Dam in Syria, Ataturk Dam in Turkey) provide irrigation for crops (cotton, wheat, barley, lentils) and hydroelectric power.",
+      "rules": null,
+      "notes": "Key vocabulary: gorges (deep valleys), shallow (not deep), navigation (travel by boat), birthplace (where something originated), ruins (remains of buildings), banks (sides of a river), dam (barrier to control water flow), reservoir (area that contains water), irrigation (supplying water to crops), hydroelectric power (electricity from water).",
+      "examples": [
+        {
+          "problem": "How long is the Euphrates River?",
+          "solution": "2,800 km long, making it the longest river in the Middle East."
+        },
+        {
+          "problem": "What countries does the Euphrates flow through?",
+          "solution": "Turkey, Syria, and Iraq."
+        },
+        {
+          "problem": "What are the uses of dams on the Euphrates?",
+          "solution": "Irrigation for crops (cotton, wheat, barley, lentils) and hydroelectric power generation."
+        }
+      ]
+    }
+  ]
+}

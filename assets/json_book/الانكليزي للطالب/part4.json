@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "1-9",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 4",
+    "title": "Business and Travel"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Email: Rashid & Rana Designs",
+      "definition": "An email about starting a new clothing company.",
+      "explanation": "Rana writes to Bidor about her new business with her brother Rashid. They produce shirts and jeans, export to Gulf countries and the UK, and recently attended London Fashion Week.",
+      "rules": null,
+      "notes": "The email uses past simple tense to describe completed actions in the past.",
+      "examples": [
+        {
+          "problem": "I am the _______, and Rashid does all the marketing.",
+          "solution": "designer"
+        },
+        {
+          "problem": "Our cousin, Salima, works as Rashid's personal _______.",
+          "solution": "assistant"
+        },
+        {
+          "problem": "We _______ contracts with three London department stores.",
+          "solution": "signed"
+        },
+        {
+          "problem": "We were waiting for our _______ back to Baghdad.",
+          "solution": "flight"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fitness Tech Article",
+      "definition": "An article about how technology is changing fitness and exercise.",
+      "explanation": "Technology has made home workouts easier. Fitness apps track heart rate, calories, and sleep. Gyms now compete with home fitness and use AI and smart mirrors to stay relevant.",
+      "rules": null,
+      "notes": "The article uses 'used to' to contrast past and present fitness habits.",
+      "examples": [
+        {
+          "problem": "What do you call these pieces of fitness equipment?",
+          "solution": "Stationary bike, workout mirror, fitness equipment."
+        },
+        {
+          "problem": "In the past, what did people use to do for group cycling?",
+          "solution": "They used to join a club."
+        },
+        {
+          "problem": "What do modern fitness apps measure?",
+          "solution": "Heart rate, calories burned, sleep quality."
+        },
+        {
+          "problem": "What is a workout mirror?",
+          "solution": "A hi-tech mirror that can actually teach you how to work out."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Grammar: Advice and Obligation (Should, Must, Have to, Need to)",
+      "definition": "Using modal verbs to give advice, express obligation, and make recommendations.",
+      "explanation": "Different situations require different expressions: must for strong obligation, should for advice, have to for external obligation, need to for necessity.",
+      "rules": [
+        "Use must for strong obligation or necessity.",
+        "Use should for advice or recommendation.",
+        "Use have to for external obligations (rules, requirements).",
+        "Use need to for necessity."
+      ],
+      "notes": "These modals express different levels of obligation and advice.",
+      "examples": [
+        {
+          "problem": "If you want to have a successful restaurant, you _______ employ a good chef.",
+          "solution": "must"
+        },
+        {
+          "problem": "If you want to be successful in business, you _______ be ambitious.",
+          "solution": "have to"
+        },
+        {
+          "problem": "If you want to make a good impression at a job interview, you _______ dress well and be punctual.",
+          "solution": "should"
+        },
+        {
+          "problem": "If you want to be a good secretary, you _______ good computer skills.",
+          "solution": "need"
+        },
+        {
+          "problem": "When you are in a meeting, you _______ turn your mobile off.",
+          "solution": "should"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Grammar: Past Regrets - I wish and Third Conditional",
+      "definition": "Expressing regret about past actions using 'I wish' and the third conditional.",
+      "explanation": "I wish + past perfect expresses regret. Third conditional (if + past perfect, would have + past participle) expresses hypothetical past results.",
+      "rules": [
+        "I wish + had + past participle - expresses regret about the past.",
+        "Third conditional: if + past perfect, would have + past participle - expresses what would have happened if things were different."
+      ],
+      "notes": "Used to talk about situations that cannot be changed because they already happened.",
+      "examples": [
+        {
+          "problem": "Fouad Salim's team lost a big match. He wishes he had asked Hisham to be in the team.",
+          "solution": "If I had asked Hisham to be in the team, we would have won."
+        },
+        {
+          "problem": "Khadija didn't get the job. She wishes she had found out more about the company.",
+          "solution": "If I had found out more about the company, I would have got the job."
+        },
+        {
+          "problem": "Nizar crashed his friend's motorbike. He wishes he hadn't ridden it.",
+          "solution": "If I hadn't ridden my friend's motorbike, I wouldn't have crashed it."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Compound Nouns: Travel Vocabulary",
+      "definition": "Forming compound nouns related to travel and tourism.",
+      "explanation": "Compound nouns are made by combining two words to form a new meaning. Examples: boarding card, travel agency, five-star hotel, package holiday, packed lunch, ski resort, car rental, self-catering apartment, sightseeing tour, sea view.",
+      "rules": null,
+      "notes": "Compound nouns can be written as one word, two words, or with a hyphen.",
+      "examples": [
+        {
+          "problem": "Match the words to form compound nouns: boarding",
+          "solution": "boarding card"
+        },
+        {
+          "problem": "Match the words to form compound nouns: travel",
+          "solution": "travel agency"
+        },
+        {
+          "problem": "Match the words to form compound nouns: five-star",
+          "solution": "five-star hotel"
+        },
+        {
+          "problem": "Match the words to form compound nouns: package",
+          "solution": "package holiday"
+        },
+        {
+          "problem": "Match the words to form compound nouns: sight",
+          "solution": "sightseeing"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Present Perfect Questions - Travel Experiences",
+      "definition": "Asking and answering questions about travel experiences using the present perfect.",
+      "explanation": "Use present perfect to ask about life experiences without specifying when. Questions cover unusual hotels, camping, flying in helicopters, sightseeing, being cheated, losing passports, holiday destinations, and strange food.",
+      "rules": [
+        "Use Have you ever + past participle to ask about life experiences.",
+        "Use ever for 'at any time in your life'."
+      ],
+      "notes": "Answers can be Yes, I have + details, or No, I haven't + but I would like to.",
+      "examples": [
+        {
+          "problem": "Have you ever stayed in a really unusual hotel?",
+          "solution": "Yes, I have. I stayed in the Four Seasons Hotel in Cairo. It's unbelievably luxurious."
+        },
+        {
+          "problem": "Have you ever camped on a beach?",
+          "solution": "No, I haven't, but I would love to."
+        },
+        {
+          "problem": "Have you ever lost your passport while on holiday?",
+          "solution": "Yes, I have. It was very stressful."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Reading: The Happy Traveller",
+      "definition": "An article about Steve Harper's experiences with Safar Tours in Iraq.",
+      "explanation": "Steve Harper has been coming to Iraq since 2009 and has visited 15 times. Safar Tours has been organizing trips for over 30 years. Ahmed Salim runs the company now, which started in 1976.",
+      "rules": null,
+      "notes": "The article uses present perfect and present perfect continuous to describe experiences over time.",
+      "examples": [
+        {
+          "problem": "How long has Steve Harper been coming to Iraq?",
+          "solution": "Since 2009."
+        },
+        {
+          "problem": "How many times has he visited Iraq?",
+          "solution": "15 times."
+        },
+        {
+          "problem": "How long has Safar Tours been organizing tours?",
+          "solution": "Over 30 years."
+        },
+        {
+          "problem": "How long has Steve known Ahmed?",
+          "solution": "For three years."
+        },
+        {
+          "problem": "When was Safar Tours started?",
+          "solution": "In 1976."
+        },
+        {
+          "problem": "What has Steve been doing since finishing his business?",
+          "solution": "Going on tours around the country."
+        }
+      ]
+    }
+  ]
+}

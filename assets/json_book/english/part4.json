@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "pages": "73-82",
+    "subject": "اللغة الإنجليزية",
+    "unit": "Unit 4"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Lesson 1: Rashid & Rana Designs",
+      "definition": null,
+      "explanation": "Email about starting a new clothing company.",
+      "rules": null,
+      "notes": "Focus on past simple tense for completed actions in the past.",
+      "examples": [
+        {
+          "problem": "Rana _______ an email to Bidor to tell her about her new clothes company.",
+          "solution": "sent"
+        },
+        {
+          "problem": "She and her brother, Rashid, _______ the company last September.",
+          "solution": "started / opened"
+        },
+        {
+          "problem": "They _______ to Lebanon and Morocco to choose cloth two months ago.",
+          "solution": "went"
+        },
+        {
+          "problem": "They _______ a lot of success at London Fashion Week.",
+          "solution": "had"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Grammar: Past Simple Questions",
+      "definition": "Forming questions in past simple tense.",
+      "explanation": "Use 'did' + subject + base form of verb for questions about past events.",
+      "rules": null,
+      "notes": "Questions about trips: preferred country, travel companions, food, hotels, sightseeing, language used.",
+      "examples": [
+        {
+          "problem": "Ask about the country she preferred.",
+          "solution": "Which country did you prefer, Lebanon or Morocco?"
+        },
+        {
+          "problem": "Ask about who travelled with her.",
+          "solution": "Who did you travel with?"
+        },
+        {
+          "problem": "Ask about the food.",
+          "solution": "What was the food like?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Grammar: Past Continuous vs Past Simple",
+      "definition": "Past continuous: action in progress. Past simple: completed action.",
+      "explanation": "Use past continuous for the longer action, past simple for the interrupting action.",
+      "rules": null,
+      "notes": "Often used with 'when' or 'while'.",
+      "examples": [
+        {
+          "problem": "I (sit) in the park when somebody (kick) a ball at me.",
+          "solution": "was sitting / kicked"
+        },
+        {
+          "problem": "We (drive) to the beach when we (hear) a loud crash.",
+          "solution": "were driving / heard"
+        },
+        {
+          "problem": "Khaled (play) football when he (break) his ankle.",
+          "solution": "was playing / broke"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Writing: Email About a New Company",
+      "definition": "Write an email telling a friend about a new business.",
+      "explanation": "Model your email on Rana's email. Include details about the company, products, and recent activities.",
+      "rules": null,
+      "notes": "Suggested products: jewellery, cosmetics, perfume, food, footwear.",
+      "examples": []
+    },
+    {
+      "id": 5,
+      "title": "Lesson 2: People didn't use to work out at home",
+      "definition": "Article about how fitness has changed with technology.",
+      "explanation": "Technology has made home workouts easier with apps, smart equipment, and virtual classes.",
+      "rules": null,
+      "notes": "Gyms now compete with home fitness options.",
+      "examples": [
+        {
+          "problem": "Why is it now easier for people to work out from home?",
+          "solution": "Because of fitness apps, smart equipment, and online classes."
+        },
+        {
+          "problem": "What are some ways technology has changed fitness?",
+          "solution": "Apps track workouts, mirrors show exercises, AI provides data."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Grammar: Used to / Didn't use to",
+      "definition": "Used to expresses past habits or states that are no longer true.",
+      "explanation": "Use 'used to' for things that were true in the past but are not true now. Use 'didn't use to' for negative.",
+      "rules": null,
+      "notes": "Compare how a gym looked before and now.",
+      "examples": [
+        {
+          "problem": "What equipment did you use to have in the gym?",
+          "solution": "We used to have old treadmills, but now we have smart machines."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Grammar: Have to, Don't have to, Mustn't, Should, Shouldn't",
+      "definition": "Expressing obligation, no obligation, prohibition, and advice.",
+      "explanation": "Have to: external obligation. Don't have to: no obligation. Mustn't: prohibition. Should: advice. Shouldn't: negative advice.",
+      "rules": null,
+      "notes": "Birchwood International College rules for new students.",
+      "examples": [
+        {
+          "problem": "You _______ share a room with other students, but the price is lower if you do.",
+          "solution": "don't have to"
+        },
+        {
+          "problem": "All students _______ be out of their rooms by 9:30 a.m.",
+          "solution": "have to"
+        },
+        {
+          "problem": "Students _______ be late.",
+          "solution": "mustn't"
+        },
+        {
+          "problem": "You _______ take the special computer course, but we think it's useful.",
+          "solution": "don't have to"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Grammar: Past Regrets - I wish, If only, Third Conditional",
+      "definition": "Expressing regret about past actions.",
+      "explanation": "I wish + past perfect: regret about past. If only + past perfect: strong regret. Third conditional: if + past perfect, would have + past participle.",
+      "rules": [
+        "I wish + had + past participle - expresses regret about something in the past.",
+        "If only + had + past participle - expresses stronger regret.",
+        "If + past perfect, would have + past participle - expresses hypothetical past result."
+      ],
+      "notes": "Used when we want to change something that already happened.",
+      "examples": [
+        {
+          "problem": "I bet you wish you (not eat) so much now.",
+          "solution": "hadn't eaten"
+        },
+        {
+          "problem": "If only I (not forget) my key when I left home.",
+          "solution": "hadn't forgotten"
+        },
+        {
+          "problem": "Now I wish I (buy) them earlier, when they were cheaper.",
+          "solution": "had bought"
+        },
+        {
+          "problem": "If you had listened to me, you (bring) the map.",
+          "solution": "would have brought"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Writing: Past Regrets",
+      "definition": "Complete sentences to express regret using I wish, If only, or third conditional.",
+      "explanation": "Use past perfect after I wish/If only. Use third conditional structure for hypothetical past situations.",
+      "rules": null,
+      "notes": "Express what you would have done differently.",
+      "examples": [
+        {
+          "problem": "I didn't buy the jacket while it was on sale.",
+          "solution": "If only I had bought the jacket while it was on sale."
+        },
+        {
+          "problem": "My dad didn't check the oil, and the car broke down.",
+          "solution": "The car wouldn't have broken down if he had checked the oil."
+        },
+        {
+          "problem": "Qais didn't make a copy of his essay, so he had to write it all again.",
+          "solution": "If Qais had made a copy of his essay, he wouldn't have had to write it all again."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Speaking: What would you have done?",
+      "definition": "Discuss hypothetical past situations.",
+      "explanation": "Consider different scenarios and say what you would have done differently.",
+      "rules": null,
+      "notes": "Use third conditional and 'would have' to express alternative actions.",
+      "examples": [
+        {
+          "problem": "Ahmed was answering a phone call on a bus. People next to him started singing loudly. He asked them to stop.",
+          "solution": "I would have moved to a different seat. If the bus had been full, I would have complained to the driver."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Unit 4 Test - Vocabulary",
+      "definition": "Match vocabulary words with their definitions.",
+      "explanation": "Words related to fitness, business, and personal qualities.",
+      "rules": null,
+      "notes": "Vocabulary includes: personal trainer, profit, previous experience, fitness app, punctual, designer, ambitious, stationary bike, score, personal assistant, calories, compete.",
+      "examples": [
+        {
+          "problem": "a professional who supervises how you exercise in a gym",
+          "solution": "personal trainer"
+        },
+        {
+          "problem": "the money you make in a business",
+          "solution": "profit"
+        },
+        {
+          "problem": "always arriving on time",
+          "solution": "punctual"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Unit 4 Test - Conditionals",
+      "definition": "Complete sentences with correct conditional forms.",
+      "explanation": "Use second conditional for hypothetical present/future, first conditional for real possibilities, third conditional for past hypotheticals.",
+      "rules": null,
+      "notes": "Second conditional: if + past, would + infinitive. Third conditional: if + past perfect, would have + past participle.",
+      "examples": [
+        {
+          "problem": "If I (be) you, I would apply for that course this week.",
+          "solution": "were"
+        },
+        {
+          "problem": "I (help) you with your application form if you bring it round on Saturday.",
+          "solution": "will help"
+        },
+        {
+          "problem": "Ali would be really happy if he (can) spend the summer studying in London.",
+          "solution": "could"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Unit 4 Test - Word Formation",
+      "definition": "Complete words with correct endings.",
+      "explanation": "Common suffixes: -age, -al, -ate, -ent, -fy, -ient, -ness, -tion, -ure, -vise.",
+      "rules": null,
+      "notes": "Suffixes change word forms (nouns, adjectives, verbs).",
+      "examples": [
+        {
+          "problem": "fract",
+          "solution": "fracture"
+        },
+        {
+          "problem": "ineffi",
+          "solution": "inefficient"
+        },
+        {
+          "problem": "identi",
+          "solution": "identify"
+        },
+        {
+          "problem": "applica",
+          "solution": "application"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Unit 4 Test - Gap Fill",
+      "definition": "Complete sentences with one word in each gap.",
+      "explanation": "Focus on grammar structures: modals, conditionals, and causative have.",
+      "rules": null,
+      "notes": "Includes have to, would have, if clauses, should, shall, could, and causative have/get.",
+      "examples": [
+        {
+          "problem": "You don't have _______ go to the office every day in this job.",
+          "solution": "to"
+        },
+        {
+          "problem": "You would _______ passed the driving test if you hadn't made that mistake.",
+          "solution": "have"
+        },
+        {
+          "problem": "If you _______ not feeling better by tomorrow, you can stay at home.",
+          "solution": "are"
+        },
+        {
+          "problem": "We _______ our house painted this week.",
+          "solution": "are having / are getting"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Unit 4 Test - Error Correction",
+      "definition": "Find and correct mistakes in sentences.",
+      "explanation": "Common errors: tense consistency, used to form, causative structure, conditional structure.",
+      "rules": null,
+      "notes": "Review past continuous vs past simple, used to, causative have/get, and third conditional.",
+      "examples": [
+        {
+          "problem": "We played football when it started to rain, and we had to stop.",
+          "solution": "We were playing football when it started to rain, and we had to stop."
+        },
+        {
+          "problem": "This gym used to had the best equipment in town, but not anymore.",
+          "solution": "This gym used to have the best equipment in town, but not anymore."
+        },
+        {
+          "problem": "Amjed didn't used to work out, but now he's really fit.",
+          "solution": "Amjed didn't use to work out, but now he's really fit."
+        },
+        {
+          "problem": "If only you told me about your problem before. I could have helped you.",
+          "solution": "If only you had told me about your problem before. I could have helped you."
+        }
+      ]
+    }
+  ]
+}

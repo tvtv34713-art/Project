@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "unit": 6,
+    "pages": "1-10",
+    "description": "Activity book for sixth grade preparatory students covering banking and finance topics, bank accounts, loans, investments, conditional sentences, relative clauses, passive voice, and formal correspondence"
+  },
+  "sections": [
+    {
+      "id": "bank_statement",
+      "title": "Lesson 1: Bank Statement - Understanding Transactions",
+      "definition": "A bank statement is a record of all transactions in a bank account over a period of time, including deposits, withdrawals, and the current balance.",
+      "explanation": "Rami's bank statement shows an opening balance of 200.00 on 01/05/25. Transactions include cheque payments, cash withdrawals, and a deposit. The final balance on 31/05/25 is 441.40.",
+      "rules": "Transactions: Cheque (payment by cheque), Cash Withdrawal (taking money out), Deposit (putting money in). Balance = previous balance + deposits - withdrawals.",
+      "notes": "Key vocabulary: opening balance, cheque, cash withdrawal, deposit, balance.",
+      "examples": [
+        {
+          "problem": "What was the opening balance on 01/05/25?",
+          "solution": "200.00"
+        },
+        {
+          "problem": "What was the final balance on 31/05/25?",
+          "solution": "441.40"
+        }
+      ]
+    },
+    {
+      "id": "bank_accounts",
+      "title": "Lesson 1: Types of Bank Accounts",
+      "definition": "Different types of bank accounts serve different needs: children's accounts, current accounts, savings accounts, and student accounts.",
+      "explanation": "CCB Children's account: for children under 17. Current account: free cheque book, free ATM card, monthly statements, minimum balance 50,000 IQD or pay fee, overdraft facilities. Savings account: free ATM card, monthly statements. University student account: free cheque book, free ATM card, monthly statements, no minimum balance, 50% off credit card fee.",
+      "rules": "Current account: for daily transactions with cheque book and overdraft. Savings account: for saving money with interest. Student account: special benefits for university students. Children's account: for saving pocket money.",
+      "notes": "Matching: Ammar (university student) → student account. Talal (businessman) → current account. Hasan (10-year-old) → children's account. Layla (retired) → savings account.",
+      "examples": [
+        {
+          "problem": "Which account is best for a university student who doesn't earn much?",
+          "solution": "University student account (no minimum balance, 50% off credit card fee)."
+        },
+        {
+          "problem": "Which account offers overdraft facilities?",
+          "solution": "Current account."
+        }
+      ]
+    },
+    {
+      "id": "banker_job_description",
+      "title": "Lesson 2: A Banker's Job Description",
+      "definition": "A banker's job involves many different responsibilities including attracting clients, advising on accounts, approving loans, and working with individuals and businesses.",
+      "explanation": "Bankers must convince people to use the bank by offering new services like special student accounts. They decide whether to give loans for cars, houses, or businesses. They work with large companies, small businesses, and individuals. Required skills: good at Maths, able to read graphs and charts, work with other experts, good communicator.",
+      "rules": "Key skills: Maths ability, understanding graphs and charts, collaboration with specialists, clear communication. Responsibilities: advising clients, approving loans, offering suitable accounts, helping with business plans.",
+      "notes": "Key vocabulary: client (person/organization who uses a bank's services), loan (money borrowed), approve (agree to), disappoint (fail to meet expectations).",
+      "examples": [
+        {
+          "problem": "What makes a banker's job particularly interesting?",
+          "solution": "The variety - no two days are ever the same, and they use many different skills."
+        },
+        {
+          "problem": "What skills does a banker need?",
+          "solution": "Good at Maths, able to read graphs and charts quickly, able to work with other experts, and a good communicator."
+        }
+      ]
+    },
+    {
+      "id": "financial_problems",
+      "title": "Lesson 3: Financial Problems",
+      "definition": "Common financial problems include overdrawn accounts, bounced cheques, declined credit cards, and insufficient funds.",
+      "explanation": "Listening conversations match pictures showing people experiencing financial difficulties such as having no money in their account, credit card being declined, or being overdrawn.",
+      "rules": null,
+      "notes": "Common financial problems: overdrawn account (negative balance), bounced cheque (insufficient funds), declined card (card not working), insufficient funds (not enough money).",
+      "examples": [
+        {
+          "problem": "What happens when you don't have enough money in your account to cover a cheque?",
+          "solution": "The cheque bounces and may result in a fee."
+        }
+      ]
+    },
+    {
+      "id": "travel_finance_email",
+      "title": "Lesson 4: Travel Finance - Prepaid Debit Cards and Currency",
+      "definition": "Hazem's email to Mazen discusses preparations for travel to London, including packing, debit cards, and currency exchange.",
+      "explanation": "Hazem got a prepaid debit card for safety - it's accepted internationally, safer than cash, can be frozen on an app if lost. He also needs local currency (pounds) for tips. The exchange rate: 1,000 Iraqi dinars ≈ 0.57 pounds. He asks about tipping taxi drivers in England.",
+      "rules": "Prepaid debit card: load money in advance, accepted internationally, can be frozen if lost, safer than cash. Currency: UK uses pounds (not euros).",
+      "notes": "Key vocabulary: prepaid debit card, international, freeze, local currency, exchange rate, tip, souvenir.",
+      "examples": [
+        {
+          "problem": "Why did Hazem get a prepaid debit card?",
+          "solution": "Because it's accepted internationally, safer than cash, and his parents can transfer money to it. If lost, he can freeze it on the app."
+        },
+        {
+          "problem": "Why does Hazem still need cash?",
+          "solution": "He needs cash to tip taxi drivers because he can't use the debit card for tips."
+        }
+      ]
+    },
+    {
+      "id": "car_loan_conversation",
+      "title": "Lesson 5: Car Loan Conversation",
+      "definition": "A conversation between Ahlam and Nour about buying a car with a loan, discussing down payments, monthly instalments, interest, and insurance.",
+      "explanation": "Nour bought a three-year-old car with a car loan. She paid no down payment, pays 500,000 IQD monthly for five years. The loan includes free car insurance. Ahlam is interested in doing the same.",
+      "rules": "Loan terms: down payment (money paid in advance), monthly instalments (regular payments), interest (extra cost of borrowing), loan period (repayment time).",
+      "notes": "Key vocabulary: car loan, down payment, monthly instalments, interest, investment, car insurance.",
+      "examples": [
+        {
+          "problem": "How much does Nour pay each month for her car?",
+          "solution": "About 500,000 Iraqi dinars."
+        },
+        {
+          "problem": "How long does Nour have to pay back the loan?",
+          "solution": "Five years."
+        }
+      ]
+    },
+    {
+      "id": "formal_letters",
+      "title": "Lesson 6: Formal Letters and Correspondence",
+      "definition": "Formal letters use specific expressions for business communication, including requests for information, responses, thanks, and apologies.",
+      "explanation": "Example 1: Fadi Malouf responds to Mr Nasir's request for information about accounts, mentioning online services, passwords, and 24-hour telephone banking. Example 2: Fareed writes to Ahmad asking to buy a camera like his and offering to transfer money.",
+      "rules": "Formal letter expressions: 'Thank you for your letter of [date]', 'Please find enclosed', 'I am happy to inform you', 'Yours sincerely', 'Yours faithfully'. Informal expressions: 'Thanks for your letter', 'Let me know', 'I'd be so grateful'.",
+      "notes": "Key vocabulary: enclosed, available online, 24-hour telephone banking service, digital camera, transfer money.",
+      "examples": [
+        {
+          "problem": "Which letter is a formal response to a request for information?",
+          "solution": "Fadi Malouf's letter to Mr Nasir (dated 13 May 2025) is a formal response."
+        },
+        {
+          "problem": "Which letter is a letter of thanks?",
+          "solution": "Fareed's letter to Ahmad is a letter of thanks for photos and a request to buy a camera."
+        }
+      ]
+    },
+    {
+      "id": "bank_fee_emails",
+      "title": "Lesson 7: Bank Fee Inquiry - Email Correspondence",
+      "definition": "A series of emails between David Smith and Anthony Townsend about a bank fee increase, demonstrating professional correspondence.",
+      "explanation": "David Smith inquires about a £25 fee charged instead of the usual £15. Anthony Townsend explains it's because he was upgraded to a Platinum account with higher benefits. David asks to change back to the previous account type, and Anthony agrees and credits the £10 difference.",
+      "rules": "Email order: David's inquiry → Anthony's explanation → David's understanding and request → Anthony's resolution. Formal expressions: 'I am writing to enquire about', 'I hope this finds you well', 'Best regards', 'Yours faithfully'.",
+      "notes": "Key vocabulary: fee, monthly fee, charged, increase, client, loyal customer, benefits, credit the difference, clarify.",
+      "examples": [
+        {
+          "problem": "What was the reason for the higher fee on David Smith's account?",
+          "solution": "He was upgraded to a Platinum account which offers more benefits but has a higher monthly fee."
+        },
+        {
+          "problem": "How did Anthony Townsend resolve the issue?",
+          "solution": "He agreed to change the account back to the previous type and credited the £10 difference to David's account."
+        }
+      ]
+    },
+    {
+      "id": "investments",
+      "title": "Lesson 8: Making More from Your Money - Investments",
+      "definition": "Different ways to invest money include savings accounts, pension plans, stocks and shares, and property investment.",
+      "explanation": "Savings accounts: suitable for regular savers or fixed sum investments, benefit those who don't need to access money. Stocks and shares: risky but potentially profitable, for financially-minded people who follow markets. Property investment: buying property to rent out or sell later at profit, becoming more popular in the UK.",
+      "rules": "Savings accounts: safe, earn interest. Stocks and shares: risky, no guarantees. Property: safe long-term, rent pays instalments, profit when sold.",
+      "notes": "Key vocabulary: pension plans (retirement savings), stocks and shares (company ownership), investment (putting money to earn profit), property (land/buildings), mortgage (loan for property), break even (neither profit nor loss).",
+      "examples": [
+        {
+          "problem": "What are the different ways to invest money mentioned in the text?",
+          "solution": "Savings accounts, pension plans, stocks and shares, and property investment."
+        },
+        {
+          "problem": "Why is property investment becoming popular in the UK?",
+          "solution": "People buy property to rent out; the rent pays the loan instalments, and when the investor needs money, they can sell and realize the profit."
+        }
+      ]
+    },
+    {
+      "id": "unit_review",
+      "title": "Unit 6 Review",
+      "definition": "Review of key language points from Unit 6: relative clauses, passive voice, conditional sentences, deducing present and past, and formal expressions.",
+      "explanation": "Practice giving further details using relative clauses (My bank balance, which was positive yesterday, is now negative). Using passive voice (My bank was robbed yesterday! The money will be transferred by tomorrow). Using conditionals for past, present, and future possibilities (If I hadn't invested, I wouldn't have lost so much money. If we want to buy that house, we'll have to get a loan). Deducing present and past (He must be a very important client. I can't have left my card at the bank). Using formal expressions in letters (This letter is to inform you of a change in your account. Please find enclosed your statement).",
+      "rules": null,
+      "notes": "Review examples: The building where my old bank used to be. The money will be transferred by tomorrow. If I hadn't invested, I wouldn't have lost so much money. He must be a very important client. Please find enclosed your statement for last month.",
+      "examples": [
+        {
+          "problem": "Give an example of a relative clause about banking",
+          "solution": "My bank balance, which was positive yesterday, is now negative."
+        },
+        {
+          "problem": "Give an example of passive voice about banking",
+          "solution": "My bank was robbed yesterday! The money will be transferred by tomorrow."
+        },
+        {
+          "problem": "Give an example of a conditional sentence about investments",
+          "solution": "If I hadn't invested in those stocks, I wouldn't have lost so much money."
+        }
+      ]
+    }
+  ]
+}

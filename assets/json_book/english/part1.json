@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "book": "كتاب النشاط السادس الاعدادي",
+    "subject": "English Language",
+    "grade": 6,
+    "total_pages": 24,
+    "description": "Activity book for sixth grade preparatory students covering vocabulary, grammar, and language skills"
+  },
+  "sections": [
+    {
+      "id": "study_tip_1",
+      "title": "Study Tip - Learning Vocabulary",
+      "definition": "A good way to learn new words is to put connected words in sets.",
+      "explanation": "Using a dictionary, check the meaning of any words you don't know. Write the words in the correct set. There are five words in each set.",
+      "rules": null,
+      "notes": "Example of word sets: Fruit: apples, oranges, grapes, bananas, strawberries",
+      "examples": [
+        {
+          "problem": "Learning new vocabulary words",
+          "solution": "Group related words into sets to memorize them more effectively"
+        }
+      ]
+    },
+    {
+      "id": "study_tip_2",
+      "title": "Study Tip - Words with Similar Meanings",
+      "definition": "Words with similar meanings are not always interchangeable. It is easier to use a word correctly if you know whether it is a verb, a noun or an adjective.",
+      "explanation": "Be careful with these words: hurt, sore, pain. Hurt is a verb. Sore is an adjective. Pain is a noun.",
+      "rules": "Hurt is a verb (past simple: hurt). Sore is an adjective. Pain is a noun - in singular, it usually has an article.",
+      "notes": "My back hurts today. My back is sore. I have a pain in my stomach.",
+      "examples": [
+        {
+          "problem": "Choose correct word: 'My back ____ today'",
+          "solution": "hurts (verb form)"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_grammar",
+      "title": "Lesson 2: Past Continuous and Past Simple",
+      "definition": "We can use the past continuous and the past simple in the same sentence to show that one action happened in the middle of another action.",
+      "explanation": "We use the past continuous for the longer action and the past simple for the shorter action.",
+      "rules": "Use 'while' and 'as' with the past continuous tense. Use 'when' or 'and' with the past simple tense.",
+      "notes": "I was ice skating, and I fell over.",
+      "examples": [
+        {
+          "problem": "While Ali (have) a shower, somebody (knock) at the front door.",
+          "solution": "While Ali was having a shower, somebody knocked at the front door."
+        },
+        {
+          "problem": "I (clean) my room, and I (find) £30 under my bed.",
+          "solution": "I was cleaning my room, and I found £30 under my bed."
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_adjectives",
+      "title": "Lesson 3: Adjectives Ending in -ing or -ed",
+      "definition": "The -ed words describe the person who has the feeling. The -ing words describe what or who gives them that feeling.",
+      "explanation": "Don't forget the difference between frightening and frightened, boring and bored, interesting and interested.",
+      "rules": "Use -ed adjectives for feelings (bored, frightened). Use -ing adjectives for things that cause feelings (boring, frightening).",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "She is not very interested / interesting in fashion.",
+          "solution": "interested (describes her feeling)"
+        },
+        {
+          "problem": "This book is very bored / boring.",
+          "solution": "boring (describes the book that causes boredom)"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_adjectives_ful",
+      "title": "Lesson 3: Adjectives Ending in -ful",
+      "definition": "Adjectives ending in -ful have only one 'l', e.g., beautiful, peaceful. The adverb ending is -fully, e.g., beautifully, peacefully.",
+      "explanation": "Write four more adjectives ending in -ful.",
+      "rules": "Adjective: one 'l' (beautiful). Adverb: -fully (beautifully).",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Marwa sings beautiful / beautifully.",
+          "solution": "beautifully (adverb modifying the verb sings)"
+        },
+        {
+          "problem": "This is a very peaceful / peacefully area.",
+          "solution": "peaceful (adjective modifying the noun area)"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_phrasal_verbs",
+      "title": "Lesson 4: Phrasal Verbs",
+      "definition": "With some phrasal verbs, noun objects can come before or after the preposition. With pronoun objects, they must come before the preposition.",
+      "explanation": "Turn off the light OR Turn the light off. BUT: Turn it off (NOT: Turn off it).",
+      "rules": "Noun objects: can come before or after preposition. Pronoun objects: must come before preposition.",
+      "notes": "Common phrasal verbs: give up, take up, try on, turn down",
+      "examples": [
+        {
+          "problem": "Can you / turn on / the television?",
+          "solution": "Can you turn on the television? / Can you turn the television on?"
+        },
+        {
+          "problem": "I've already / turned on / it.",
+          "solution": "I've already turned it on."
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_prefixes",
+      "title": "Lesson 4: Prefixes Meaning Not",
+      "definition": "To form the opposite of some adjectives we can put prefixes: un-, in-, im-, il-, ir-.",
+      "explanation": "un- (unhappy), in- (inexpensive), im- (impossible), il- (illegal), ir- (irregular).",
+      "rules": "un- can go in front of any letter. im- can only go in front of m or p. il- can only go in front of l. ir- can only go in front of r.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Make opposite of: correct, moral, fair",
+          "solution": "incorrect, immoral, unfair"
+        }
+      ]
+    },
+    {
+      "id": "lesson_5_expressions_quantity",
+      "title": "Lesson 5: Expressions of Quantity",
+      "definition": "some, any, a lot of, plenty of and enough are used with countable and uncountable nouns. a few and many are used only with countable nouns. a little and much are used only with uncountable nouns.",
+      "explanation": "Countable: a few apples, many apples. Uncountable: a little oil, much oil.",
+      "rules": "With countable nouns: a few, many, (too) many, not many. With uncountable nouns: a little, much, (too) much, not much. With both: some, any, a lot of, plenty of, enough.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "How _____ food do we need? (much/many)",
+          "solution": "much (food is uncountable)"
+        },
+        {
+          "problem": "There were only _____ people at the party. (a few/a little)",
+          "solution": "a few (people is countable)"
+        }
+      ]
+    },
+    {
+      "id": "lesson_6_used_to",
+      "title": "Lesson 6: Used To - Past Habits",
+      "definition": "Used to is used to talk about past habits or states that are no longer true.",
+      "explanation": "In questions and negatives, drop the 'd' (used becomes use).",
+      "rules": "Affirmative: used to + verb. Negative: didn't use to + verb. Question: Did + subject + use to + verb?",
+      "notes": "Did you use to fight with your brother? What did you use to fight about?",
+      "examples": [
+        {
+          "problem": "Which TV programmes (you/watch) when you were little?",
+          "solution": "did you use to watch"
+        },
+        {
+          "problem": "We (not sit) around watching a box!",
+          "solution": "didn't use to sit"
+        }
+      ]
+    },
+    {
+      "id": "lesson_7_linking_words",
+      "title": "Lesson 7: Linking Words",
+      "definition": "Linking words connect ideas and sentences to create coherent text.",
+      "explanation": "Use linking words like: Firstly, Furthermore, In addition, Last but not least, As a result, Because, In my opinion.",
+      "rules": null,
+      "notes": "Common linking words: firstly, secondly, furthermore, in addition, as a result, because, in my opinion",
+      "examples": [
+        {
+          "problem": "Complete: In my _____, everyone should go jogging.",
+          "solution": "opinion"
+        }
+      ]
+    },
+    {
+      "id": "lesson_9_against_all_odds",
+      "title": "Lesson 9: Against All Odds - Najla's Story",
+      "definition": "Reading comprehension about Najla, an Iraqi Paralympic table tennis player who overcame adversity.",
+      "explanation": "Najla lost her legs in a bomb attack but became a champion table tennis player with prosthetic limbs.",
+      "rules": null,
+      "notes": "Key vocabulary: prostheses, Paralympic, exoskeleton, physical therapy",
+      "examples": [
+        {
+          "problem": "What happened to Najla as a result of the bomb attack?",
+          "solution": "She lost her legs and had to learn to live in a wheelchair."
+        },
+        {
+          "problem": "Why did the prostheses help Najla play better?",
+          "solution": "They allowed her to play in a different position and hold the racket properly."
+        }
+      ]
+    },
+    {
+      "id": "revision_phrasal_verbs",
+      "title": "Revision: Phrasal Verbs",
+      "definition": "Review of common phrasal verbs and their usage.",
+      "explanation": "Phrasal verbs: carry on, find out, give up, look after, pick up, turn off, turn on.",
+      "rules": "carry on = continue, find out = discover, give up = quit, look after = take care of, pick up = collect, turn off/on = switch off/on",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Dad, can you _____ me from football practice today?",
+          "solution": "pick up"
+        },
+        {
+          "problem": "I need you to _____ your little sister for a couple of hours.",
+          "solution": "look after"
+        }
+      ]
+    },
+    {
+      "id": "revision_past_continuous",
+      "title": "Revision: Past Continuous vs Past Simple",
+      "definition": "Review of using past continuous and past simple together.",
+      "explanation": "Use past continuous for longer background action, past simple for shorter completed action that interrupts.",
+      "rules": "Structure: While + past continuous, past simple. OR Past simple + when + past continuous.",
+      "notes": "Yesterday, I was skateboarding with my friends when I had a small accident.",
+      "examples": [
+        {
+          "problem": "Yesterday, I (skateboard) with my friends, when I (have) a small accident.",
+          "solution": "Yesterday, I was skateboarding with my friends, when I had a small accident."
+        }
+      ]
+    },
+    {
+      "id": "revision_expressions_quantity",
+      "title": "Revision: Expressions of Quantity",
+      "definition": "Review of quantifiers and which nouns they can be used with.",
+      "explanation": "much/many, a few/a little, some/any, a lot of/plenty of/enough.",
+      "rules": "much + uncountable, many + countable, a few + countable, a little + uncountable",
+      "notes": "Table: Only countable nouns - many, a few. Only uncountable nouns - much, a little. Both - some, any, a lot of, plenty of, enough.",
+      "examples": [
+        {
+          "problem": "Hurry up. There isn't _____ time before the bus leaves. (much/many)",
+          "solution": "much"
+        },
+        {
+          "problem": "Can you lend me a _____ money? (few/little)",
+          "solution": "little"
+        }
+      ]
+    },
+    {
+      "id": "revision_prefixes",
+      "title": "Revision: Negative Prefixes",
+      "definition": "Review of prefixes that form opposites: un-, in-, im-, il-, ir-.",
+      "explanation": "Complete words with correct prefix: il-, im-, un-, in-.",
+      "rules": "il- before l, im- before m/p, ir- before r, un- and in- for others.",
+      "notes": null,
+      "examples": [
+        {
+          "problem": "Don't be _____ (polite).",
+          "solution": "impolite"
+        },
+        {
+          "problem": "It's _____ (legal) to sell cigarettes to teenagers.",
+          "solution": "illegal"
+        }
+      ]
+    },
+    {
+      "id": "writing_assignment",
+      "title": "Writing Assignment: Cigarette Advertising",
+      "definition": "Write 100-120 words on the topic: 'Cigarette advertising should be illegal.'",
+      "explanation": "Consider these questions: How harmful are cigarettes? Where can advertisements be seen? Who sees them? What message do they give? Are young people easily influenced?",
+      "rules": "Essay should be 100-120 words. Include arguments for why cigarette advertising should be banned.",
+      "notes": "Consider: health effects on smokers and passive smokers, influence on young people, misleading advertisements showing attractive people smoking",
+      "examples": null
+    }
+  ]
+}
