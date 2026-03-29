@@ -1,0 +1,345 @@
+:root {
+    /* الألوان الباردة والمريحة */
+    --grad-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --grad-secondary: linear-gradient(135deg, #2af598 0%, #009efd 100%);
+    --primary-dark: #2d3748;
+    --text-dark: #4a5568;
+    --glass-bg: rgba(255, 255, 255, 0.65);
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    background-color: #f4f7fe;
+    height: 100vh;
+    overflow: hidden;
+    padding: 20px; /* هذا البادينغ هو اللي يفصل التصميم عن الشاشة ويسويه عائم */
+    gap: 25px; /* المسافة بين القائمة والمحتوى الرئيسي */
+    position: relative;
+    z-index: 1;
+}
+
+/* ========================================= */
+/* 🌟 الخلفية المتحركة الساحرة */
+/* ========================================= */
+.animated-bg {
+    position: fixed;
+    top: -50%; left: -50%;
+    width: 200%; height: 200%;
+    background: radial-gradient(circle at 50% 50%, rgba(102, 126, 234, 0.12), transparent 60%),
+                radial-gradient(circle at 80% 20%, rgba(42, 245, 152, 0.08), transparent 50%);
+    z-index: -1;
+    animation: bgMove 25s linear infinite;
+}
+
+@keyframes bgMove {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* ========================================= */
+/* 📱 القائمة الجانبية العائمة (Sidebar) */
+/* ========================================= */
+.sidebar {
+    width: 290px;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px);
+    border-radius: 35px;
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 15px 40px rgba(102, 126, 234, 0.08);
+    overflow-y: auto;
+}
+
+.logo-icon {
+    width: 65px;
+    height: 65px;
+    background: var(--grad-primary);
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+}
+
+/* أزرار القائمة الجانبية (الأيقونات بداخل مربعات) */
+.custom-nav-link {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: var(--text-dark) !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    text-decoration: none;
+}
+
+.nav-icon {
+    width: 45px;
+    height: 45px;
+    border-radius: 14px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    transition: all 0.4s ease;
+}
+
+.nav-icon i {
+    font-size: 1.3rem;
+    color: #a0aec0;
+    transition: all 0.4s ease;
+}
+
+/* عند التأشير بالماوس (Hover) */
+.custom-nav-link:hover {
+    background: rgba(255, 255, 255, 0.9) !important;
+    transform: translateX(-5px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.05);
+}
+
+.custom-nav-link:hover .nav-icon {
+    background: var(--grad-primary);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+}
+
+.custom-nav-link:hover .nav-icon i {
+    color: white;
+}
+
+/* الحالة النشطة (Active) */
+.custom-nav-link.active {
+    background: var(--grad-primary) !important;
+    color: white !important;
+    box-shadow: 0 12px 25px rgba(102, 126, 234, 0.4);
+}
+
+.custom-nav-link.active .nav-icon {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: none;
+}
+
+.custom-nav-link.active .nav-icon i {
+    color: white;
+}
+
+/* ========================================= */
+/* 💻 المحتوى الرئيسي العائم */
+/* ========================================= */
+.main-content {
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px);
+    border-radius: 35px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 15px 40px rgba(102, 126, 234, 0.05);
+    padding: 40px;
+    overflow-y: auto;
+}
+
+.page-title {
+    font-weight: 900;
+    background: var(--grad-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 40px;
+}
+
+/* ========================================= */
+/* 🗂️ البطاقات (Cards) والتأثير الزجاجي */
+/* ========================================= */
+.item-card {
+    background: var(--glass-bg);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    border-radius: 28px;
+    padding: 25px;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+}
+
+.item-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 20px 40px rgba(102, 126, 234, 0.15);
+    border-color: #667eea;
+}
+
+/* ========================================= */
+/* 🖱️ الأزرار الملونة */
+/* ========================================= */
+.btn-grad-primary {
+    background: var(--grad-primary);
+    border: none;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.btn-grad-secondary {
+    background: var(--grad-secondary);
+    border: none;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.btn-grad-primary:hover, .btn-grad-secondary:hover {
+    filter: brightness(1.15);
+    transform: translateY(-3px);
+    color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.action-btn {
+    transition: all 0.4s ease;
+    background: rgba(255, 255, 255, 0.9);
+}
+.action-btn:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 20px 30px rgba(102, 126, 234, 0.15) !important;
+}
+
+/* ========================================= */
+/* 🪟 النوافذ المنبثقة (Modals) */
+/* ========================================= */
+.glass-effect {
+    background: rgba(255, 255, 255, 0.85) !important;
+    backdrop-filter: blur(25px) saturate(200%);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.custom-select {
+    border-radius: 16px;
+    border: 2px solid #e2e8f0;
+    transition: all 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.custom-select:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.3rem rgba(102, 126, 234, 0.2);
+}
+
+/* ========================================= */
+/* 🔔 إشعارات التوست (Toasts) */
+/* ========================================= */
+.custom-toast {
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(15px);
+    border-radius: 20px !important;
+    border-right: 6px solid #667eea !important;
+    color: var(--text-dark) !important;
+    box-shadow: 0 20px 40px rgba(102, 126, 234, 0.15) !important;
+}
+
+/* ديف نتيجة التوليد */
+.result-card {
+    border-top: 6px solid #667eea !important;
+    animation: slideDown 0.6s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+}
+
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* ========================================= */
+/* 📱 التجاوب مع شاشات الموبايل والتابلت (Responsive Design) */
+/* ========================================= */
+
+/* شاشة التظليل (Overlay) في الموبايل */
+.sidebar-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(5px);
+    z-index: 999;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.sidebar-overlay.show {
+    display: block;
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 15px; /* تقليل الحواف بالموبايل */
+        gap: 0; /* إلغاء الفراغ بين القائمة والمحتوى */
+        overflow-y: auto; /* السماح بالتمرير بالموبايل */
+    }
+
+    /* إخفاء القائمة الجانبية وجعلها منزلقة */
+    .sidebar {
+        position: fixed;
+        top: 0;
+        right: -320px; /* مخفية خارج الشاشة من اليمين */
+        height: 100vh;
+        width: 280px;
+        z-index: 1000;
+        border-radius: 25px 0 0 25px; /* حواف من جهة اليسار فقط */
+        transition: right 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        box-shadow: -10px 0 40px rgba(0,0,0,0.15);
+    }
+
+    /* كلاس الفتح من الجافاسكربت */
+    .sidebar.open {
+        right: 0;
+    }
+
+    /* المحتوى الرئيسي للموبايل */
+    .main-content {
+        padding: 20px 15px;
+        border-radius: 25px;
+        height: auto;
+    }
+
+    /* تصغير العناوين بالموبايل */
+    .page-title {
+        font-size: 1.5rem;
+        margin-bottom: 25px;
+    }
+}
+/* ========================================= */
+/* 🕌 تنسيق النصوص القرآنية الاحترافية */
+/* ========================================= */
+.quran-text {
+    font-family: 'Amiri Quran', serif;
+    font-size: 2rem;
+    color: var(--primary-dark);
+    text-align: center;
+    line-height: 2.5;
+    margin: 20px 0;
+    padding: 20px;
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.05), rgba(212, 175, 55, 0.1));
+    border-radius: 20px;
+    border: 1px dashed rgba(212, 175, 55, 0.5);
+    box-shadow: inset 0 0 20px rgba(255,255,255,0.5);
+}
+
+/* ========================================= */
+/* 📝 قسم الأجوبة النموذجية */
+/* ========================================= */
+.answers-section {
+    display: none; /* مخفي افتراضياً */
+    margin-top: 30px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.7);
+    border-top: 3px dashed #cbd5e1;
+    border-radius: 0 0 25px 25px;
+    animation: fadeInAnswer 0.5s ease-out forwards;
+}
+
+@keyframes fadeInAnswer {
+    from { opacity: 0; transform: translateY(-15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* تنسيق المعادلات ليناسب الموبايل */
+.math-container {
+    overflow-x: auto; /* حتى إذا المعادلة طويلة ما تخرب الشاشة */
+    padding: 10px;
+}
