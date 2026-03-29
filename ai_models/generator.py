@@ -2,8 +2,8 @@ import json
 from groq import Groq
 from ai_models.samplers import get_smart_sample, extract_past_exam_pattern
 
-client = Groq(api_key="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")
-
+import os
+api_key = os.getenv("GROQ_API_KEY", "your_temp_key_here")
 
 def generate_exam_dynamic(material_data, previous_questions, prompt_questions, prompt_answers, subject_name="arabic"):
     print(f"\n[AI Engine] جاري تشغيل المحرك الوزاري لمادة: {subject_name} 🚀")
